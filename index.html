@@ -60,9 +60,20 @@ body{background:#050505;color:#fff;font-family:Helvetica,Arial,sans-serif;}
 </head>
 <body>
 
+<div id="lockscreen" style="position:fixed;top:0;left:0;width:100%;height:100%;background:#000;z-index:9999;display:flex;align-items:center;justify-content:center;">
+  <div style="background:#0a0a0a;border:1px solid #222;border-radius:14px;padding:48px 40px;text-align:center;width:340px;">
+    <div style="font-family:sans-serif;font-size:40px;font-weight:900;letter-spacing:4px;color:#f00;margin-bottom:4px;">AREA ZERO</div>
+    <div style="font-size:11px;color:#444;letter-spacing:3px;text-transform:uppercase;margin-bottom:28px;">Monitor de Novedades</div>
+    <input type="password" id="pwd" placeholder="Contrasena" onkeydown="if(event.key==='Enter')unlock()" style="width:100%;background:#111;border:1px solid #333;color:#fff;padding:12px;border-radius:8px;font-size:14px;outline:none;text-align:center;margin-bottom:12px;">
+    <button onclick="unlock()" style="width:100%;background:#f00;color:#fff;border:none;padding:12px;border-radius:8px;font-size:13px;font-weight:700;cursor:pointer;">Entrar</button>
+    <div id="err" style="color:#f00;font-size:12px;margin-top:10px;display:none;">Contrasena incorrecta</div>
+  </div>
+</div>
+
+<div id="app" style="display:none">
 <div class="hdr">
   <div class="logo">AREA<em>ZERO</em><small>novedades</small></div>
-  <div class="upd">Actualizacion: 31/03/2026 17:35</div>
+  <div class="upd">Actualizacion: 31/03/2026 17:46</div>
 </div>
 
 <div class="stats">
@@ -276,5 +287,6 @@ function reset(){
 }
 run();
 </script>
+</div>
 </body>
 </html>
