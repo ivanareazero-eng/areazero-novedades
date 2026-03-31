@@ -62,7 +62,7 @@ body{background:#050505;color:#fff;font-family:Helvetica,Arial,sans-serif;}
 
 <div class="hdr">
   <div class="logo">AREA<em>ZERO</em><small>novedades</small></div>
-  <div class="upd">Actualizacion: 31/03/2026 17:19</div>
+  <div class="upd">Actualizacion: 31/03/2026 17:26</div>
 </div>
 
 <div class="stats">
@@ -196,13 +196,14 @@ function card(p){
     +'<a class="clink" href="'+p.url+'" target="_blank">Ver producto</a>'
     +'</div></div>';
 }
-function tog(id){
-  var b=document.getElementById('b'+id);
-  var a=document.getElementById('a'+id);
+function tog(el){
+  var idx=el.getAttribute("data-idx");
+  var b=document.getElementById("b"+idx);
+  var a=document.getElementById("a"+idx);
   if(!b)return;
-  open[id]=!open[id];
-  b.style.display=open[id]?'block':'none';
-  a.style.transform=open[id]?'rotate(180deg)':'rotate(0)';
+  var o=b.style.display==="block";
+  b.style.display=o?"none":"block";
+  a.style.transform=o?"rotate(0)":"rotate(180deg)";
 }
 function xall(v){
   document.querySelectorAll('[id^="b"]').forEach(function(el){
@@ -212,6 +213,17 @@ function xall(v){
     if(el.id.length>1){el.style.transform=v?'rotate(180deg)':'rotate(0)';}
   });
   Object.keys(open).forEach(function(k){open[k]=!!v;});
+}
+function unlock(){
+  var p=document.getElementById("pwd").value;
+  if(p==="AZ2026!"){
+    document.getElementById("lockscreen").style.display="none";
+    document.getElementById("app").style.display="block";
+    run();
+  }else{
+    document.getElementById("err").style.display="block";
+    document.getElementById("pwd").value="";
+  }
 }
 function run(){
   var fb=document.getElementById('fb').value;
@@ -244,11 +256,11 @@ function run(){
     if(open[id]===undefined)open[id]=true;
     var nb=nc>0?'<span class="bnew">+'+nc+' nuevos</span>':'';
     html+='<div class="bsec">'
-      +'<div class="bhdr" data-id="'+id+'" onclick="tog(this.dataset.id)">'
+      +'<div class="bhdr" data-idx="'+idx+'" onclick="tog(this)">'
       +'<div class="bhl"><span class="bnm">'+br+'</span><span class="bcnt">'+prods.length+'</span>'+nb+'</div>'
-      +'<span class="barr" id="a'+id+'" style="transform:'+(open[id]?'rotate(180deg)':'rotate(0)')+'">&#9660;</span>'
+      +'<span class="barr" id="a'+idx+'" style="transform:'+(open[id]?'rotate(180deg)':'rotate(0)')+'">&#9660;</span>'
       +'</div>'
-      +'<div class="bbody" id="b'+id+'" style="display:'+(open[id]?'block':'none')+'">'
+      +'<div class="bbody" id="b'+idx+'" style="display:'+(open[id]?'block':'none')+'">'
       +'<div class="grid">'+prods.map(card).join('')+'</div>'
       +'</div></div>';
   });
