@@ -21,11 +21,14 @@ jobs:
         run: pip install requests beautifulsoup4 PyGithub
 
       - name: Descargar estado
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-          -H "Accept: application/vnd.github.v3.raw" \
-          "https://api.github.com/repos/ivanareazero-eng/areazero-novedades/contents/state.json" \
-          -o areazero_products_state.json || echo '{"products":{},"last_check":null}' > areazero_products_state.json
+          curl -s \
+            -H "Authorization: token $GH_TOKEN" \
+            -H "Accept: application/vnd.github.v3.raw" \
+            "https://api.github.com/repos/ivanareazero-eng/areazero-novedades/contents/state.json" \
+            -o areazero_products_state.json || echo '{"products":{},"last_check":null}' > areazero_products_state.json
 
       - name: Ejecutar monitor
         env:
@@ -35,25 +38,14 @@ jobs:
         run: python areazero_monitor_final_6_1.py
 
       - name: Guardar estado
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          python3 -c "
-import json, base64, urllib.request
-token = '${{ secrets.GH_TOKEN }}'
-api = 'https://api.github.com/repos/ivanareazero-eng/areazero-novedades/contents/state.json'
-headers = {'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json'}
-with open('areazero_products_state.json', 'rb') as f:
-    data = f.read()
-encoded = base64.b64encode(data).decode()
-req = urllib.request.Request(api, headers=headers)
-sha = None
-try:
-    with urllib.request.urlopen(req) as r:
-        sha = json.loads(r.read())['sha']
-except: pass
-payload = {'message': 'Actualizar estado', 'content': encoded}
-if sha: payload['sha'] = sha
-req2 = urllib.request.Request(api, data=json.dumps(payload).encode(), headers=headers, method='PUT')
-urllib.request.urlopen(req2)
-print('OK')
-"
+          python3 save_state.py
+
+      - name: Subir state.json
+        uses: actions/upload-artifact@v4
+        with:
+          name: state
+          path: areazero_products_state.json
 
