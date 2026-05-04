@@ -45,7 +45,7 @@ body{background:#f5f5f5;color:#111;font-family:Helvetica,Arial,sans-serif;}
 .ct{font-size:13px;font-weight:600;color:#111;line-height:1.3;margin-bottom:6px;}
 .cp{font-size:18px;font-weight:700;color:#cc0000;margin-bottom:8px;}
 .cl{display:inline-block;padding:6px 14px;background:#cc0000;color:#111;text-decoration:none;border-radius:6px;font-size:10px;font-weight:700;text-transform:uppercase;}
-.empty{text-align:center;padding:60px;color:#444;}</style></head><body><div id="lock"><div class="lbox"><div class="ltitle">AREA ZERO</div><div class="lsub">Monitor de Novedades</div><input type="password" id="lpwd" placeholder="Contrasena"><button id="lbtn">Entrar</button><div id="lerr">Contrasena incorrecta</div></div></div><div id="app" style="display:none"><div class="hdr"><div class="logo">AREA ZERO<span>Monitor de Novedades</span></div><div style="font-size:11px;color:#444">04/05/2026 12:42</div></div><div class="stats"><div class="stat"><div class="sn">587</div><div class="sl">Productos</div></div><div class="stat"><div class="sn r">0</div><div class="sl">Nuevos</div></div><div class="stat"><div class="sn" id="sm">587</div><div class="sl">Mostrando</div></div></div><div class="flt"><select id="fb" onchange="run()"><option value="">Todas las marcas</option><option value="11 DEGREES">11 DEGREES</option>
+.empty{text-align:center;padding:60px;color:#444;}</style></head><body><div id="lock"><div class="lbox"><div class="ltitle">AREA ZERO</div><div class="lsub">Monitor de Novedades</div><input type="password" id="lpwd" placeholder="Contrasena"><button id="lbtn">Entrar</button><div id="lerr">Contrasena incorrecta</div></div></div><div id="app" style="display:none"><div class="hdr"><div class="logo">AREA ZERO<span>Monitor de Novedades</span></div><div style="font-size:11px;color:#444">04/05/2026 12:57</div></div><div class="stats"><div class="stat"><div class="sn">587</div><div class="sl">Productos</div></div><div class="stat"><div class="sn r">0</div><div class="sl">Nuevos</div></div><div class="stat"><div class="sn" id="sm">587</div><div class="sl">Mostrando</div></div></div><div class="flt"><select id="fb" onchange="run()"><option value="">Todas las marcas</option><option value="11 DEGREES">11 DEGREES</option>
 <option value="47 BRAND">47 BRAND</option>
 <option value="47'Brand">47'Brand</option>
 <option value="ADIDAS">ADIDAS</option>
@@ -153,7 +153,8 @@ function run(){
     var prods=byB[br];
     var nc=prods.filter(function(p){return N.indexOf(p.handle)!==-1;}).length;
     var nb=nc>0?'<span class="bnew">+'+nc+' nuevos</span>':"";
-    html+='<div class="bsec"><div class="bhdr" data-i="'+i+'" onclick="tog(this)"><div class="bhl"><span class="bnm">'+br+'</span><span class="bcnt">'+prods.length+'</span>'+nb+'</div><span class="barr" id="a'+i+'" style="transform:rotate(0)">&#9660;</span></div><div class="bbody" id="b'+i+'" style="display:none"><div class="grid">'+prods.map(mk).join("")+'</div></div></div>';
+    var dot=nc>0?'<span style="display:inline-block;width:10px;height:10px;background:#00c97a;border-radius:50%;margin-left:8px;"></span>':"";
+    html+='<div class="bsec"><div class="bhdr" data-i="'+i+'" onclick="tog(this)"><div class="bhl"><span class="bnm">'+br+'</span><span class="bcnt">'+prods.length+'</span>'+nb+dot+'</div><span class="barr" id="a'+i+'" style="transform:rotate(0)">&#9660;</span></div><div class="bbody" id="b'+i+'" style="display:none"><div class="grid">'+prods.map(mk).join("")+'</div></div></div>';
   });
   document.getElementById("out").innerHTML=html||'<div class="empty">Sin resultados.</div>';
   document.getElementById("sm").textContent=list.length;
