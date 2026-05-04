@@ -150,8 +150,16 @@ def fetch_products():
 def load_state():
     path = Path(CONFIG["state_file"])
     if path.exists():
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            if "products" not in data:
+                data["products"] = {}
+            if "last_check" not in data:
+                data["last_check"] = None
+            return data
+        except Exception:
+            pass
     return {"products": {}, "last_check": None}
 
 
@@ -488,3 +496,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
