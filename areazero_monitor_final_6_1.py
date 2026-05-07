@@ -1,3 +1,4 @@
+import os
 #!/usr/bin/env python3
 """
 areazero.biz - Monitor de Novedades v6
@@ -43,7 +44,7 @@ HEADERS = {
 
 
 GITHUB = {
-    "token": "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",
+    "token": os.environ.get("GH_TOKEN", "GITHUB_TOKEN_HERE"),
     "user": "ivanareazero-eng",
     "repo": "areazero-novedades",
     "file": "index.html",
@@ -150,16 +151,8 @@ def fetch_products():
 def load_state():
     path = Path(CONFIG["state_file"])
     if path.exists():
-        try:
-            with open(path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            if "products" not in data:
-                data["products"] = {}
-            if "last_check" not in data:
-                data["last_check"] = None
-            return data
-        except Exception:
-            pass
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
     return {"products": {}, "last_check": None}
 
 
@@ -496,4 +489,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
