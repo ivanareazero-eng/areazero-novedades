@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Novedades · AREA ZERO</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23D2140F'/%3E%3Ctext x='16' y='23' font-family='Arial Black,Arial' font-weight='900' font-size='17' fill='white' text-anchor='middle'%3EAZ%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#EEEFEC;
+  --surface:#FFFFFF;
+  --ink:#17181A;
+  --muted:#676B70;
+  --line:#D9DBD8;
+  --red:#D2140F;
+  --red-ink:#A50F0B;
+  --green:#127A4A;
+  --green-bg:#E3F2EA;
+  --amber:#8A5A00;
+  --shadow:0 1px 2px rgba(23,24,26,.06),0 6px 18px rgba(23,24,26,.06);
+  --display:'Anton',Impact,'Arial Narrow Bold',sans-serif;
+  --text:'Archivo',system-ui,-apple-system,'Segoe UI',Arial,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--text);font-size:15px;line-height:1.45}
+a{color:inherit}
+button,input,select{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--red);outline-offset:2px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+
+/* ---------- acceso ---------- */
+#lock{position:fixed;inset:0;z-index:50;display:grid;place-items:center;padding:16px;background:var(--ink)}
+.lock-card{width:100%;max-width:360px;background:var(--surface);border-radius:14px;padding:36px 28px 28px}
+.mark{font-family:var(--display);font-size:44px;line-height:.95;letter-spacing:.01em;text-transform:uppercase}
+.mark b{color:var(--red);font-weight:400}
+.lock-card p{color:var(--muted);margin:10px 0 24px}
+.field{display:block;width:100%;height:46px;border:1px solid var(--line);border-radius:8px;padding:0 14px;background:#fff;font-size:16px}
+.field:focus{border-color:var(--ink);outline:none}
+.remember{display:flex;gap:8px;align-items:center;margin:12px 0 16px;color:var(--muted);font-size:14px}
+.btn-primary{width:100%;height:46px;border:0;border-radius:8px;background:var(--red);color:#fff;font-weight:700;cursor:pointer}
+.btn-primary:hover{background:var(--red-ink)}
+.lock-err{color:var(--red-ink);font-size:14px;margin-top:10px;min-height:20px}
+
+/* ---------- cabecera ---------- */
+.top{position:sticky;top:0;z-index:20;background:var(--ink);color:#fff}
+.top-in{max-width:1440px;margin:0 auto;padding:12px 24px;display:flex;align-items:center;gap:16px}
+.top .mark{font-size:26px;color:#fff;white-space:nowrap}
+.short{display:none}
+.top-sep{width:1px;height:22px;background:#3A3C40}
+.top-title{font-weight:600}
+.top-meta{margin-left:auto;color:#B9BCC1;font-size:13px;text-align:right}
+.top-meta strong{color:#fff;font-weight:600}
+.btn-ghost{background:transparent;border:1px solid #3A3C40;color:#fff;border-radius:6px;padding:6px 10px;font-size:13px;cursor:pointer}
+.btn-ghost:hover{border-color:#fff}
+
+/* ---------- barra de filtros ---------- */
+.bar{background:var(--surface);border-bottom:1px solid var(--line);position:sticky;top:52px;z-index:15}
+.bar-in{max-width:1440px;margin:0 auto;padding:12px 24px;display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center}
+.search{position:relative;flex:1 1 260px;max-width:420px}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted)}
+.search input{width:100%;height:40px;border:1px solid var(--line);border-radius:8px;padding:0 12px 0 36px;background:var(--bg)}
+.search input:focus{outline:none;border-color:var(--ink);background:#fff}
+.seg{display:inline-flex;background:var(--bg);border-radius:8px;padding:3px}
+.seg button{border:0;background:transparent;padding:7px 12px;border-radius:6px;font-size:14px;font-weight:500;color:var(--muted);cursor:pointer;white-space:nowrap}
+.seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.12)}
+.sel{height:40px;border:1px solid var(--line);border-radius:8px;padding:0 10px;background:var(--surface);font-size:14px}
+.chk{display:inline-flex;gap:7px;align-items:center;font-size:14px;color:var(--muted);cursor:pointer;white-space:nowrap}
+.chk input{accent-color:var(--red);width:16px;height:16px}
+
+/* ---------- cuerpo ---------- */
+.wrap{max-width:1440px;margin:0 auto;padding:24px;display:grid;grid-template-columns:230px 1fr;gap:28px;align-items:start}
+.brands{position:sticky;top:130px;max-height:calc(100vh - 150px);overflow:auto;padding-right:4px}
+.brands h2{font-size:13px;font-weight:600;color:var(--muted);margin:0 0 8px 10px}
+.brand-btn{display:flex;justify-content:space-between;align-items:center;width:100%;border:0;background:transparent;text-align:left;padding:7px 10px;border-radius:6px;font-size:14px;cursor:pointer}
+.brand-btn:hover{background:#E2E4E0}
+.brand-btn[aria-pressed="true"]{background:var(--ink);color:#fff}
+.brand-btn .n{font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px}
+.brand-btn[aria-pressed="true"] .n{color:#B9BCC1}
+.brand-btn .dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--green);margin-left:6px;vertical-align:middle}
+
+.summary{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 18px;margin-bottom:6px;color:var(--muted)}
+.summary strong{color:var(--ink)}
+.notice{background:var(--green-bg);color:var(--green);border-radius:8px;padding:10px 14px;margin:10px 0 4px;font-weight:500}
+.notice button{background:none;border:0;color:inherit;text-decoration:underline;cursor:pointer;font-weight:600}
+
+/* el elemento con carácter: rótulos de fecha tipo cartel de almacén */
+.group{margin-top:34px}
+.group:first-of-type{margin-top:18px}
+.ghead{display:flex;align-items:flex-end;gap:14px;border-bottom:3px solid var(--ink);padding-bottom:8px;margin-bottom:16px}
+.ghead h3{font-family:var(--display);font-weight:400;font-size:clamp(34px,4.2vw,56px);line-height:.9;text-transform:uppercase;letter-spacing:.005em}
+.ghead .count{font-family:var(--display);font-size:clamp(34px,4.2vw,56px);line-height:.9;color:var(--red)}
+.ghead .sub{margin-left:auto;color:var(--muted);font-size:14px;padding-bottom:3px}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:16px}
+.card{position:relative;display:flex;flex-direction:column;background:var(--surface);border-radius:10px;overflow:hidden;text-decoration:none;box-shadow:var(--shadow);transition:transform .15s ease}
+.card:hover{transform:translateY(-2px)}
+.ph{aspect-ratio:4/5;background:#fff;display:grid;place-items:center;border-bottom:1px solid #F0F1EF}
+.ph img{width:100%;height:100%;object-fit:contain;padding:8px}
+.ph .noimg{color:var(--muted);font-size:13px}
+.card.out .ph img{opacity:.45}
+.tags{position:absolute;top:8px;left:8px;right:8px;display:flex;gap:6px;flex-wrap:wrap}
+.tag{font-size:12px;font-weight:600;padding:3px 8px;border-radius:999px;background:var(--ink);color:#fff}
+.tag.new{background:var(--green)}
+.tag.sale{background:var(--red)}
+.tag.out{background:#fff;color:var(--ink);border:1px solid var(--line)}
+.info{padding:12px 12px 14px;display:flex;flex-direction:column;gap:4px;flex:1}
+.b{font-size:12px;font-weight:700;color:var(--red-ink)}
+.t{font-size:14px;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.6em}
+.price{display:flex;gap:8px;align-items:baseline;margin-top:4px}
+.price .now{font-weight:700;font-size:16px;font-variant-numeric:tabular-nums}
+.price .was{color:var(--muted);text-decoration:line-through;font-size:13px}
+.price .now.red{color:var(--red)}
+.meta{margin-top:auto;padding-top:6px;color:var(--muted);font-size:12px;display:flex;justify-content:space-between;gap:6px}
+
+.empty{background:var(--surface);border-radius:10px;padding:40px 24px;text-align:center;color:var(--muted);margin-top:24px}
+.empty strong{display:block;color:var(--ink);font-size:17px;margin-bottom:6px}
+.empty button{margin-top:14px;border:1px solid var(--ink);background:none;border-radius:8px;padding:8px 14px;cursor:pointer;font-weight:600}
+.more{display:block;margin:18px auto 0;border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:10px 18px;cursor:pointer;font-weight:600}
+
+/* ---------- móvil ---------- */
+@media (max-width:900px){
+  .wrap{grid-template-columns:1fr;padding:16px;gap:12px}
+  .brands{position:static;max-height:none;display:flex;gap:6px;overflow-x:auto;padding:0 0 4px;-webkit-overflow-scrolling:touch}
+  .brands h2{display:none}
+  .brand-btn{width:auto;flex:0 0 auto;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:6px 12px}
+  .top-in,.bar-in{padding-left:16px;padding-right:16px}
+  .bar{position:static}
+  .top-sep,.top-title{display:none}
+  .long{display:none}.short{display:inline}
+  .top-meta{font-size:12px}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .ghead .sub{display:none}
+  .search{max-width:none;flex-basis:100%}
+}
+@media (prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
+</style>
+</head>
+<body>
+
+<div id="lock" role="dialog" aria-labelledby="lock-title">
+  <form class="lock-card" id="lockForm" autocomplete="off">
+    <div class="mark" id="lock-title">Area <b>Zero</b></div>
+    <p>Novedades de la web. Introduce la contraseña del equipo.</p>
+    <label class="sr" for="pwd">Contraseña</label>
+    <input class="field" id="pwd" type="password" placeholder="Contraseña" autofocus>
+    <label class="remember"><input type="checkbox" id="remember" checked> Recordar en este dispositivo</label>
+    <button class="btn-primary" type="submit">Entrar</button>
+    <div class="lock-err" id="lockErr" role="alert"></div>
+  </form>
+</div>
+
+<div id="app" hidden>
+  <header class="top">
+    <div class="top-in">
+      <div class="mark">Area <b>Zero</b></div>
+      <span class="top-sep" aria-hidden="true"></span>
+      <span class="top-title">Novedades</span>
+      <div class="top-meta" id="updated"></div>
+      <button class="btn-ghost" id="logout" type="button">Salir</button>
+    </div>
+  </header>
+
+  <div class="bar">
+    <div class="bar-in">
+      <label class="search">
+        <span class="sr">Buscar</span>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Buscar producto o marca">
+      </label>
+      <div class="seg" role="group" aria-label="Periodo" id="period">
+        <button type="button" data-d="7">7 días</button>
+        <button type="button" data-d="30">30 días</button>
+        <button type="button" data-d="90">3 meses</button>
+        <button type="button" data-d="0">Todo</button>
+      </div>
+      <div class="seg" role="group" aria-label="Agrupar" id="groupBy">
+        <button type="button" data-g="date">Por fecha</button>
+        <button type="button" data-g="brand">Por marca</button>
+      </div>
+      <label><span class="sr">Ordenar</span>
+        <select class="sel" id="sort">
+          <option value="new">Más recientes</option>
+          <option value="pa">Precio: menor a mayor</option>
+          <option value="pd">Precio: mayor a menor</option>
+        </select>
+      </label>
+      <label class="chk"><input type="checkbox" id="stock"> Solo con stock</label>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <nav class="brands" aria-label="Marcas" id="brands"></nav>
+    <section>
+      <div class="summary" id="summary"></div>
+      <div id="notice"></div>
+      <div id="out"></div>
+    </section>
+  </main>
+</div>
+
+<script>
+var DATA = __DATA__;
+var PASS = "areazero2026";
+var KEY = "az-novedades-ok";
+
+(function(){
+  var P = DATA.products || [];
+  var NEW = {}; (DATA.new || []).forEach(function(h){ NEW[h] = 1; });
+  var DAY = 86400000;
+  var today = new Date(); today.setHours(0,0,0,0);
+
+  P.forEach(function(p){
+    var d = new Date(p.created_at || p.found_at);
+    if (isNaN(d)) d = new Date(p.found_at);
+    p._d = d;
+    var dd = new Date(d); dd.setHours(0,0,0,0);
+    p._age = Math.max(0, Math.round((today - dd) / DAY));
+    p._new = !!NEW[p.handle];
+    p._s = (p.title + " " + p.brand + " " + (p.type || "")).toLowerCase();
+  });
+
+  var state = { days: 30, group: "date", sort: "new", stock: false, brand: "", q: "", limit: 240 };
+
+  function $(id){ return document.getElementById(id); }
+  function esc(s){ return String(s == null ? "" : s).replace(/[&<>"]/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
+  function eur(n){ return n ? n.toLocaleString("es-ES", {style:"currency", currency:"EUR"}) : ""; }
+  function fmtDate(d){ return d.toLocaleDateString("es-ES", {day:"numeric", month:"short"}); }
+  function ago(n){ return n === 0 ? "Hoy" : n === 1 ? "Ayer" : "Hace " + n + " días"; }
+
+  /* ---- acceso ---- */
+  function open(){ $("lock").hidden = true; $("lock").style.display = "none"; $("app").hidden = false; render(); }
+  try { if (localStorage.getItem(KEY) === "1") open(); } catch(e){}
+  $("lockForm").addEventListener("submit", function(e){
+    e.preventDefault();
+    if ($("pwd").value.trim() === PASS){
+      try { if ($("remember").checked) localStorage.setItem(KEY, "1"); } catch(e){}
+      open();
+    } else {
+      $("lockErr").textContent = "Contraseña incorrecta. Pídela a Iván si no la tienes.";
+      $("pwd").select();
+    }
+  });
+  $("logout").addEventListener("click", function(){
+    try { localStorage.removeItem(KEY); } catch(e){}
+    location.reload();
+  });
+
+  /* ---- cabecera ---- */
+  var up = new Date(DATA.updated);
+  var newCount = P.filter(function(p){ return p._new; }).length;
+  var hh = esc(up.toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"}));
+  $("updated").innerHTML = '<span class="long">Actualizado <strong>' + esc(up.toLocaleDateString("es-ES",{weekday:"long",day:"numeric",month:"long"})) + ", " + hh + '</strong></span>' +
+    '<span class="short">Act. <strong>' + esc(up.toLocaleDateString("es-ES",{day:"numeric",month:"short"})) + ", " + hh + '</strong></span>';
+
+  /* ---- controles ---- */
+  function pressed(groupEl, attr, val){
+    [].forEach.call(groupEl.querySelectorAll("button"), function(b){ b.setAttribute("aria-pressed", String(b.getAttribute(attr) === String(val))); });
+  }
+  $("period").addEventListener("click", function(e){ var b = e.target.closest("button"); if(!b) return; state.days = +b.dataset.d; state.limit = 240; render(); });
+  $("groupBy").addEventListener("click", function(e){ var b = e.target.closest("button"); if(!b) return; state.group = b.dataset.g; render(); });
+  $("sort").addEventListener("change", function(e){ state.sort = e.target.value; render(); });
+  $("stock").addEventListener("change", function(e){ state.stock = e.target.checked; render(); });
+  var t; $("q").addEventListener("input", function(e){ clearTimeout(t); t = setTimeout(function(){ state.q = e.target.value.toLowerCase().trim(); state.limit = 240; render(); }, 120); });
+  $("brands").addEventListener("click", function(e){ var b = e.target.closest("button"); if(!b) return; state.brand = (state.brand === b.dataset.b) ? "" : b.dataset.b; state.limit = 240; render(); });
+  $("out").addEventListener("click", function(e){
+    if (e.target.id === "reset"){ state.days = 0; state.brand = ""; state.q = ""; state.stock = false; $("q").value = ""; $("stock").checked = false; render(); }
+    if (e.target.id === "more"){ state.limit += 240; render(); }
+  });
+  $("notice").addEventListener("click", function(e){ if (e.target.id === "onlyNew"){ state.days = 0; state.onlyNew = !state.onlyNew; render(); } });
+
+  function inPeriod(p){ return !state.days || p._age < state.days; }
+
+  function card(p){
+    var tags = "";
+    if (p._new) tags += '<span class="tag new">Nuevo</span>';
+    if (p.compare) tags += '<span class="tag sale">-' + Math.round((1 - p.price / p.compare) * 100) + '%</span>';
+    if (!p.available) tags += '<span class="tag out">Agotado</span>';
+    var img = p.image_url ? '<img src="' + esc(p.image_url) + '" alt="" loading="lazy" decoding="async">' : '<span class="noimg">Sin foto</span>';
+    var price = p.price ? '<div class="price"><span class="now' + (p.compare ? ' red' : '') + '">' + eur(p.price) + '</span>' +
+      (p.compare ? '<span class="was">' + eur(p.compare) + '</span>' : '') + '</div>' : '';
+    return '<a class="card' + (p.available ? '' : ' out') + '" href="' + esc(p.url) + '" target="_blank" rel="noopener">' +
+      '<div class="ph">' + img + '</div>' + (tags ? '<div class="tags">' + tags + '</div>' : '') +
+      '<div class="info"><span class="b">' + esc(p.brand) + '</span><span class="t">' + esc(p.title) + '</span>' + price +
+      '<div class="meta"><span>' + ago(p._age) + '</span><span>' + esc(fmtDate(p._d)) + '</span></div></div></a>';
+  }
+
+  function bucket(age){
+    if (age === 0) return [0, "Hoy"];
+    if (age === 1) return [1, "Ayer"];
+    if (age < 7)  return [2, "Esta semana"];
+    if (age < 14) return [3, "La semana pasada"];
+    if (age < 31) return [4, "Este mes"];
+    if (age < 62) return [5, "El mes pasado"];
+    return [6, "Más antiguo"];
+  }
+
+  function render(){
+    pressed($("period"), "data-d", state.days);
+    pressed($("groupBy"), "data-g", state.group);
+
+    var base = P.filter(function(p){
+      if (!inPeriod(p)) return false;
+      if (state.stock && !p.available) return false;
+      if (state.onlyNew && !p._new) return false;
+      if (state.q && p._s.indexOf(state.q) === -1) return false;
+      return true;
+    });
+
+    /* marcas, contadas dentro del periodo y la búsqueda */
+    var bc = {}, bn = {};
+    base.forEach(function(p){ bc[p.brand] = (bc[p.brand] || 0) + 1; if (p._new) bn[p.brand] = 1; });
+    var bl = Object.keys(bc).sort(function(a,b){ return a.localeCompare(b, "es"); });
+    if (state.brand && !bc[state.brand]) bl.unshift(state.brand);
+    $("brands").innerHTML = '<h2>Marcas</h2>' +
+      '<button type="button" class="brand-btn" data-b="" aria-pressed="' + (!state.brand) + '"><span>Todas</span><span class="n">' + base.length + '</span></button>' +
+      bl.map(function(b){
+        return '<button type="button" class="brand-btn" data-b="' + esc(b) + '" aria-pressed="' + (state.brand === b) + '"><span>' + esc(b) +
+          (bn[b] ? '<span class="dot" title="Con productos nuevos"></span>' : '') + '</span><span class="n">' + (bc[b] || 0) + '</span></button>';
+      }).join("");
+
+    var list = state.brand ? base.filter(function(p){ return p.brand === state.brand; }) : base;
+    list.sort(function(a,b){
+      if (state.sort === "pa") return (a.price || 9e9) - (b.price || 9e9);
+      if (state.sort === "pd") return (b.price || 0) - (a.price || 0);
+      return b._d - a._d;
+    });
+
+    var periodTxt = state.days ? "en los últimos " + (state.days === 90 ? "3 meses" : state.days + " días") : "en total";
+    $("summary").innerHTML = "<span><strong>" + list.length + "</strong> productos " + periodTxt +
+      (state.brand ? " de <strong>" + esc(state.brand) + "</strong>" : "") + "</span>" +
+      "<span>" + P.length + " en la colección Novedades</span>";
+
+    $("notice").innerHTML = newCount ?
+      '<div class="notice">' + (state.onlyNew ? 'Mostrando solo los ' + newCount + ' productos nuevos desde la última revisión. <button id="onlyNew" type="button">Ver todos</button>'
+        : newCount + (newCount === 1 ? ' producto nuevo' : ' productos nuevos') + ' desde la última revisión. <button id="onlyNew" type="button">Ver solo esos</button>') + '</div>' : '';
+
+    if (!list.length){
+      $("out").innerHTML = '<div class="empty"><strong>No hay productos con estos filtros</strong>Prueba a ampliar el periodo o quitar la búsqueda.<br><button id="reset" type="button">Ver todo</button></div>';
+      return;
+    }
+
+    var shown = list.slice(0, state.limit), groups = [], idx = {};
+    shown.forEach(function(p){
+      var k, label;
+      if (state.group === "brand"){ k = p.brand; label = p.brand; }
+      else { var bk = bucket(p._age); k = bk[0]; label = bk[1]; }
+      if (!(k in idx)){ idx[k] = groups.length; groups.push({k:k, label:label, items:[]}); }
+      groups[idx[k]].items.push(p);
+    });
+    if (state.group === "brand") groups.sort(function(a,b){ return a.label.localeCompare(b.label, "es"); });
+    else if (state.sort === "new") groups.sort(function(a,b){ return a.k - b.k; });
+
+    $("out").innerHTML = groups.map(function(g){
+      var sub = "";
+      if (state.group === "date" && g.items.length){
+        var a = g.items.reduce(function(m,p){ return p._d < m ? p._d : m; }, g.items[0]._d);
+        var z = g.items.reduce(function(m,p){ return p._d > m ? p._d : m; }, g.items[0]._d);
+        sub = fmtDate(a) === fmtDate(z) ? fmtDate(z) : fmtDate(a) + " – " + fmtDate(z);
+      }
+      return '<div class="group"><div class="ghead"><h3>' + esc(g.label) + '</h3><span class="count">' + g.items.length + '</span>' +
+        (sub ? '<span class="sub">' + esc(sub) + '</span>' : '') + '</div><div class="grid">' + g.items.map(card).join("") + '</div></div>';
+    }).join("") + (list.length > state.limit ? '<button class="more" id="more" type="button">Cargar más (' + (list.length - state.limit) + ' restantes)</button>' : '');
+  }
+})();
+</script>
+</body>
+</html>
