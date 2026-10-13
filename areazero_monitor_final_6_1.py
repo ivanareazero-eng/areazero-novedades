@@ -1,4 +1,3 @@
-import os
 #!/usr/bin/env python3
 """
 areazero.biz - Monitor de Novedades v6
@@ -6,6 +5,7 @@ Dashboard HTML interactivo + email de aviso
 """
 
 import json
+import os
 import smtplib
 import time
 from collections import defaultdict
@@ -22,8 +22,8 @@ CONFIG = {
     "pages_to_check": 10,
     "smtp_host": "smtp.gmail.com",
     "smtp_port": 587,
-    "sender_email": "ivanareazero@gmail.com",
-    "sender_password": "xpgojcalxvhxmswp",
+    "sender_email": os.environ.get("GMAIL_USER", "ivanareazero@gmail.com"),
+    "sender_password": os.environ.get("GMAIL_PASS", ""),
     "sender_name": "areazero Monitor",
     "recipients": [
         "ivanareazero@gmail.com",
@@ -33,7 +33,7 @@ CONFIG = {
         "alvaroareazero@gmail.com",
     ],
     "state_file": "areazero_products_state.json",
-    "dashboard_file": "areazero_dashboard.html",
+    "dashboard_file": "index.html",
     "send_if_no_changes": False,
 }
 
@@ -151,8 +151,15 @@ def fetch_products():
 def load_state():
     path = Path(CONFIG["state_file"])
     if path.exists():
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, dict) and isinstance(data.get("products"), dict):
+                data.setdefault("last_check", None)
+                return data
+            print("  Estado no valido, se empieza de cero.")
+        except Exception as e:
+            print("  No se pudo leer el estado ({}), se empieza de cero.".format(e))
     return {"products": {}, "last_check": None}
 
 
@@ -393,8 +400,7 @@ def send_alert_email(new_products):
   </div>
   <div style="text-align:center;background:#eeeeee;border:1px solid #ddd;border-radius:8px;padding:12px;">
     <div style="font-size:12px;color:#888;margin-bottom:4px;">Abre tu dashboard para ver todos los detalles</div>
-    <div style="font-size:12px;color:#111;font-weight:700;">areazero_dashboard.html</div>
-    <div style="font-size:11px;color:#666;margin-top:3px;">Carpeta: AREA ZERO MONITOR</div>
+    <div style="font-size:12px;color:#111;font-weight:700;"><a href="https://ivanareazero-eng.github.io/areazero-novedades/" style="color:#cc0000;">Abrir dashboard</a></div>
   </div>
 </td></tr>
 <tr><td style="padding:12px 26px;text-align:center;border-top:1px solid #1a1a1a;">
@@ -416,6 +422,9 @@ def send_alert_email(new_products):
     msg["From"] = "{} <{}>".format(CONFIG["sender_name"], CONFIG["sender_email"])
     msg["To"] = ", ".join(CONFIG["recipients"])
     msg.attach(MIMEText(html, "html", "utf-8"))
+    if not CONFIG["sender_password"]:
+        print("  Sin GMAIL_PASS configurado: no se envia email.")
+        return False
     try:
         with smtplib.SMTP(CONFIG["smtp_host"], CONFIG["smtp_port"]) as srv:
             srv.ehlo(); srv.starttls()
@@ -472,8 +481,6 @@ def main():
     with open(path, "w", encoding="utf-8") as f:
         f.write(html)
     print("  Guardado: {}".format(path.resolve()))
-    print("  Subiendo a GitHub Pages...")
-    upload_to_github(html)
 
     if new_prods:
         print("  Enviando email...")

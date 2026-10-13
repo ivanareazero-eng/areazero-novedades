@@ -2,50 +2,48 @@ name: areazero Monitor
 
 on:
   schedule:
-    - cron: '0 17 * * *'
+    # 07:00 UTC (09:00 Madrid en verano / 08:00 en invierno) y 17:00 UTC (19:00 / 18:00)
+    - cron: '7 7 * * *'
+    - cron: '7 17 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor
+  cancel-in-progress: false
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Instalar dependencias
-        run: pip install requests beautifulsoup4 PyGithub
-
-      - name: Descargar estado
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          curl -s \
-            -H "Authorization: token $GH_TOKEN" \
-            -H "Accept: application/vnd.github.v3.raw" \
-            "https://api.github.com/repos/ivanareazero-eng/areazero-novedades/contents/state.json" \
-            -o areazero_products_state.json || echo '{"products":{},"last_check":null}' > areazero_products_state.json
+        run: pip install requests
 
       - name: Ejecutar monitor
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_PASS: ${{ secrets.GMAIL_PASS }}
         run: python areazero_monitor_final_6_1.py
 
-      - name: Guardar estado
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Guardar dashboard y estado en el repo
         run: |
-          python3 save_state.py
-
-      - name: Subir state.json
-        uses: actions/upload-artifact@v4
-        with:
-          name: state
-          path: areazero_products_state.json
-
+          git config user.name "areazero-monitor"
+          git config user.email "areazero-monitor@users.noreply.github.com"
+          git add index.html areazero_products_state.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "Actualizar dashboard novedades $(date -u +'%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
+            git push
+          fi
