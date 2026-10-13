@@ -482,7 +482,11 @@ def main():
         f.write(html)
     print("  Guardado: {}".format(path.resolve()))
 
-    if new_prods:
+    if os.environ.get("TEST_EMAIL") == "1":
+        print("  Email de PRUEBA (solo al remitente)...")
+        CONFIG["recipients"] = [CONFIG["sender_email"]]
+        send_alert_email(current[:3])
+    elif new_prods:
         print("  Enviando email...")
         send_alert_email(new_prods)
     elif CONFIG["send_if_no_changes"]:

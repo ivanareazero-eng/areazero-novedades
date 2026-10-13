@@ -6,6 +6,11 @@ on:
     - cron: '7 7 * * *'
     - cron: '7 17 * * *'
   workflow_dispatch:
+    inputs:
+      test_email:
+        description: 'Enviar email de prueba solo a ivanareazero@gmail.com'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -33,6 +38,7 @@ jobs:
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_PASS: ${{ secrets.GMAIL_PASS }}
+          TEST_EMAIL: ${{ inputs.test_email && '1' || '0' }}
         run: python areazero_monitor_final_6_1.py
 
       - name: Guardar dashboard y estado en el repo
