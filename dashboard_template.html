@@ -81,7 +81,10 @@ button,input,select{font:inherit;color:inherit}
 
 /* ---------- cuerpo ---------- */
 .wrap{max-width:1440px;margin:0 auto;padding:24px;display:grid;grid-template-columns:230px 1fr;gap:28px;align-items:start}
-.brands{position:sticky;top:130px;max-height:calc(100vh - 150px);overflow:auto;padding-right:4px}
+.brands{position:sticky;top:130px;max-height:calc(100vh - 150px);overflow:auto;padding-right:4px;scrollbar-width:thin;scrollbar-color:#C9CCC8 transparent}
+.brands::-webkit-scrollbar{width:6px;height:6px}
+.brands::-webkit-scrollbar-thumb{background:#C9CCC8;border-radius:3px}
+.brands::-webkit-scrollbar-track{background:transparent}
 .brands h2{font-size:13px;font-weight:600;color:var(--muted);margin:0 0 8px 10px}
 .brand-btn{display:flex;justify-content:space-between;align-items:center;width:100%;border:0;background:transparent;text-align:left;padding:7px 10px;border-radius:6px;font-size:14px;cursor:pointer}
 .brand-btn:hover{background:#E2E4E0}
@@ -92,8 +95,17 @@ button,input,select{font:inherit;color:inherit}
 
 .summary{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 18px;margin-bottom:6px;color:var(--muted)}
 .summary strong{color:var(--ink)}
-.notice{background:var(--green-bg);color:var(--green);border-radius:8px;padding:10px 14px;margin:10px 0 4px;font-weight:500}
-.notice button{background:none;border:0;color:inherit;text-decoration:underline;cursor:pointer;font-weight:600}
+.notice{display:flex;align-items:center;gap:18px;flex-wrap:wrap;background:var(--surface);border-left:6px solid var(--green);border-radius:10px;padding:16px 20px;margin:14px 0 4px;box-shadow:var(--shadow)}
+.notice.quiet{border-left-color:var(--line)}
+.notice .big{font-family:var(--display);font-size:52px;line-height:.85;color:var(--green)}
+.notice.quiet .big{color:var(--ink)}
+.notice .txt{flex:1 1 220px}
+.notice .txt strong{display:block;font-size:17px}
+.notice .txt span{color:var(--muted);font-size:14px}
+.notice .acts{display:flex;gap:8px;flex-wrap:wrap}
+.notice button{border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:8px 14px;cursor:pointer;font-weight:600;font-size:14px}
+.notice button.go{background:var(--green);border-color:var(--green);color:#fff}
+.notice button.go[aria-pressed="true"]{background:var(--ink);border-color:var(--ink)}
 
 /* el elemento con carácter: rótulos de fecha tipo cartel de almacén */
 .group{margin-top:34px}
@@ -217,7 +229,14 @@ var KEY = "az-novedades-ok";
 
 (function(){
   var P = DATA.products || [];
-  var NEW = {}; (DATA.new || []).forEach(function(h){ NEW[h] = 1; });
+  var LAST = "az-ultima-visita", PREV = "az-visita-anterior";
+  var prev = null;
+  try {
+    var sp = sessionStorage.getItem(PREV);
+    if (sp === null){ sp = localStorage.getItem(LAST) || ""; sessionStorage.setItem(PREV, sp); }
+    localStorage.setItem(LAST, new Date().toISOString());
+    if (sp) prev = new Date(sp);
+  } catch(e){}
   var DAY = 86400000;
   var today = new Date(); today.setHours(0,0,0,0);
 
@@ -227,9 +246,11 @@ var KEY = "az-novedades-ok";
     p._d = d;
     var dd = new Date(d); dd.setHours(0,0,0,0);
     p._age = Math.max(0, Math.round((today - dd) / DAY));
-    p._new = !!NEW[p.handle];
     p._s = (p.title + " " + p.brand + " " + (p.type || "")).toLowerCase();
   });
+
+  function markNew(){ P.forEach(function(p){ p._new = !!(prev && p._d > prev); }); }
+  markNew();
 
   var state = { days: 30, group: "date", sort: "new", stock: false, brand: "", q: "", limit: 240 };
 
@@ -259,7 +280,6 @@ var KEY = "az-novedades-ok";
 
   /* ---- cabecera ---- */
   var up = new Date(DATA.updated);
-  var newCount = P.filter(function(p){ return p._new; }).length;
   var hh = esc(up.toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"}));
   $("updated").innerHTML = '<span class="long">Actualizado <strong>' + esc(up.toLocaleDateString("es-ES",{weekday:"long",day:"numeric",month:"long"})) + ", " + hh + '</strong></span>' +
     '<span class="short">Act. <strong>' + esc(up.toLocaleDateString("es-ES",{day:"numeric",month:"short"})) + ", " + hh + '</strong></span>';
@@ -278,7 +298,12 @@ var KEY = "az-novedades-ok";
     if (e.target.id === "reset"){ state.days = 0; state.brand = ""; state.q = ""; state.stock = false; $("q").value = ""; $("stock").checked = false; render(); }
     if (e.target.id === "more"){ state.limit += 240; render(); }
   });
-  $("notice").addEventListener("click", function(e){ if (e.target.id === "onlyNew"){ state.days = 0; state.onlyNew = !state.onlyNew; render(); } });
+  $("notice").addEventListener("click", function(e){
+    var id = e.target.id;
+    if (id === "onlyNew"){ state.onlyNew = !state.onlyNew; state.days = 0; state.brand = ""; state.limit = 240; render(); }
+    if (id === "seen"){ prev = new Date(); try { sessionStorage.setItem(PREV, prev.toISOString()); } catch(e){} state.onlyNew = false; markNew(); render(); }
+    if (id === "week"){ state.days = 7; state.onlyNew = false; state.brand = ""; render(); }
+  });
 
   function inPeriod(p){ return !state.days || p._age < state.days; }
 
@@ -304,6 +329,31 @@ var KEY = "az-novedades-ok";
     if (age < 31) return [4, "Este mes"];
     if (age < 62) return [5, "El mes pasado"];
     return [6, "Más antiguo"];
+  }
+
+  function when(d){
+    var n = Math.round((today - new Date(d).setHours(0,0,0,0)) / DAY);
+    var h = d.toLocaleTimeString("es-ES",{hour:"2-digit",minute:"2-digit"});
+    if (n === 0) return "hoy a las " + h;
+    if (n === 1) return "ayer a las " + h;
+    return "el " + d.toLocaleDateString("es-ES",{weekday:"long",day:"numeric",month:"short"}) + " a las " + h;
+  }
+  function notice(){
+    if (!prev){
+      var wk = P.filter(function(p){ return p._age < 7; }).length;
+      return '<div class="notice quiet"><span class="big">' + wk + '</span><div class="txt"><strong>' + (wk === 1 ? 'Producto nuevo' : 'Productos nuevos') + ' esta semana</strong>' +
+        '<span>A partir de ahora te avisaremos aquí de lo que entre desde tu última visita.</span></div>' +
+        '<div class="acts"><button id="week" class="go" type="button">Ver esta semana</button></div></div>';
+    }
+    var n = P.filter(function(p){ return p._new; }).length;
+    if (!n){
+      return '<div class="notice quiet"><span class="big">0</span><div class="txt"><strong>Nada nuevo desde tu última visita</strong>' +
+        '<span>Entraste ' + esc(when(prev)) + '.</span></div></div>';
+    }
+    return '<div class="notice"><span class="big">' + n + '</span><div class="txt"><strong>' + (n === 1 ? 'Producto nuevo' : 'Productos nuevos') + ' desde tu última visita</strong>' +
+      '<span>Entraste ' + esc(when(prev)) + '.</span></div><div class="acts">' +
+      '<button id="onlyNew" class="go" type="button" aria-pressed="' + !!state.onlyNew + '">' + (state.onlyNew ? 'Ver todo' : 'Ver solo los nuevos') + '</button>' +
+      '<button id="seen" type="button">Marcar como vistos</button></div></div>';
   }
 
   function render(){
@@ -337,14 +387,12 @@ var KEY = "az-novedades-ok";
       return b._d - a._d;
     });
 
-    var periodTxt = state.days ? "en los últimos " + (state.days === 90 ? "3 meses" : state.days + " días") : "en total";
+    var periodTxt = state.onlyNew ? "nuevos desde tu última visita" : state.days ? "en los últimos " + (state.days === 90 ? "3 meses" : state.days + " días") : "en total";
     $("summary").innerHTML = "<span><strong>" + list.length + "</strong> productos " + periodTxt +
       (state.brand ? " de <strong>" + esc(state.brand) + "</strong>" : "") + "</span>" +
       "<span>" + P.length + " en la colección Novedades</span>";
 
-    $("notice").innerHTML = newCount ?
-      '<div class="notice">' + (state.onlyNew ? 'Mostrando solo los ' + newCount + ' productos nuevos desde la última revisión. <button id="onlyNew" type="button">Ver todos</button>'
-        : newCount + (newCount === 1 ? ' producto nuevo' : ' productos nuevos') + ' desde la última revisión. <button id="onlyNew" type="button">Ver solo esos</button>') + '</div>' : '';
+    $("notice").innerHTML = notice();
 
     if (!list.length){
       $("out").innerHTML = '<div class="empty"><strong>No hay productos con estos filtros</strong>Prueba a ampliar el periodo o quitar la búsqueda.<br><button id="reset" type="button">Ver todo</button></div>';
