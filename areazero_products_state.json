@@ -6434,10 +6434,8 @@
       "url": "https://areazero.biz/products/maleta-sprayground-marron-sharks-in-paris-wtf-bubble-brown-check-carry-on-luggag",
       "price": 329.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/maleta-sprayground-marron-sharks-in-paris-wtf-bubble-brown-check-carry-on-luggag.jpg?width=500",
       "created_at": "2026-09-01T13:39:23+02:00",
       "found_at": "2026-10-13T09:25:47.895657"
@@ -6569,20 +6567,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cartera-sprayground-marron-sharks-in-paris-gold-drip-wallet.jpg?width=500",
       "created_at": "2026-09-01T13:33:50+02:00",
       "found_at": "2026-10-13T09:25:47.895679"
-    },
-    "neceser-sprayground-marron-sharks-in-paris-gold-drip-toiletry-brick": {
-      "handle": "neceser-sprayground-marron-sharks-in-paris-gold-drip-toiletry-brick",
-      "title": "NECESER SPRAYGROUND MARRON SHARKS IN PARIS GOLD DRIP TOILETRY BRICK",
-      "brand": "SPRAYGROUND",
-      "type": "BOLSOS Y BANDOLERAS",
-      "url": "https://areazero.biz/products/neceser-sprayground-marron-sharks-in-paris-gold-drip-toiletry-brick",
-      "price": 74.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/neceser-sprayground-marron-sharks-in-paris-gold-drip-toiletry-brick.jpg?width=500",
-      "created_at": "2026-09-01T13:33:39+02:00",
-      "found_at": "2026-10-13T09:25:47.895682"
     },
     "cartera-sprayground-negra-sharks-in-paris-wtf-bubbly-black-check-wallet": {
       "handle": "cartera-sprayground-negra-sharks-in-paris-wtf-bubbly-black-check-wallet",
@@ -9213,12 +9197,8 @@
       "url": "https://areazero.biz/products/tracksuit-ovst-monographic-tostado",
       "price": 39.98,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "L",
-        "L",
-        "L"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-tostado-monographic-trackpant_5a0bfdff-4cce-4fef-b06c-33f65ff6af30.jpg?width=500",
       "created_at": "2026-07-13T13:59:12+02:00",
       "found_at": "2026-10-13T09:25:49.522702"
@@ -9493,20 +9473,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-beige-newyork-wordmark-suede-eframe-neyyan.jpg?width=500",
       "created_at": "2026-07-10T12:27:59+02:00",
       "found_at": "2026-10-13T09:25:49.522738"
-    },
-    "gorra-new-era-beige-dodgers-tonal-cord-trucker-losdod": {
-      "handle": "gorra-new-era-beige-dodgers-tonal-cord-trucker-losdod",
-      "title": "GORRA NEW ERA LOS ANGELES DODGERS MLB TONAL CORD TRUCKER BEIGE",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-beige-dodgers-tonal-cord-trucker-losdod",
-      "price": 34.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-beige-dodgers-tonal-cord-trucker-losdod.jpg?width=500",
-      "created_at": "2026-07-10T12:27:38+02:00",
-      "found_at": "2026-10-13T09:25:49.522741"
     },
     "gorra-new-era-beige-raiders-nfl-colourblock-9forty-lasrai": {
       "handle": "gorra-new-era-beige-raiders-nfl-colourblock-9forty-lasrai",
@@ -10197,8 +10163,7 @@
       "available": true,
       "sizes": [
         "7",
-        "7 1/8",
-        "7 1/4"
+        "7 1/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-marino-yankees-mlb-side-script-lp59fifty-neyyan.jpg?width=500",
       "created_at": "2026-07-10T00:59:43+02:00",
@@ -11137,5 +11102,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-13T21:48:21.944458"
+  "last_check": "2026-10-14T12:51:17.634356"
 }
