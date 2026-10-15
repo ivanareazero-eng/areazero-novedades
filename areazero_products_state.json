@@ -1,5 +1,636 @@
 {
   "products": {
+    "cazadora-grimey-negra-the-props-reversible-leopard-hooded-jacket": {
+      "handle": "cazadora-grimey-negra-the-props-reversible-leopard-hooded-jacket",
+      "title": "CAZADORA GRIMEY NEGRA THE PROPS REVERSIBLE LEOPARD HOODED JACKET",
+      "brand": "GRIMEY",
+      "type": "ABRIGOS",
+      "url": "https://areazero.biz/products/cazadora-grimey-negra-the-props-reversible-leopard-hooded-jacket",
+      "price": 179.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-grimey-negra-the-props-reversible-leopard-hooded-jacket.jpg?width=500",
+      "created_at": "2026-10-15T19:49:21+02:00",
+      "found_at": "2026-10-15T20:15:56.001911"
+    },
+    "sudadera-grimey-roja-sho-nuff-crewneck-sweatshirt": {
+      "handle": "sudadera-grimey-roja-sho-nuff-crewneck-sweatshirt",
+      "title": "SUDADERA GRIMEY ROJA SHO NUFF CREWNECK SWEATSHIRT",
+      "brand": "GRIMEY",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-grimey-roja-sho-nuff-crewneck-sweatshirt",
+      "price": 89.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-grimey-roja-sho-nuff-crewneck-sweatshirt.jpg?width=500",
+      "created_at": "2026-10-15T19:48:56+02:00",
+      "found_at": "2026-10-15T20:15:56.001933"
+    },
+    "sudadera-grimey-blanca-sho-nuff-crewneck-sweatshirt": {
+      "handle": "sudadera-grimey-blanca-sho-nuff-crewneck-sweatshirt",
+      "title": "SUDADERA GRIMEY BLANCA SHO NUFF CREWNECK SWEATSHIRT",
+      "brand": "GRIMEY",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-grimey-blanca-sho-nuff-crewneck-sweatshirt",
+      "price": 89.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-grimey-blanca-sho-nuff-crewneck-sweatshirt.jpg?width=500",
+      "created_at": "2026-10-15T19:48:42+02:00",
+      "found_at": "2026-10-15T20:15:56.001940"
+    },
+    "sudadera-grimey-negra-sho-nuff-crewneck-sweatshirt": {
+      "handle": "sudadera-grimey-negra-sho-nuff-crewneck-sweatshirt",
+      "title": "SUDADERA GRIMEY NEGRA SHO NUFF CREWNECK SWEATSHIRT",
+      "brand": "GRIMEY",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-grimey-negra-sho-nuff-crewneck-sweatshirt",
+      "price": 89.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-grimey-negra-sho-nuff-crewneck-sweatshirt.jpg?width=500",
+      "created_at": "2026-10-15T19:48:28+02:00",
+      "found_at": "2026-10-15T20:15:56.001945"
+    },
+    "sudadera-grimey-blanca-the-props-heavywheight-crewneck": {
+      "handle": "sudadera-grimey-blanca-the-props-heavywheight-crewneck",
+      "title": "SUDADERA GRIMEY BLANCA THE PROPS HEAVYWHEIGHT CREWNECK",
+      "brand": "GRIMEY",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-grimey-blanca-the-props-heavywheight-crewneck",
+      "price": 89.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-grimey-blanca-the-props-heavywheight-crewneck.jpg?width=500",
+      "created_at": "2026-10-15T19:48:14+02:00",
+      "found_at": "2026-10-15T20:15:56.001951"
+    },
+    "chaqueta-grimey-gris-the-props-quilted-zip-hoodie": {
+      "handle": "chaqueta-grimey-gris-the-props-quilted-zip-hoodie",
+      "title": "CHAQUETA GRIMEY GRIS THE PROPS QUILTED ZIP HOODIE",
+      "brand": "GRIMEY",
+      "type": "CHAQUETAS",
+      "url": "https://areazero.biz/products/chaqueta-grimey-gris-the-props-quilted-zip-hoodie",
+      "price": 99.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-grimey-gris-the-props-quilted-zip-hoodie.jpg?width=500",
+      "created_at": "2026-10-15T19:47:51+02:00",
+      "found_at": "2026-10-15T20:15:56.001956"
+    },
+    "chaqueta-grimey-negra-the-props-quilted-zip-hoodie": {
+      "handle": "chaqueta-grimey-negra-the-props-quilted-zip-hoodie",
+      "title": "CHAQUETA GRIMEY NEGRA THE PROPS QUILTED ZIP HOODIE",
+      "brand": "GRIMEY",
+      "type": "CHAQUETAS",
+      "url": "https://areazero.biz/products/chaqueta-grimey-negra-the-props-quilted-zip-hoodie",
+      "price": 99.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-grimey-negra-the-props-quilted-zip-hoodie.jpg?width=500",
+      "created_at": "2026-10-15T19:47:27+02:00",
+      "found_at": "2026-10-15T20:15:56.001961"
+    },
+    "cazadora-grimey-roja-wild-one-pu-leather-washed-red-jacket": {
+      "handle": "cazadora-grimey-roja-wild-one-pu-leather-washed-red-jacket",
+      "title": "CAZADORA GRIMEY ROJA WILD ONE PU LEATHER WASHED RED JACKET",
+      "brand": "GRIMEY",
+      "type": "ABRIGOS",
+      "url": "https://areazero.biz/products/cazadora-grimey-roja-wild-one-pu-leather-washed-red-jacket",
+      "price": 189.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-grimey-roja-wild-one-pu-leather-washed-red-jacket.jpg?width=500",
+      "created_at": "2026-10-15T19:47:08+02:00",
+      "found_at": "2026-10-15T20:15:56.001965"
+    },
+    "cazadora-grimey-marron-wild-one-pu-leather-jacket-washed-brown": {
+      "handle": "cazadora-grimey-marron-wild-one-pu-leather-jacket-washed-brown",
+      "title": "CAZADORA GRIMEY MARRON WILD ONE PU LEATHER JACKET WASHED BROWN",
+      "brand": "GRIMEY",
+      "type": "ABRIGOS",
+      "url": "https://areazero.biz/products/cazadora-grimey-marron-wild-one-pu-leather-jacket-washed-brown",
+      "price": 189.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-grimey-marron-wild-one-pu-leather-jacket-washed-brown.jpg?width=500",
+      "created_at": "2026-10-15T19:46:49+02:00",
+      "found_at": "2026-10-15T20:15:56.001971"
+    },
+    "balaclava-grimey-the-infamous-balaclava": {
+      "handle": "balaclava-grimey-the-infamous-balaclava",
+      "title": "BALACLAVA GRIMEY THE INFAMOUS BALACLAVA",
+      "brand": "GRIMEY",
+      "type": "BALACLAVAS",
+      "url": "https://areazero.biz/products/balaclava-grimey-the-infamous-balaclava",
+      "price": 19.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/balaclava-grimey-the-infamous-balaclava.jpg?width=500",
+      "created_at": "2026-10-15T19:46:41+02:00",
+      "found_at": "2026-10-15T20:15:56.001975"
+    },
+    "gorra-tical-x-grimey-negra-nueva-york-snapback-cap": {
+      "handle": "gorra-tical-x-grimey-negra-nueva-york-snapback-cap",
+      "title": "GORRA TICAL X GRIMEY NEGRA NUEVA YORK SNAPBACK CAP",
+      "brand": "GRIMEY",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-tical-x-grimey-negra-nueva-york-snapback-cap",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-tical-x-grimey-negra-nueva-york-snapback-cap.jpg?width=500",
+      "created_at": "2026-10-15T19:46:36+02:00",
+      "found_at": "2026-10-15T20:15:56.001978"
+    },
+    "gorra-tical-x-grimey-negra-snapback-cap": {
+      "handle": "gorra-tical-x-grimey-negra-snapback-cap",
+      "title": "GORRA TICAL X GRIMEY NEGRA SNAPBACK CAP",
+      "brand": "GRIMEY",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-tical-x-grimey-negra-snapback-cap",
+      "price": 49.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-tical-x-grimey-negra-snapback-cap.jpg?width=500",
+      "created_at": "2026-10-15T19:46:26+02:00",
+      "found_at": "2026-10-15T20:15:56.001982"
+    },
+    "chaqueta-tical-x-grimey-negra-pu-leather-track-jacket": {
+      "handle": "chaqueta-tical-x-grimey-negra-pu-leather-track-jacket",
+      "title": "CHAQUETA TICAL X GRIMEY NEGRA PU LEATHER TRACK JACKET",
+      "brand": "GRIMEY",
+      "type": "CHAQUETAS",
+      "url": "https://areazero.biz/products/chaqueta-tical-x-grimey-negra-pu-leather-track-jacket",
+      "price": 129.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-tical-x-grimey-negra-pu-leather-track-jacket.jpg?width=500",
+      "created_at": "2026-10-15T19:46:06+02:00",
+      "found_at": "2026-10-15T20:15:56.001987"
+    },
+    "pantalon-tical-x-grimey-negro-pu-leather-track-pants": {
+      "handle": "pantalon-tical-x-grimey-negro-pu-leather-track-pants",
+      "title": "PANTALON TICAL X GRIMEY NEGRO PU LEATHER TRACK PANTS",
+      "brand": "GRIMEY",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-tical-x-grimey-negro-pu-leather-track-pants",
+      "price": 99.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-tical-x-grimey-negro-pu-leather-track-pants.jpg?width=500",
+      "created_at": "2026-10-15T19:45:50+02:00",
+      "found_at": "2026-10-15T20:15:56.001992"
+    },
+    "pantalon-tical-x-grimey-negro-sweatpants": {
+      "handle": "pantalon-tical-x-grimey-negro-sweatpants",
+      "title": "PANTALON TICAL X GRIMEY NEGRO SWEATPANTS",
+      "brand": "GRIMEY",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-tical-x-grimey-negro-sweatpants",
+      "price": 89.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-tical-x-grimey-negro-sweatpants.jpg?width=500",
+      "created_at": "2026-10-15T19:45:35+02:00",
+      "found_at": "2026-10-15T20:15:56.001996"
+    },
+    "sudadera-tical-x-grimey-regular-hoodie-black-yellow": {
+      "handle": "sudadera-tical-x-grimey-regular-hoodie-black-yellow",
+      "title": "SUDADERA TICAL X GRIMEY REGULAR HOODIE BLACK YELLOW",
+      "brand": "GRIMEY",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-tical-x-grimey-regular-hoodie-black-yellow",
+      "price": 89.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-tical-x-grimey-regular-hoodie-black-yellow.jpg?width=500",
+      "created_at": "2026-10-15T19:45:18+02:00",
+      "found_at": "2026-10-15T20:15:56.002001"
+    },
+    "beisbolera-tical-x-grimey-negra-baseball-jacket": {
+      "handle": "beisbolera-tical-x-grimey-negra-baseball-jacket",
+      "title": "BEISBOLERA TICAL X GRIMEY NEGRA BASEBALL JACKET",
+      "brand": "GRIMEY",
+      "type": "ABRIGOS",
+      "url": "https://areazero.biz/products/beisbolera-tical-x-grimey-negra-baseball-jacket",
+      "price": 199.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/beisbolera-tical-x-grimey-negra-baseball-jacket.jpg?width=500",
+      "created_at": "2026-10-15T19:45:00+02:00",
+      "found_at": "2026-10-15T20:15:56.002006"
+    },
+    "camiseta-tical-x-grimey-blanca-regular-tee-off-white": {
+      "handle": "camiseta-tical-x-grimey-blanca-regular-tee-off-white",
+      "title": "CAMISETA TICAL X GRIMEY BLANCA REGULAR TEE OFF WHITE",
+      "brand": "GRIMEY",
+      "type": "CAMISETAS",
+      "url": "https://areazero.biz/products/camiseta-tical-x-grimey-blanca-regular-tee-off-white",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-tical-x-grimey-blanca-regular-tee-off-white.jpg?width=500",
+      "created_at": "2026-10-15T19:44:46+02:00",
+      "found_at": "2026-10-15T20:15:56.002010"
+    },
+    "camiseta-tical-x-grimey-negra-regular-tee-black": {
+      "handle": "camiseta-tical-x-grimey-negra-regular-tee-black",
+      "title": "CAMISETA TICAL X GRIMEY NEGRA REGULAR TEE BLACK",
+      "brand": "GRIMEY",
+      "type": "CAMISETAS",
+      "url": "https://areazero.biz/products/camiseta-tical-x-grimey-negra-regular-tee-black",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-tical-x-grimey-negra-regular-tee-black.jpg?width=500",
+      "created_at": "2026-10-15T19:44:31+02:00",
+      "found_at": "2026-10-15T20:15:56.002015"
+    },
+    "gorra-new-era-new-york-yankees-9forty-entry-cord-negra": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-entry-cord-negra",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY ENTRY CORD NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-entry-cord-negra",
+      "price": 27.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-entry-cord-negra.jpg?width=500",
+      "created_at": "2026-10-15T19:44:20+02:00",
+      "found_at": "2026-10-15T20:15:56.002018"
+    },
+    "gorra-new-era-new-york-yankees-9forty-entry-cord-marron": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-entry-cord-marron",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY ENTRY CORD MARRON",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-entry-cord-marron",
+      "price": 27.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-entry-cord-marron.jpg?width=500",
+      "created_at": "2026-10-15T19:44:10+02:00",
+      "found_at": "2026-10-15T20:15:56.002021"
+    },
+    "gorra-new-era-new-york-yankees-9forty-entry-cord-beige": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-entry-cord-beige",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY ENTRY CORD BEIGE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-entry-cord-beige",
+      "price": 27.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-entry-cord-beige.jpg?width=500",
+      "created_at": "2026-10-15T19:44:00+02:00",
+      "found_at": "2026-10-15T20:15:56.002024"
+    },
+    "gorra-new-era-new-york-yankees-59fifty-side-patch-evergreen-marino": {
+      "handle": "gorra-new-era-new-york-yankees-59fifty-side-patch-evergreen-marino",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 59FIFTY SIDE PATCH EVERGREEN MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-59fifty-side-patch-evergreen-marino",
+      "price": 55.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-side-patch-evergreen-marino.jpg?width=500",
+      "created_at": "2026-10-15T19:43:39+02:00",
+      "found_at": "2026-10-15T20:15:56.002030"
+    },
+    "gorra-new-era-san-diego-padres-59fifty-side-patch-evergreen-marron": {
+      "handle": "gorra-new-era-san-diego-padres-59fifty-side-patch-evergreen-marron",
+      "title": "GORRA NEW ERA SAN DIEGO PADRES 59FIFTY SIDE PATCH EVERGREEN MARRON",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-san-diego-padres-59fifty-side-patch-evergreen-marron",
+      "price": 55.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-san-diego-padres-59fifty-side-patch-evergreen-marron.jpg?width=500",
+      "created_at": "2026-10-15T19:43:13+02:00",
+      "found_at": "2026-10-15T20:15:56.002035"
+    },
+    "gorra-new-era-chicago-white-sox-595fifty-side-patch-evergreen-negra": {
+      "handle": "gorra-new-era-chicago-white-sox-595fifty-side-patch-evergreen-negra",
+      "title": "GORRA NEW ERA CHICAGO WHITE SOX 595FIFTY SIDE PATCH EVERGREEN NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-chicago-white-sox-595fifty-side-patch-evergreen-negra",
+      "price": 55.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-595fifty-side-patch-evergreen-negra.jpg?width=500",
+      "created_at": "2026-10-15T19:42:48+02:00",
+      "found_at": "2026-10-15T20:15:56.002041"
+    },
+    "gorra-new-era-los-angeles-dodgers-59fifty-side-patch-evergreen-royal": {
+      "handle": "gorra-new-era-los-angeles-dodgers-59fifty-side-patch-evergreen-royal",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 59FIFTY SIDE PATCH EVERGREEN ROYAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-59fifty-side-patch-evergreen-royal",
+      "price": 55.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-side-patch-evergreen-royal.jpg?width=500",
+      "created_at": "2026-10-15T19:42:22+02:00",
+      "found_at": "2026-10-15T20:15:56.002046"
+    },
+    "gorra-new-era-pittsbourg-pirates-59fifty-evregreen-negra": {
+      "handle": "gorra-new-era-pittsbourg-pirates-59fifty-evregreen-negra",
+      "title": "GORRA NEW ERA PITTSBOURG PIRATES 59FIFTY EVREGREEN NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-pittsbourg-pirates-59fifty-evregreen-negra",
+      "price": 42.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-pittsbourg-pirates-59fifty-evregreen-negra.jpg?width=500",
+      "created_at": "2026-10-15T19:41:58+02:00",
+      "found_at": "2026-10-15T20:15:56.002051"
+    },
+    "gorra-new-era-philladelphia-phillies-59fifty-evergreen-roja": {
+      "handle": "gorra-new-era-philladelphia-phillies-59fifty-evergreen-roja",
+      "title": "GORRA NEW ERA PHILLADELPHIA PHILLIES 59FIFTY EVERGREEN ROJA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-philladelphia-phillies-59fifty-evergreen-roja",
+      "price": 42.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-philladelphia-phillies-59fifty-evergreen-roja.jpg?width=500",
+      "created_at": "2026-10-15T19:41:32+02:00",
+      "found_at": "2026-10-15T20:15:56.002057"
+    },
+    "gorra-new-era-san-diego-padres-59fifty-evergreen-marron": {
+      "handle": "gorra-new-era-san-diego-padres-59fifty-evergreen-marron",
+      "title": "GORRA NEW ERA SAN DIEGO PADRES 59FIFTY EVERGREEN MARRON",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-san-diego-padres-59fifty-evergreen-marron",
+      "price": 42.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-san-diego-padres-59fifty-evergreen-marron.jpg?width=500",
+      "created_at": "2026-10-15T19:41:06+02:00",
+      "found_at": "2026-10-15T20:15:56.002063"
+    },
+    "gorra-new-era-oakland-athletics-59fifty-evergreen-verde": {
+      "handle": "gorra-new-era-oakland-athletics-59fifty-evergreen-verde",
+      "title": "GORRA NEW ERA OAKLAND ATHLETICS 59FIFTY EVERGREEN VERDE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-oakland-athletics-59fifty-evergreen-verde",
+      "price": 42.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-oakland-athletics-59fifty-evergreen-verde.jpg?width=500",
+      "created_at": "2026-10-15T19:40:40+02:00",
+      "found_at": "2026-10-15T20:15:56.002068"
+    },
+    "gorra-new-era-new-york-yankees-59fifty-evergreen-marino": {
+      "handle": "gorra-new-era-new-york-yankees-59fifty-evergreen-marino",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 59FIFTY EVERGREEN MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-59fifty-evergreen-marino",
+      "price": 42.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-evergreen-marino.jpg?width=500",
+      "created_at": "2026-10-15T19:40:16+02:00",
+      "found_at": "2026-10-15T20:15:56.002073"
+    },
+    "gorra-new-era-toronto-jays-59fifty-evergreen-royal": {
+      "handle": "gorra-new-era-toronto-jays-59fifty-evergreen-royal",
+      "title": "GORRA NEW ERA TORONTO JAYS 59FIFTY EVERGREEN ROYAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-toronto-jays-59fifty-evergreen-royal",
+      "price": 42.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-toronto-jays-59fifty-evergreen-royal.jpg?width=500",
+      "created_at": "2026-10-15T19:39:51+02:00",
+      "found_at": "2026-10-15T20:15:56.002078"
+    },
+    "gorra-new-era-los-angeles-dodgers-59fifty-evergreen-royal": {
+      "handle": "gorra-new-era-los-angeles-dodgers-59fifty-evergreen-royal",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 59FIFTY EVERGREEN ROYAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-59fifty-evergreen-royal",
+      "price": 42.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-evergreen-royal.jpg?width=500",
+      "created_at": "2026-10-15T19:39:25+02:00",
+      "found_at": "2026-10-15T20:15:56.002083"
+    },
+    "gorra-new-era-chicago-white-sox-59fifty-evergreen-negra": {
+      "handle": "gorra-new-era-chicago-white-sox-59fifty-evergreen-negra",
+      "title": "GORRA NEW ERA CHICAGO WHITE SOX 59FIFTY EVERGREEN NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-chicago-white-sox-59fifty-evergreen-negra",
+      "price": 42.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-59fifty-evergreen-negra.jpg?width=500",
+      "created_at": "2026-10-15T19:39:00+02:00",
+      "found_at": "2026-10-15T20:15:56.002089"
+    },
+    "gorra-new-era-philadelphia-eagles-59fifty-evergreen-verde": {
+      "handle": "gorra-new-era-philadelphia-eagles-59fifty-evergreen-verde",
+      "title": "GORRA NEW ERA PHILADELPHIA EAGLES 59FIFTY EVERGREEN VERDE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-philadelphia-eagles-59fifty-evergreen-verde",
+      "price": 42.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-philadelphia-eagles-59fifty-evergreen-verde.jpg?width=500",
+      "created_at": "2026-10-15T19:38:32+02:00",
+      "found_at": "2026-10-15T20:15:56.002094"
+    },
     "bomber-fred-perry-verde-quilted-tennis-bomber-jacket": {
       "handle": "bomber-fred-perry-verde-quilted-tennis-bomber-jacket",
       "title": "BOMBER FRED PERRY VERDE QUILTED TENNIS BOMBER JACKET",
@@ -177,10 +808,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-hell-fire-lives-9forty-e-frame-stranger-things-10-years-negra",
       "price": 39.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-hell-fire-lives-9forty-e-frame-stranger-things-10-years-negra.jpg?width=500",
       "created_at": "2026-10-09T12:57:32+02:00",
       "found_at": "2026-10-13T09:25:46.371447"
@@ -193,10 +822,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-strangre-things-logo-10-years-distressed",
       "price": 43.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-strangre-things-logo-10-years-distressed.jpg?width=500",
       "created_at": "2026-10-09T12:57:17+02:00",
       "found_at": "2026-10-13T09:25:46.371450"
@@ -209,11 +836,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-hell-fire-lives-stranger-things-10-years-negra",
       "price": 43.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "SM",
-        "ML"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-hell-fire-lives-stranger-things-10-years-negra.jpg?width=500",
       "created_at": "2026-10-09T12:56:59+02:00",
       "found_at": "2026-10-13T09:25:46.371453"
@@ -226,14 +850,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-59fifty-stranger-things-10-years-negra",
       "price": 51.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "7 1/8",
-        "7 1/4",
-        "7 3/8",
-        "7 1/2",
-        "7 5/8"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-59fifty-stranger-things-10-years-negra.jpg?width=500",
       "created_at": "2026-10-09T12:56:36+02:00",
       "found_at": "2026-10-13T09:25:46.371456"
@@ -6015,10 +6633,8 @@
       "url": "https://areazero.biz/products/cinturon-blanco-cruces-cross-belt",
       "price": 19.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cinturon-blanco-cross-belt.jpg?width=500",
       "created_at": "2026-09-07T20:07:42+02:00",
       "found_at": "2026-10-13T09:25:47.895587"
@@ -6479,10 +7095,8 @@
       "url": "https://areazero.biz/products/estuche-sprayground-blanco-cream-space-drip-pouch",
       "price": 44.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/estuche-sprayground-blanco-cream-space-drip-pouch.jpg?width=500",
       "created_at": "2026-09-01T13:38:09+02:00",
       "found_at": "2026-10-13T09:25:47.895668"
@@ -9100,13 +9714,8 @@
       "url": "https://areazero.biz/products/tracksuit-ovst-poly-tech-arm-negro",
       "price": 35.98,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "XS",
-        "S",
-        "L",
-        "XL"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/102.jpg?width=500",
       "created_at": "2026-07-13T14:09:08+02:00",
       "found_at": "2026-10-13T09:25:49.522687"
@@ -9236,6 +9845,8 @@
         "XS",
         "XS",
         "XS",
+        "XS",
+        "XL",
         "XL",
         "XL",
         "XL"
@@ -9483,10 +10094,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-negra-bulls-nba-side-script-9forty-mc-chibul",
       "price": 27.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-negra-bulls-nba-side-script-9forty-mc-chibul.jpg?width=500",
       "created_at": "2026-07-10T12:26:40+02:00",
       "found_at": "2026-10-13T09:25:49.522749"
@@ -9872,8 +10481,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
-        "M",
         "L",
         "XL",
         "XXL"
@@ -10286,7 +10893,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL",
@@ -10611,9 +11217,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
-        "M",
-        "L",
         "XL",
         "XXL"
       ],
@@ -10631,10 +11234,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
-        "L",
-        "XL",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-morado-joker-dc27-cra-standard-length-trunk.jpg?width=500",
@@ -10651,8 +11251,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
-        "M",
         "L",
         "XL",
         "XXL"
@@ -10708,7 +11306,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL",
@@ -11080,5 +11677,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-15T12:38:03.817099"
+  "last_check": "2026-10-15T20:15:59.959827"
 }
