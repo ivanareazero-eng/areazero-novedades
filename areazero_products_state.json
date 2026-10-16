@@ -1,5 +1,1149 @@
 {
   "products": {
+    "tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck": {
+      "handle": "tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck",
+      "title": "TABLA SANTA CRUZ X POKEMON TCG BLIND BAG DECK",
+      "brand": "SANTA CRUZ",
+      "type": "ACCESORIOS",
+      "url": "https://areazero.biz/products/tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck",
+      "price": 179.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck.jpg?width=500",
+      "created_at": "2026-10-16T18:48:28+02:00",
+      "found_at": "2026-10-16T19:52:59.127756"
+    },
+    "sudadera-santa-cruz-x-pokemon-roja-tcg-hand-zip-hoodes-sweatshirt": {
+      "handle": "sudadera-santa-cruz-x-pokemon-roja-tcg-hand-zip-hoodes-sweatshirt",
+      "title": "SUDADERA SANTA CRUZ X POKEMON ROJA TCG HAND ZIP HOODES SWEATSHIRT",
+      "brand": "SANTA CRUZ",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-santa-cruz-x-pokemon-roja-tcg-hand-zip-hoodes-sweatshirt",
+      "price": 94.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-santa-cruz-x-pokemon-roja-tcg-hand-zip-hoodes-sweatshirt.jpg?width=500",
+      "created_at": "2026-10-16T18:48:19+02:00",
+      "found_at": "2026-10-16T19:52:59.127778"
+    },
+    "sudadera-santa-cruz-x-pokemon-negra-tcg-hand-zip-hooded-sweatshirt": {
+      "handle": "sudadera-santa-cruz-x-pokemon-negra-tcg-hand-zip-hooded-sweatshirt",
+      "title": "SUDADERA SANTA CRUZ X POKEMON NEGRA TCG HAND ZIP HOODED SWEATSHIRT",
+      "brand": "SANTA CRUZ",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-santa-cruz-x-pokemon-negra-tcg-hand-zip-hooded-sweatshirt",
+      "price": 94.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-santa-cruz-x-pokemon-negra-tcg-hand-zip-hooded-sweatshirt.jpg?width=500",
+      "created_at": "2026-10-16T18:48:10+02:00",
+      "found_at": "2026-10-16T19:52:59.127789"
+    },
+    "sudadera-santa-cruz-x-pokemon-negra-energy-dot-hoodie": {
+      "handle": "sudadera-santa-cruz-x-pokemon-negra-energy-dot-hoodie",
+      "title": "SUDADERA SANTA CRUZ X POKEMON NEGRA ENERGY DOT HOODIE",
+      "brand": "SANTA CRUZ",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-santa-cruz-x-pokemon-negra-energy-dot-hoodie",
+      "price": 89.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-santa-cruz-x-pokemon-negra-energy-dot-hoodie.jpg?width=500",
+      "created_at": "2026-10-16T18:48:01+02:00",
+      "found_at": "2026-10-16T19:52:59.127797"
+    },
+    "camiseta-santa-cruz-x-pokemon-negra-tcg-hand-tee": {
+      "handle": "camiseta-santa-cruz-x-pokemon-negra-tcg-hand-tee",
+      "title": "CAMISETA SANTA CRUZ X POKEMON NEGRA TCG HAND TEE",
+      "brand": "SANTA CRUZ",
+      "type": "CAMISETAS",
+      "url": "https://areazero.biz/products/camiseta-santa-cruz-x-pokemon-negra-tcg-hand-tee",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-santa-cruz-x-pokemon-negra-tcg-hand-tee.jpg?width=500",
+      "created_at": "2026-10-16T18:47:50+02:00",
+      "found_at": "2026-10-16T19:52:59.127807"
+    },
+    "camiseta-santa-cruz-x-pokemon-blanca-tcg-hand-tee": {
+      "handle": "camiseta-santa-cruz-x-pokemon-blanca-tcg-hand-tee",
+      "title": "CAMISETA SANTA CRUZ X POKEMON BLANCA TCG HAND TEE",
+      "brand": "SANTA CRUZ",
+      "type": "CAMISETAS",
+      "url": "https://areazero.biz/products/camiseta-santa-cruz-x-pokemon-blanca-tcg-hand-tee",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-santa-cruz-x-pokemon-blanca-tcg-hand-tee.jpg?width=500",
+      "created_at": "2026-10-16T18:47:39+02:00",
+      "found_at": "2026-10-16T19:52:59.127815"
+    },
+    "camiseta-santa-cruz-x-pokemon-nega-power-dot-heavyweight-tee": {
+      "handle": "camiseta-santa-cruz-x-pokemon-nega-power-dot-heavyweight-tee",
+      "title": "CAMISETA SANTA CRUZ X POKEMON NEGA POWER DOT HEAVYWEIGHT TEE",
+      "brand": "SANTA CRUZ",
+      "type": "CAMISETAS",
+      "url": "https://areazero.biz/products/camiseta-santa-cruz-x-pokemon-nega-power-dot-heavyweight-tee",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-santa-cruz-x-pokemon-nega-power-dot-heavyweight-tee.jpg?width=500",
+      "created_at": "2026-10-16T18:47:28+02:00",
+      "found_at": "2026-10-16T19:52:59.127824"
+    },
+    "camiseta-santa-cruz-x-pokemon-negra-energy-dot-heavyweight-tee": {
+      "handle": "camiseta-santa-cruz-x-pokemon-negra-energy-dot-heavyweight-tee",
+      "title": "CAMISETA SANTA CRUZ X POKEMON NEGRA ENERGY DOT HEAVYWEIGHT TEE",
+      "brand": "SANTA CRUZ",
+      "type": "CAMISETAS",
+      "url": "https://areazero.biz/products/camiseta-santa-cruz-x-pokemon-negra-energy-dot-heavyweight-tee",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-santa-cruz-x-pokemon-negra-energy-dot-heavyweight-tee.jpg?width=500",
+      "created_at": "2026-10-16T18:47:17+02:00",
+      "found_at": "2026-10-16T19:52:59.127831"
+    },
+    "gorra-new-era-los-angeles-lakers-9forty-team-outline-antracita": {
+      "handle": "gorra-new-era-los-angeles-lakers-9forty-team-outline-antracita",
+      "title": "GORRA NEW ERA LOS ANGELES LAKERS 9FORTY TEAM OUTLINE ANTRACITA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-lakers-9forty-team-outline-antracita",
+      "price": 25.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-lakers-9forty-team-outline-antracita.jpg?width=500",
+      "created_at": "2026-10-16T18:41:54+02:00",
+      "found_at": "2026-10-16T19:52:59.127837"
+    },
+    "gorra-new-era-chicago-bulls-9forty-team-outline-negra": {
+      "handle": "gorra-new-era-chicago-bulls-9forty-team-outline-negra",
+      "title": "GORRA NEW ERA CHICAGO BULLS 9FORTY TEAM OUTLINE NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-chicago-bulls-9forty-team-outline-negra",
+      "price": 25.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-bulls-9forty-team-outline-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:41:43+02:00",
+      "found_at": "2026-10-16T19:52:59.127842"
+    },
+    "gorra-new-era-new-york-yankees-9forty-mcrown-wmns-fabric-mix-cruda": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-mcrown-wmns-fabric-mix-cruda",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY MCROWN WMNS FABRIC MIX CRUDA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-mcrown-wmns-fabric-mix-cruda",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-mcrown-wmns-fabric-mix-cruda.jpg?width=500",
+      "created_at": "2026-10-16T18:41:32+02:00",
+      "found_at": "2026-10-16T19:52:59.127848"
+    },
+    "gorra-new-era-los-angeles-dodgers-e-frame-suede-visor-beige": {
+      "handle": "gorra-new-era-los-angeles-dodgers-e-frame-suede-visor-beige",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS E FRAME SUEDE VISOR BEIGE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-e-frame-suede-visor-beige",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-e-frame-suede-visor-beige.jpg?width=500",
+      "created_at": "2026-10-16T18:41:21+02:00",
+      "found_at": "2026-10-16T19:52:59.127853"
+    },
+    "gorra-new-era-detroit-tigers-e-frame-suede-visor-marino": {
+      "handle": "gorra-new-era-detroit-tigers-e-frame-suede-visor-marino",
+      "title": "GORRA NEW ERA DETROIT TIGERS E FRAME SUEDE VISOR MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-detroit-tigers-e-frame-suede-visor-marino",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-detroit-tigers-e-frame-suede-visor-marino.jpg?width=500",
+      "created_at": "2026-10-16T18:41:11+02:00",
+      "found_at": "2026-10-16T19:52:59.127859"
+    },
+    "gorra-new-era-los-angeles-dodgers-9forty-wordmark-granate": {
+      "handle": "gorra-new-era-los-angeles-dodgers-9forty-wordmark-granate",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 9FORTY WORDMARK GRANATE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-9forty-wordmark-granate",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-9forty-wordmark-granate.jpg?width=500",
+      "created_at": "2026-10-16T18:41:00+02:00",
+      "found_at": "2026-10-16T19:52:59.127865"
+    },
+    "gorra-new-era-philadelphia-phillies-9forty-wordmark-beige": {
+      "handle": "gorra-new-era-philadelphia-phillies-9forty-wordmark-beige",
+      "title": "GORRA NEW ERA PHILADELPHIA PHILLIES 9FORTY WORDMARK BEIGE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-philadelphia-phillies-9forty-wordmark-beige",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-philadelphia-phillies-9forty-wordmark-beige.jpg?width=500",
+      "created_at": "2026-10-16T18:40:50+02:00",
+      "found_at": "2026-10-16T19:52:59.127870"
+    },
+    "gorra-new-era-los-angeles-dodgers-9forty-wmns-rose-sequin-negra": {
+      "handle": "gorra-new-era-los-angeles-dodgers-9forty-wmns-rose-sequin-negra",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 9FORTY WMNS ROSE SEQUIN NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-9forty-wmns-rose-sequin-negra",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-9forty-wmns-rose-sequin-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:40:39+02:00",
+      "found_at": "2026-10-16T19:52:59.127875"
+    },
+    "gorra-new-era-new-york-yankees-9forty-wmns-rose-sequin-cruda": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-wmns-rose-sequin-cruda",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY WMNS ROSE SEQUIN CRUDA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-wmns-rose-sequin-cruda",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-wmns-rose-sequin-cruda.jpg?width=500",
+      "created_at": "2026-10-16T18:40:28+02:00",
+      "found_at": "2026-10-16T19:52:59.127881"
+    },
+    "gorra-new-era-new-york-yankees-9forty-pu-weave-beige": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-pu-weave-beige",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY PU WEAVE BEIGE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-pu-weave-beige",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-pu-weave-beige.jpg?width=500",
+      "created_at": "2026-10-16T18:40:17+02:00",
+      "found_at": "2026-10-16T19:52:59.127887"
+    },
+    "gorra-new-era-new-york-yankees-9forty-pu-weave-negra": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-pu-weave-negra",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY PU WEAVE NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-pu-weave-negra",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-pu-weave-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:40:06+02:00",
+      "found_at": "2026-10-16T19:52:59.127892"
+    },
+    "gorra-new-era-new-york-yankees-9forty-wmns-ocelot-print-marron": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-wmns-ocelot-print-marron",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY WMNS OCELOT PRINT MARRON",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-wmns-ocelot-print-marron",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-wmns-ocelot-print-marron.jpg?width=500",
+      "created_at": "2026-10-16T18:39:55+02:00",
+      "found_at": "2026-10-16T19:52:59.127898"
+    },
+    "gorra-new-era-los-angeles-dodgers-9forty-wmns-fruit-icon-negra": {
+      "handle": "gorra-new-era-los-angeles-dodgers-9forty-wmns-fruit-icon-negra",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 9FORTY WMNS FRUIT ICON NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-9forty-wmns-fruit-icon-negra",
+      "price": 27.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-9forty-wmns-fruit-icon-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:39:45+02:00",
+      "found_at": "2026-10-16T19:52:59.127903"
+    },
+    "gorra-new-era-new-york-yankees-9forty-wmns-fruit-icon-beige": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-wmns-fruit-icon-beige",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY WMNS FRUIT ICON BEIGE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-wmns-fruit-icon-beige",
+      "price": 27.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-wmns-fruit-icon-beige.jpg?width=500",
+      "created_at": "2026-10-16T18:39:34+02:00",
+      "found_at": "2026-10-16T19:52:59.127924"
+    },
+    "gorra-new-era-los-angeles-dodgers-9fifty-cord-visor-marino": {
+      "handle": "gorra-new-era-los-angeles-dodgers-9fifty-cord-visor-marino",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 9FIFTY CORD VISOR MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-9fifty-cord-visor-marino",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "SM",
+        "ML"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-9fifty-cord-visor-marino.jpg?width=500",
+      "created_at": "2026-10-16T18:39:21+02:00",
+      "found_at": "2026-10-16T19:52:59.127931"
+    },
+    "gorra-new-era-new-york-yankees-9fifty-cord-visor-cruda": {
+      "handle": "gorra-new-era-new-york-yankees-9fifty-cord-visor-cruda",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FIFTY CORD VISOR CRUDA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9fifty-cord-visor-cruda",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "SM",
+        "ML"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9fifty-cord-visor-cruda.jpg?width=500",
+      "created_at": "2026-10-16T18:39:08+02:00",
+      "found_at": "2026-10-16T19:52:59.127937"
+    },
+    "gorra-new-era-new-york-yankees-9fifty-league-essential-marron": {
+      "handle": "gorra-new-era-new-york-yankees-9fifty-league-essential-marron",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FIFTY LEAGUE ESSENTIAL MARRON",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9fifty-league-essential-marron",
+      "price": 36.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "SM",
+        "ML"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9fifty-league-essential-marron.jpg?width=500",
+      "created_at": "2026-10-16T18:38:56+02:00",
+      "found_at": "2026-10-16T19:52:59.127943"
+    },
+    "gorra-new-era-new-york-yankees-9forty-m-crown-fleece-marino": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-m-crown-fleece-marino",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY M CROWN FLEECE MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-m-crown-fleece-marino",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-m-crown-fleece-marino.jpg?width=500",
+      "created_at": "2026-10-16T18:38:45+02:00",
+      "found_at": "2026-10-16T19:52:59.127949"
+    },
+    "gorra-new-era-los-angeles-dodgers-9forty-m-crown-fleece-antracita": {
+      "handle": "gorra-new-era-los-angeles-dodgers-9forty-m-crown-fleece-antracita",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 9FORTY M CROWN FLEECE ANTRACITA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-9forty-m-crown-fleece-antracita",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-9forty-m-crown-fleece-antracita.jpg?width=500",
+      "created_at": "2026-10-16T18:38:34+02:00",
+      "found_at": "2026-10-16T19:52:59.127954"
+    },
+    "gorra-new-era-detroit-tigers-9forty-m-crown-fleece-negra": {
+      "handle": "gorra-new-era-detroit-tigers-9forty-m-crown-fleece-negra",
+      "title": "GORRA NEW ERA DETROIT TIGERS 9FORTY M CROWN FLEECE NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-detroit-tigers-9forty-m-crown-fleece-negra",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-detroit-tigers-9forty-m-crown-fleece-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:38:24+02:00",
+      "found_at": "2026-10-16T19:52:59.127959"
+    },
+    "gorra-new-era-new-york-9forty-m-crown-wordmark-cruda": {
+      "handle": "gorra-new-era-new-york-9forty-m-crown-wordmark-cruda",
+      "title": "GORRA NEW ERA NEW YORK 9FORTY M CROWN WORDMARK CRUDA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-9forty-m-crown-wordmark-cruda",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-9forty-m-crown-wordmark-cruda.jpg?width=500",
+      "created_at": "2026-10-16T18:38:14+02:00",
+      "found_at": "2026-10-16T19:52:59.127965"
+    },
+    "gorra-new-era-colorado-9forty-mcrown-marron": {
+      "handle": "gorra-new-era-colorado-9forty-mcrown-marron",
+      "title": "GORRA NEW ERA COLORADO 9FORTY MCROWN MARRON",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-colorado-9forty-mcrown-marron",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-colorado-9forty-mcrown-marron.jpg?width=500",
+      "created_at": "2026-10-16T18:38:04+02:00",
+      "found_at": "2026-10-16T19:52:59.127970"
+    },
+    "gorra-new-era-chicago-white-sox-59fifty-cord-down-flap-negra": {
+      "handle": "gorra-new-era-chicago-white-sox-59fifty-cord-down-flap-negra",
+      "title": "GORRA NEW ERA CHICAGO WHITE SOX 59FIFTY CORD DOWN FLAP NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-chicago-white-sox-59fifty-cord-down-flap-negra",
+      "price": 74.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-59fifty-cord-down-flap-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:37:49+02:00",
+      "found_at": "2026-10-16T19:52:59.127976"
+    },
+    "gorra-new-era-new-york-yankees-59fifty-wire-negra": {
+      "handle": "gorra-new-era-new-york-yankees-59fifty-wire-negra",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 59FIFTY WIRE NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-59fifty-wire-negra",
+      "price": 54.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-wire-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:37:30+02:00",
+      "found_at": "2026-10-16T19:52:59.127983"
+    },
+    "gorra-new-era-los-angeles-dodgers-59fifty-wire-negra": {
+      "handle": "gorra-new-era-los-angeles-dodgers-59fifty-wire-negra",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 59FIFTY WIRE NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-59fifty-wire-negra",
+      "price": 54.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-wire-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:37:12+02:00",
+      "found_at": "2026-10-16T19:52:59.127989"
+    },
+    "gorra-new-era-los-angeles-dodgers-59fifty-cooperstown-floral-gris": {
+      "handle": "gorra-new-era-los-angeles-dodgers-59fifty-cooperstown-floral-gris",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 59FIFTY COOPERSTOWN FLORAL GRIS",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-59fifty-cooperstown-floral-gris",
+      "price": 58.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-cooperstown-floral-gris.jpg?width=500",
+      "created_at": "2026-10-16T18:36:54+02:00",
+      "found_at": "2026-10-16T19:52:59.127995"
+    },
+    "gorra-new-era-new-york-yankees-59fifty-cooperstown-floral-negra": {
+      "handle": "gorra-new-era-new-york-yankees-59fifty-cooperstown-floral-negra",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 59FIFTY COOPERSTOWN FLORAL NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-59fifty-cooperstown-floral-negra",
+      "price": 58.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-cooperstown-floral-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:36:25+02:00",
+      "found_at": "2026-10-16T19:52:59.128001"
+    },
+    "gorra-new-era-new-york-yankees-59fifty-poly-kanji-marino": {
+      "handle": "gorra-new-era-new-york-yankees-59fifty-poly-kanji-marino",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 59FIFTY POLY KANJI MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-59fifty-poly-kanji-marino",
+      "price": 48.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-poly-kanji-marino.jpg?width=500",
+      "created_at": "2026-10-16T18:36:07+02:00",
+      "found_at": "2026-10-16T19:52:59.128008"
+    },
+    "gorra-new-era-los-angeles-dodgers-59fifty-poly-kanji-royal": {
+      "handle": "gorra-new-era-los-angeles-dodgers-59fifty-poly-kanji-royal",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 59FIFTY POLY KANJI ROYAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-59fifty-poly-kanji-royal",
+      "price": 48.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-poly-kanji-royal.jpg?width=500",
+      "created_at": "2026-10-16T18:35:49+02:00",
+      "found_at": "2026-10-16T19:52:59.128014"
+    },
+    "gorra-new-era-los-angeles-dodgers-59fifty-mlb-mythical-royal": {
+      "handle": "gorra-new-era-los-angeles-dodgers-59fifty-mlb-mythical-royal",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 59FIFTY MLB MYTHICAL ROYAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-59fifty-mlb-mythical-royal",
+      "price": 54.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-mlb-mythical-royal.jpg?width=500",
+      "created_at": "2026-10-16T18:35:20+02:00",
+      "found_at": "2026-10-16T19:52:59.128020"
+    },
+    "gorra-new-era-new-york-yankees-59fifty-mlb-mythical-negra": {
+      "handle": "gorra-new-era-new-york-yankees-59fifty-mlb-mythical-negra",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 59FIFTY MLB MYTHICAL NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-59fifty-mlb-mythical-negra",
+      "price": 54.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-mlb-mythical-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:35:04+02:00",
+      "found_at": "2026-10-16T19:52:59.128027"
+    },
+    "gorra-new-era-oakland-athletics-950-a-frame-evergreen-verde": {
+      "handle": "gorra-new-era-oakland-athletics-950-a-frame-evergreen-verde",
+      "title": "GORRA NEW ERA OAKLAND ATHLETICS 950 A FRAME EVERGREEN VERDE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-oakland-athletics-950-a-frame-evergreen-verde",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-oakland-athletics-950-a-frame-evergreen-verde.jpg?width=500",
+      "created_at": "2026-10-16T18:34:53+02:00",
+      "found_at": "2026-10-16T19:52:59.128032"
+    },
+    "gorra-new-era-san-diego-padres-950-a-frame-evergreen-marron": {
+      "handle": "gorra-new-era-san-diego-padres-950-a-frame-evergreen-marron",
+      "title": "GORRA NEW ERA SAN DIEGO PADRES 950 A FRAME EVERGREEN MARRON",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-san-diego-padres-950-a-frame-evergreen-marron",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-san-diego-padres-950-a-frame-evergreen-marron.jpg?width=500",
+      "created_at": "2026-10-16T18:34:40+02:00",
+      "found_at": "2026-10-16T19:52:59.128037"
+    },
+    "gorra-new-era-pittsbourg-pirates-950-a-frame-evergreen-negra": {
+      "handle": "gorra-new-era-pittsbourg-pirates-950-a-frame-evergreen-negra",
+      "title": "GORRA NEW ERA PITTSBOURG PIRATES 950 A FRAME EVERGREEN NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-pittsbourg-pirates-950-a-frame-evergreen-negra",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-pittsbourg-pirates-950-a-frame-evergreen-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:34:25+02:00",
+      "found_at": "2026-10-16T19:52:59.128043"
+    },
+    "gorra-new-era-new-york-yankees-950-a-frame-evergreen-marino": {
+      "handle": "gorra-new-era-new-york-yankees-950-a-frame-evergreen-marino",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 950 A FRAME EVERGREEN MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-950-a-frame-evergreen-marino",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-950-a-frame-evergreen-marino.jpg?width=500",
+      "created_at": "2026-10-16T18:34:10+02:00",
+      "found_at": "2026-10-16T19:52:59.128048"
+    },
+    "gorra-new-era-philadelphia-pillies-950-a-frame-evergreen-roja": {
+      "handle": "gorra-new-era-philadelphia-pillies-950-a-frame-evergreen-roja",
+      "title": "GORRA NEW ERA PHILADELPHIA PILLIES 950 A FRAME EVERGREEN ROJA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-philadelphia-pillies-950-a-frame-evergreen-roja",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-philadelphia-pillies-950-a-frame-evergreen-roja.jpg?width=500",
+      "created_at": "2026-10-16T18:33:55+02:00",
+      "found_at": "2026-10-16T19:52:59.128053"
+    },
+    "gorra-new-era-detroit-tigers-950-a-frame-evergreen-marino": {
+      "handle": "gorra-new-era-detroit-tigers-950-a-frame-evergreen-marino",
+      "title": "GORRA NEW ERA DETROIT TIGERS 950 A FRAME EVERGREEN MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-detroit-tigers-950-a-frame-evergreen-marino",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-detroit-tigers-950-a-frame-evergreen-marino.jpg?width=500",
+      "created_at": "2026-10-16T18:33:37+02:00",
+      "found_at": "2026-10-16T19:52:59.128058"
+    },
+    "gorra-new-era-chicago-white-sox-950-a-frame-evergreen-negra": {
+      "handle": "gorra-new-era-chicago-white-sox-950-a-frame-evergreen-negra",
+      "title": "GORRA NEW ERA CHICAGO WHITE SOX 950 A FRAME EVERGREEN NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-chicago-white-sox-950-a-frame-evergreen-negra",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-950-a-frame-evergreen-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:33:23+02:00",
+      "found_at": "2026-10-16T19:52:59.128063"
+    },
+    "gorra-new-era-los-angeles-dodgers-950-a-frame-evergreen-royal": {
+      "handle": "gorra-new-era-los-angeles-dodgers-950-a-frame-evergreen-royal",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 950 A FRAME EVERGREEN ROYAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-950-a-frame-evergreen-royal",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-950-a-frame-evergreen-royal.jpg?width=500",
+      "created_at": "2026-10-16T18:33:10+02:00",
+      "found_at": "2026-10-16T19:52:59.128068"
+    },
+    "gorra-new-era-boston-red-sox-950-a-frame-evergreen-marino": {
+      "handle": "gorra-new-era-boston-red-sox-950-a-frame-evergreen-marino",
+      "title": "GORRA NEW ERA BOSTON RED SOX 950 A FRAME EVERGREEN MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-boston-red-sox-950-a-frame-evergreen-marino",
+      "price": 40.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-boston-red-sox-950-a-frame-evergreen-marino.jpg?width=500",
+      "created_at": "2026-10-16T18:32:56+02:00",
+      "found_at": "2026-10-16T19:52:59.128073"
+    },
+    "gorra-new-era-pitssbourg-pirates-950-a-frame-evergreen-negra": {
+      "handle": "gorra-new-era-pitssbourg-pirates-950-a-frame-evergreen-negra",
+      "title": "GORRA NEW ERA PITSSBOURG PIRATES 950 A FRAME EVERGREEN NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-pitssbourg-pirates-950-a-frame-evergreen-negra",
+      "price": 36.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-pitssbourg-pirates-950-a-frame-evergreen-negra.jpg?width=500",
+      "created_at": "2026-10-16T18:32:43+02:00",
+      "found_at": "2026-10-16T19:52:59.128079"
+    },
+    "gorra-new-era-new-york-yankees-evergreen-950-blanca": {
+      "handle": "gorra-new-era-new-york-yankees-evergreen-950-blanca",
+      "title": "GORRA NEW ERA NEW YORK YANKEES EVERGREEN 950 BLANCA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-evergreen-950-blanca",
+      "price": 36.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-evergreen-950-blanca.jpg?width=500",
+      "created_at": "2026-10-16T18:32:29+02:00",
+      "found_at": "2026-10-16T19:52:59.128084"
+    },
+    "gorra-new-era-chicago-white-sox-evergreen-950-blanca": {
+      "handle": "gorra-new-era-chicago-white-sox-evergreen-950-blanca",
+      "title": "GORRA NEW ERA CHICAGO WHITE SOX EVERGREEN 950 BLANCA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-chicago-white-sox-evergreen-950-blanca",
+      "price": 36.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-evergreen-950-blanca.jpg?width=500",
+      "created_at": "2026-10-16T18:32:16+02:00",
+      "found_at": "2026-10-16T19:52:59.128090"
+    },
+    "sudadera-upscale-notorius-big-biggie-smalls-concrete-heaviwheight-oversized-hood": {
+      "handle": "sudadera-upscale-notorius-big-biggie-smalls-concrete-heaviwheight-oversized-hood",
+      "title": "SUDADERA UPSCALE NOTORIUS BIG BIGGIE SMALLS CONCRETE HEAVIWHEIGHT OVERSIZED HOOD",
+      "brand": "MISTER TEE",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-upscale-notorius-big-biggie-smalls-concrete-heaviwheight-oversized-hood",
+      "price": 69.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-upscale-notorius-big-biggie-smalls-concrete-heaviwheight-oversized-hood.jpg?width=500",
+      "created_at": "2026-10-16T18:31:52+02:00",
+      "found_at": "2026-10-16T19:52:59.128098"
+    },
+    "pantalon-gris-brooklin-brushed-script-jogger-pant": {
+      "handle": "pantalon-gris-brooklin-brushed-script-jogger-pant",
+      "title": "PANTALON GRIS BROOKLIN BRUSHED SCRIPT JOGGER PANT",
+      "brand": "OVER STREET",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-gris-brooklin-brushed-script-jogger-pant",
+      "price": 19.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-gris-brooklin-brushed-script-jogger-pant.jpg?width=500",
+      "created_at": "2026-10-16T18:30:14+02:00",
+      "found_at": "2026-10-16T19:52:59.128106"
+    },
+    "pantalon-marron-brooklin-brushed-script-jogger-pant": {
+      "handle": "pantalon-marron-brooklin-brushed-script-jogger-pant",
+      "title": "PANTALON MARRON BROOKLIN BRUSHED SCRIPT JOGGER PANT",
+      "brand": "OVER STREET",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-marron-brooklin-brushed-script-jogger-pant",
+      "price": 19.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-marron-brooklin-brushed-script-jogger-pant.jpg?width=500",
+      "created_at": "2026-10-16T18:29:57+02:00",
+      "found_at": "2026-10-16T19:52:59.128114"
+    },
+    "pantalon-negro-brooklin-brushed-script-jogger-pant": {
+      "handle": "pantalon-negro-brooklin-brushed-script-jogger-pant",
+      "title": "PANTALON NEGRO BROOKLIN BRUSHED SCRIPT JOGGER PANT",
+      "brand": "OVER STREET",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-negro-brooklin-brushed-script-jogger-pant",
+      "price": 19.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-negro-brooklin-brushed-script-jogger-pant.jpg?width=500",
+      "created_at": "2026-10-16T18:29:36+02:00",
+      "found_at": "2026-10-16T19:52:59.128120"
+    },
+    "sudadera-gris-brooklin-brushed-script-hoodie": {
+      "handle": "sudadera-gris-brooklin-brushed-script-hoodie",
+      "title": "SUDADERA GRIS BROOKLIN BRUSHED SCRIPT HOODIE",
+      "brand": "OVER STREET",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-gris-brooklin-brushed-script-hoodie",
+      "price": 27.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-gris-brooklin-brushed-script-hoodie.jpg?width=500",
+      "created_at": "2026-10-16T18:29:19+02:00",
+      "found_at": "2026-10-16T19:52:59.128128"
+    },
+    "sudadera-marron-brooklin-brushed-script-hoodie": {
+      "handle": "sudadera-marron-brooklin-brushed-script-hoodie",
+      "title": "SUDADERA MARRON BROOKLIN BRUSHED SCRIPT HOODIE",
+      "brand": "OVER STREET",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-marron-brooklin-brushed-script-hoodie",
+      "price": 27.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-marron-brooklin-brushed-script-hoodie.jpg?width=500",
+      "created_at": "2026-10-16T18:29:02+02:00",
+      "found_at": "2026-10-16T19:52:59.128135"
+    },
+    "sudadera-negra-brooklin-brushed-script-hoodie": {
+      "handle": "sudadera-negra-brooklin-brushed-script-hoodie",
+      "title": "SUDADERA NEGRA BROOKLIN BRUSHED SCRIPT HOODIE",
+      "brand": "OVER STREET",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-negra-brooklin-brushed-script-hoodie",
+      "price": 27.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-negra-brooklin-brushed-script-hoodie.jpg?width=500",
+      "created_at": "2026-10-16T18:28:45+02:00",
+      "found_at": "2026-10-16T19:52:59.128143"
+    },
+    "pantalon-gris-brooklin-jogger-pant": {
+      "handle": "pantalon-gris-brooklin-jogger-pant",
+      "title": "PANTALON GRIS BROOKLIN JOGGER PANT",
+      "brand": "OVER STREET",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-gris-brooklin-jogger-pant",
+      "price": 19.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-gris-brooklin-jogger-pant.jpg?width=500",
+      "created_at": "2026-10-16T18:28:04+02:00",
+      "found_at": "2026-10-16T19:52:59.128151"
+    },
+    "pantalon-negro-brooklin-jogger-pant": {
+      "handle": "pantalon-negro-brooklin-jogger-pant",
+      "title": "PANTALON NEGRO BROOKLIN JOGGER PANT",
+      "brand": "OVER STREET",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-negro-brooklin-jogger-pant",
+      "price": 19.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-negro-brooklin-jogger-pant.jpg?width=500",
+      "created_at": "2026-10-16T18:27:49+02:00",
+      "found_at": "2026-10-16T19:52:59.128158"
+    },
+    "pantalon-blanco-brooklin-jogger-pant": {
+      "handle": "pantalon-blanco-brooklin-jogger-pant",
+      "title": "PANTALON BLANCO BROOKLIN JOGGER PANT",
+      "brand": "OVER STREET",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-blanco-brooklin-jogger-pant",
+      "price": 19.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-blanco-brooklin-jogger-pant.jpg?width=500",
+      "created_at": "2026-10-16T18:27:33+02:00",
+      "found_at": "2026-10-16T19:52:59.128166"
+    },
+    "sudadera-gris-brooklin-hoodie": {
+      "handle": "sudadera-gris-brooklin-hoodie",
+      "title": "SUDADERA GRIS BROOKLIN HOODIE",
+      "brand": "OVER STREET",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-gris-brooklin-hoodie",
+      "price": 24.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-gris-brooklin-hoodie.jpg?width=500",
+      "created_at": "2026-10-16T18:27:17+02:00",
+      "found_at": "2026-10-16T19:52:59.128173"
+    },
+    "sudadera-negra-brooklin-hoodie": {
+      "handle": "sudadera-negra-brooklin-hoodie",
+      "title": "SUDADERA NEGRA BROOKLIN HOODIE",
+      "brand": "OVER STREET",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-negra-brooklin-hoodie",
+      "price": 24.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-negra-brooklin-hoodie.jpg?width=500",
+      "created_at": "2026-10-16T18:26:58+02:00",
+      "found_at": "2026-10-16T19:52:59.128180"
+    },
+    "sudadera-blanca-brooklin-hoodie": {
+      "handle": "sudadera-blanca-brooklin-hoodie",
+      "title": "SUDADERA BLANCA BROOKLIN HOODIE",
+      "brand": "OVER STREET",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-blanca-brooklin-hoodie",
+      "price": 24.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-blanca-brooklin-hoodie.jpg?width=500",
+      "created_at": "2026-10-16T18:26:41+02:00",
+      "found_at": "2026-10-16T19:52:59.128187"
+    },
+    "gorra-new-era-miami-dolphins-59fifty-evergreen-turquesa": {
+      "handle": "gorra-new-era-miami-dolphins-59fifty-evergreen-turquesa",
+      "title": "GORRA NEW ERA MIAMI DOLPHINS 59FIFTY EVERGREEN TURQUESA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-miami-dolphins-59fifty-evergreen-turquesa",
+      "price": 42.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "678",
+        "7",
+        "718",
+        "714",
+        "738",
+        "712",
+        "758",
+        "734",
+        "778",
+        "8"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-miami-dolphins-59fifty-evergreen-turquesa.jpg?width=500",
+      "created_at": "2026-10-16T16:08:06+02:00",
+      "found_at": "2026-10-16T19:52:59.128198"
+    },
     "pantalon-rosa-blanco-falling-stars-jogger-1": {
       "handle": "pantalon-rosa-blanco-falling-stars-jogger-1",
       "title": "PANTALON ROSA/BLANCO FALLING STARS JOGGER",
@@ -565,7 +1709,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-side-patch-evergreen-marino.jpg?width=500",
       "created_at": "2026-10-15T19:43:39+02:00",
@@ -581,7 +1734,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-san-diego-padres-59fifty-side-patch-evergreen-marron.jpg?width=500",
       "created_at": "2026-10-15T19:43:13+02:00",
@@ -597,7 +1759,15 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-595fifty-side-patch-evergreen-negra.jpg?width=500",
       "created_at": "2026-10-15T19:42:48+02:00",
@@ -613,7 +1783,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-side-patch-evergreen-royal.jpg?width=500",
       "created_at": "2026-10-15T19:42:22+02:00",
@@ -629,7 +1808,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-pittsbourg-pirates-59fifty-evregreen-negra.jpg?width=500",
       "created_at": "2026-10-15T19:41:58+02:00",
@@ -645,7 +1833,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-philladelphia-phillies-59fifty-evergreen-roja.jpg?width=500",
       "created_at": "2026-10-15T19:41:32+02:00",
@@ -661,7 +1858,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-san-diego-padres-59fifty-evergreen-marron.jpg?width=500",
       "created_at": "2026-10-15T19:41:06+02:00",
@@ -677,7 +1883,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-oakland-athletics-59fifty-evergreen-verde.jpg?width=500",
       "created_at": "2026-10-15T19:40:40+02:00",
@@ -693,7 +1908,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-evergreen-marino.jpg?width=500",
       "created_at": "2026-10-15T19:40:16+02:00",
@@ -709,7 +1933,15 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-toronto-jays-59fifty-evergreen-royal.jpg?width=500",
       "created_at": "2026-10-15T19:39:51+02:00",
@@ -725,7 +1957,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-evergreen-royal.jpg?width=500",
       "created_at": "2026-10-15T19:39:25+02:00",
@@ -741,7 +1982,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-59fifty-evergreen-negra.jpg?width=500",
       "created_at": "2026-10-15T19:39:00+02:00",
@@ -757,7 +2007,16 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/4"
+        "6 7/8",
+        "7",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-philadelphia-eagles-59fifty-evergreen-verde.jpg?width=500",
       "created_at": "2026-10-15T19:38:32+02:00",
@@ -1071,7 +2330,8 @@
         "M",
         "L",
         "XL",
-        "XXL"
+        "XXL",
+        "S"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-champion-marino-woven-bomber-jacket.jpg?width=500",
       "created_at": "2026-10-09T12:54:33+02:00",
@@ -5712,6 +6972,7 @@
       "compare": 69.99,
       "available": true,
       "sizes": [
+        "XS",
         "S",
         "M",
         "L",
@@ -6046,7 +7307,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL"
@@ -10515,6 +11775,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -10927,6 +12189,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
         "M",
         "L",
         "XL",
@@ -11251,6 +12514,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
+        "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -11268,7 +12534,10 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
         "M",
+        "L",
+        "XL",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-morado-joker-dc27-cra-standard-length-trunk.jpg?width=500",
@@ -11285,6 +12554,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -11606,8 +12877,7 @@
       "sizes": [
         "XS",
         "S",
-        "M",
-        "L"
+        "M"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-new-era-negra-pittsbourg-pirates-ns-mbl-regular-tee-pitpir.jpg?width=500",
       "created_at": "2026-07-03T01:45:08+02:00",
@@ -11711,5 +12981,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-16T12:21:17.248516"
+  "last_check": "2026-10-16T19:53:02.609035"
 }
