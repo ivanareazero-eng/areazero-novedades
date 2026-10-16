@@ -1,5 +1,137 @@
 {
   "products": {
+    "pantalon-rosa-blanco-falling-stars-jogger-1": {
+      "handle": "pantalon-rosa-blanco-falling-stars-jogger-1",
+      "title": "PANTALON ROSA/BLANCO FALLING STARS JOGGER",
+      "brand": "OVER STREET",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-rosa-blanco-falling-stars-jogger-1",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/blanco-falling-stars-jogger_1038b56b-834a-4f58-9764-fd00df67e65b.jpg?width=500",
+      "created_at": "2026-10-16T09:29:10+02:00",
+      "found_at": "2026-10-16T12:21:13.061497"
+    },
+    "sudadera-rosa-blanca-falling-stars-hoodie-1": {
+      "handle": "sudadera-rosa-blanca-falling-stars-hoodie-1",
+      "title": "SUDADERA ROSA/BLANCA FALLING STARS HOODIE",
+      "brand": "OVER STREET",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-rosa-blanca-falling-stars-hoodie-1",
+      "price": 39.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/blanca-falling-stars-hoodie_fde21915-1d9f-479b-860d-7cc6cb93837f.jpg?width=500",
+      "created_at": "2026-10-16T09:28:53+02:00",
+      "found_at": "2026-10-16T12:21:13.061518"
+    },
+    "pantalon-gris-blanco-falling-stars-jogger-1": {
+      "handle": "pantalon-gris-blanco-falling-stars-jogger-1",
+      "title": "PANTALON GRIS/BLANCO FALLING STARS JOGGER",
+      "brand": "OVER STREET",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-gris-blanco-falling-stars-jogger-1",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/blanco-falling-stars-jogger_debc8f0c-fdee-45d4-a17f-28944684d6a1.jpg?width=500",
+      "created_at": "2026-10-16T09:24:12+02:00",
+      "found_at": "2026-10-16T12:21:13.061527"
+    },
+    "sudadera-gris-blanca-falling-stars-hoodie-1": {
+      "handle": "sudadera-gris-blanca-falling-stars-hoodie-1",
+      "title": "SUDADERA GRIS/BLANCA FALLING STARS HOODIE",
+      "brand": "OVER STREET",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-gris-blanca-falling-stars-hoodie-1",
+      "price": 39.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/blanca-falling-stars-hoodie_cb8cfc22-2a9f-409f-ad17-41a49f593d1d.jpg?width=500",
+      "created_at": "2026-10-16T09:23:56+02:00",
+      "found_at": "2026-10-16T12:21:13.061532"
+    },
+    "pantalon-negro-blanco-falling-stars-jogger-1": {
+      "handle": "pantalon-negro-blanco-falling-stars-jogger-1",
+      "title": "PANTALON NEGRO/NEGRO FALLING STARS JOGGER",
+      "brand": "OVER STREET",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-negro-blanco-falling-stars-jogger-1",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/blanco-falling-stars-jogger_a7a39c19-a516-4480-9f2f-79a7c8af5f15.jpg?width=500",
+      "created_at": "2026-10-16T09:23:39+02:00",
+      "found_at": "2026-10-16T12:21:13.061539"
+    },
+    "sudadera-negra-negra-falling-stars-hoodie-1": {
+      "handle": "sudadera-negra-negra-falling-stars-hoodie-1",
+      "title": "SUDADERA NEGRA/NEGRA FALLING STARS HOODIE",
+      "brand": "OVER STREET",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-negra-negra-falling-stars-hoodie-1",
+      "price": 39.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/negra-falling-stars-hoodie.jpg?width=500",
+      "created_at": "2026-10-16T09:23:22+02:00",
+      "found_at": "2026-10-16T12:21:13.061544"
+    },
     "cazadora-grimey-negra-the-props-reversible-leopard-hooded-jacket": {
       "handle": "cazadora-grimey-negra-the-props-reversible-leopard-hooded-jacket",
       "title": "CAZADORA GRIMEY NEGRA THE PROPS REVERSIBLE LEOPARD HOODED JACKET",
@@ -433,7 +565,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-side-patch-evergreen-marino.jpg?width=500",
       "created_at": "2026-10-15T19:43:39+02:00",
@@ -449,7 +581,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-san-diego-padres-59fifty-side-patch-evergreen-marron.jpg?width=500",
       "created_at": "2026-10-15T19:43:13+02:00",
@@ -465,7 +597,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-595fifty-side-patch-evergreen-negra.jpg?width=500",
       "created_at": "2026-10-15T19:42:48+02:00",
@@ -481,7 +613,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-side-patch-evergreen-royal.jpg?width=500",
       "created_at": "2026-10-15T19:42:22+02:00",
@@ -497,7 +629,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-pittsbourg-pirates-59fifty-evregreen-negra.jpg?width=500",
       "created_at": "2026-10-15T19:41:58+02:00",
@@ -513,7 +645,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-philladelphia-phillies-59fifty-evergreen-roja.jpg?width=500",
       "created_at": "2026-10-15T19:41:32+02:00",
@@ -529,7 +661,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-san-diego-padres-59fifty-evergreen-marron.jpg?width=500",
       "created_at": "2026-10-15T19:41:06+02:00",
@@ -545,7 +677,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-oakland-athletics-59fifty-evergreen-verde.jpg?width=500",
       "created_at": "2026-10-15T19:40:40+02:00",
@@ -561,7 +693,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-evergreen-marino.jpg?width=500",
       "created_at": "2026-10-15T19:40:16+02:00",
@@ -577,7 +709,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-toronto-jays-59fifty-evergreen-royal.jpg?width=500",
       "created_at": "2026-10-15T19:39:51+02:00",
@@ -593,7 +725,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-evergreen-royal.jpg?width=500",
       "created_at": "2026-10-15T19:39:25+02:00",
@@ -609,7 +741,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-59fifty-evergreen-negra.jpg?width=500",
       "created_at": "2026-10-15T19:39:00+02:00",
@@ -625,7 +757,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "714"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-philadelphia-eagles-59fifty-evergreen-verde.jpg?width=500",
       "created_at": "2026-10-15T19:38:32+02:00",
@@ -799,62 +931,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorro-new-era-leopard-faux-fur-trapper.jpg?width=500",
       "created_at": "2026-10-09T12:57:50+02:00",
       "found_at": "2026-10-13T09:25:46.371444"
-    },
-    "gorra-new-era-hell-fire-lives-9forty-e-frame-stranger-things-10-years-negra": {
-      "handle": "gorra-new-era-hell-fire-lives-9forty-e-frame-stranger-things-10-years-negra",
-      "title": "GORRA NEW ERA HELL FIRE LIVES 9FORTY E FRAME STRANGER THINGS 10 YEARS NEGRA",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-hell-fire-lives-9forty-e-frame-stranger-things-10-years-negra",
-      "price": 39.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-hell-fire-lives-9forty-e-frame-stranger-things-10-years-negra.jpg?width=500",
-      "created_at": "2026-10-09T12:57:32+02:00",
-      "found_at": "2026-10-13T09:25:46.371447"
-    },
-    "gorra-new-era-strangre-things-logo-10-years-distressed": {
-      "handle": "gorra-new-era-strangre-things-logo-10-years-distressed",
-      "title": "GORRA NEW ERA STRANGER THINGS LOGO 10 YEARS DISTRESSED",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-strangre-things-logo-10-years-distressed",
-      "price": 43.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-strangre-things-logo-10-years-distressed.jpg?width=500",
-      "created_at": "2026-10-09T12:57:17+02:00",
-      "found_at": "2026-10-13T09:25:46.371450"
-    },
-    "gorra-new-era-hell-fire-lives-stranger-things-10-years-negra": {
-      "handle": "gorra-new-era-hell-fire-lives-stranger-things-10-years-negra",
-      "title": "GORRA NEW ERA HELL FIRE LIVES STRANGER THINGS 10 YEARS NEGRA",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-hell-fire-lives-stranger-things-10-years-negra",
-      "price": 43.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-hell-fire-lives-stranger-things-10-years-negra.jpg?width=500",
-      "created_at": "2026-10-09T12:56:59+02:00",
-      "found_at": "2026-10-13T09:25:46.371453"
-    },
-    "gorra-new-era-59fifty-stranger-things-10-years-negra": {
-      "handle": "gorra-new-era-59fifty-stranger-things-10-years-negra",
-      "title": "GORRA NEW ERA 59FIFTY STRANGER THINGS 10 YEARS NEGRA",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-59fifty-stranger-things-10-years-negra",
-      "price": 51.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-59fifty-stranger-things-10-years-negra.jpg?width=500",
-      "created_at": "2026-10-09T12:56:36+02:00",
-      "found_at": "2026-10-13T09:25:46.371456"
     },
     "boina-new-era-new-york-yankees-leopard-beret-marron": {
       "handle": "boina-new-era-new-york-yankees-leopard-beret-marron",
@@ -6625,20 +6701,6 @@
       "created_at": "2026-09-07T20:07:46+02:00",
       "found_at": "2026-10-13T09:25:47.895584"
     },
-    "cinturon-blanco-cruces-cross-belt": {
-      "handle": "cinturon-blanco-cruces-cross-belt",
-      "title": "CINTURON BLANCO CRUCES CROSS BELT",
-      "brand": "OVER STREET",
-      "type": "CINTURONES",
-      "url": "https://areazero.biz/products/cinturon-blanco-cruces-cross-belt",
-      "price": 19.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cinturon-blanco-cross-belt.jpg?width=500",
-      "created_at": "2026-09-07T20:07:42+02:00",
-      "found_at": "2026-10-13T09:25:47.895587"
-    },
     "boxer-psd-negro-pantera-night-prowler-standard-lenght-trunk": {
       "handle": "boxer-psd-negro-pantera-night-prowler-standard-lenght-trunk",
       "title": "BOXER PSD NEGRO PANTERA NIGHT PROWLER STANDARD LENGTH TRUNK",
@@ -7086,20 +7148,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/mochila-sprayground-celeste-checkered-peanuts-snoopy-jams-backpack.jpg?width=500",
       "created_at": "2026-09-01T13:38:29+02:00",
       "found_at": "2026-10-13T09:25:47.895665"
-    },
-    "estuche-sprayground-blanco-cream-space-drip-pouch": {
-      "handle": "estuche-sprayground-blanco-cream-space-drip-pouch",
-      "title": "ESTUCHE SPRAYGROUND BLANCO CREAM SPACE DRIP POUCH",
-      "brand": "SPRAYGROUND",
-      "type": "ESTUCHES",
-      "url": "https://areazero.biz/products/estuche-sprayground-blanco-cream-space-drip-pouch",
-      "price": 44.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/estuche-sprayground-blanco-cream-space-drip-pouch.jpg?width=500",
-      "created_at": "2026-09-01T13:38:09+02:00",
-      "found_at": "2026-10-13T09:25:47.895668"
     },
     "mochila-sprayground-blanca-sharks-in-paris-3d-effect-backpack": {
       "handle": "mochila-sprayground-blanca-sharks-in-paris-3d-effect-backpack",
@@ -10086,20 +10134,6 @@
       "created_at": "2026-07-10T12:26:51+02:00",
       "found_at": "2026-10-13T09:25:49.522747"
     },
-    "gorra-new-era-negra-bulls-nba-side-script-9forty-mc-chibul": {
-      "handle": "gorra-new-era-negra-bulls-nba-side-script-9forty-mc-chibul",
-      "title": "GORRA NEW ERA 9FORTY CHICAGO BULLS NBA SIDE SCRIPT NEGRA",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-negra-bulls-nba-side-script-9forty-mc-chibul",
-      "price": 27.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-negra-bulls-nba-side-script-9forty-mc-chibul.jpg?width=500",
-      "created_at": "2026-07-10T12:26:40+02:00",
-      "found_at": "2026-10-13T09:25:49.522749"
-    },
     "gorra-new-era-beige-yankees-cord-9forty-mc-neyyan": {
       "handle": "gorra-new-era-beige-yankees-cord-9forty-mc-neyyan",
       "title": "GORRA NEW ERA BEIGE YANKEES CORD 9FORTY MC NEYYAN",
@@ -11677,5 +11711,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-15T20:15:59.959827"
+  "last_check": "2026-10-16T12:21:17.248516"
 }
