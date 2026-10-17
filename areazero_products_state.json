@@ -1,24 +1,8 @@
 {
   "products": {
-    "tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck": {
-      "handle": "tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck",
-      "title": "TABLA SANTA CRUZ X POKEMON TCG BLIND BAG DECK",
-      "brand": "SANTA CRUZ",
-      "type": "ACCESORIOS",
-      "url": "https://areazero.biz/products/tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck",
-      "price": 179.99,
-      "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck.jpg?width=500",
-      "created_at": "2026-10-16T18:48:28+02:00",
-      "found_at": "2026-10-16T19:52:59.127756"
-    },
     "sudadera-santa-cruz-x-pokemon-roja-tcg-hand-zip-hoodes-sweatshirt": {
       "handle": "sudadera-santa-cruz-x-pokemon-roja-tcg-hand-zip-hoodes-sweatshirt",
-      "title": "SUDADERA SANTA CRUZ X POKEMON ROJA TCG HAND ZIP HOODES SWEATSHIRT",
+      "title": "SUDADERA SANTA CRUZ X POKEMON ROJA TCG HAND ZIP HOODED SWEATSHIRT",
       "brand": "SANTA CRUZ",
       "type": "SUDADERAS",
       "url": "https://areazero.biz/products/sudadera-santa-cruz-x-pokemon-roja-tcg-hand-zip-hoodes-sweatshirt",
@@ -31,7 +15,7 @@
         "L",
         "XL"
       ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-santa-cruz-x-pokemon-roja-tcg-hand-zip-hoodes-sweatshirt.jpg?width=500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/7.png?width=500",
       "created_at": "2026-10-16T18:48:19+02:00",
       "found_at": "2026-10-16T19:52:59.127778"
     },
@@ -50,7 +34,7 @@
         "L",
         "XL"
       ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-santa-cruz-x-pokemon-negra-tcg-hand-zip-hooded-sweatshirt.jpg?width=500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/6.png?width=500",
       "created_at": "2026-10-16T18:48:10+02:00",
       "found_at": "2026-10-16T19:52:59.127789"
     },
@@ -69,7 +53,7 @@
         "L",
         "XL"
       ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-santa-cruz-x-pokemon-negra-energy-dot-hoodie.jpg?width=500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/5.png?width=500",
       "created_at": "2026-10-16T18:48:01+02:00",
       "found_at": "2026-10-16T19:52:59.127797"
     },
@@ -89,7 +73,7 @@
         "XL",
         "XXL"
       ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-santa-cruz-x-pokemon-negra-tcg-hand-tee.jpg?width=500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/4.png?width=500",
       "created_at": "2026-10-16T18:47:50+02:00",
       "found_at": "2026-10-16T19:52:59.127807"
     },
@@ -109,13 +93,13 @@
         "XL",
         "XXL"
       ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-santa-cruz-x-pokemon-blanca-tcg-hand-tee.jpg?width=500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/3_a2df722a-f009-49d4-bb3b-4e05de330dbc.png?width=500",
       "created_at": "2026-10-16T18:47:39+02:00",
       "found_at": "2026-10-16T19:52:59.127815"
     },
     "camiseta-santa-cruz-x-pokemon-nega-power-dot-heavyweight-tee": {
       "handle": "camiseta-santa-cruz-x-pokemon-nega-power-dot-heavyweight-tee",
-      "title": "CAMISETA SANTA CRUZ X POKEMON NEGA POWER DOT HEAVYWEIGHT TEE",
+      "title": "CAMISETA SANTA CRUZ X POKEMON NEGRA POWER DOT HEAVYWEIGHT TEE",
       "brand": "SANTA CRUZ",
       "type": "CAMISETAS",
       "url": "https://areazero.biz/products/camiseta-santa-cruz-x-pokemon-nega-power-dot-heavyweight-tee",
@@ -129,7 +113,7 @@
         "XL",
         "XXL"
       ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-santa-cruz-x-pokemon-nega-power-dot-heavyweight-tee.jpg?width=500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/2_89c596a9-21c1-459d-873d-bcb9410d0064.png?width=500",
       "created_at": "2026-10-16T18:47:28+02:00",
       "found_at": "2026-10-16T19:52:59.127824"
     },
@@ -149,7 +133,7 @@
         "XL",
         "XXL"
       ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-santa-cruz-x-pokemon-negra-energy-dot-heavyweight-tee.jpg?width=500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/1_ec0c6aa1-052e-4a84-b322-2a3b6800b96b.png?width=500",
       "created_at": "2026-10-16T18:47:17+02:00",
       "found_at": "2026-10-16T19:52:59.127831"
     },
@@ -518,9 +502,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "718",
-        "714",
-        "738"
+        "7 1/8",
+        "7 1/4",
+        "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-59fifty-cord-down-flap-negra.jpg?width=500",
       "created_at": "2026-10-16T18:37:49+02:00",
@@ -536,9 +520,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "718",
-        "714",
-        "738"
+        "7 1/8",
+        "7 1/4",
+        "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-wire-negra.jpg?width=500",
       "created_at": "2026-10-16T18:37:30+02:00",
@@ -554,9 +538,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "718",
-        "714",
-        "738"
+        "7 1/8",
+        "7 1/4",
+        "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-wire-negra.jpg?width=500",
       "created_at": "2026-10-16T18:37:12+02:00",
@@ -572,9 +556,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "718",
-        "714",
-        "738"
+        "7 1/8",
+        "7 1/4",
+        "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-cooperstown-floral-gris.jpg?width=500",
       "created_at": "2026-10-16T18:36:54+02:00",
@@ -590,9 +574,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "718",
-        "714",
-        "738"
+        "7 1/8",
+        "7 1/4",
+        "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-cooperstown-floral-negra.jpg?width=500",
       "created_at": "2026-10-16T18:36:25+02:00",
@@ -608,9 +592,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "718",
-        "714",
-        "738"
+        "7 1/8",
+        "7 1/4",
+        "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-poly-kanji-marino.jpg?width=500",
       "created_at": "2026-10-16T18:36:07+02:00",
@@ -626,9 +610,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "718",
-        "714",
-        "738"
+        "7 1/8",
+        "7 1/4",
+        "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-poly-kanji-royal.jpg?width=500",
       "created_at": "2026-10-16T18:35:49+02:00",
@@ -644,9 +628,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "718",
-        "714",
-        "738"
+        "7 1/8",
+        "7 1/4",
+        "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-mlb-mythical-royal.jpg?width=500",
       "created_at": "2026-10-16T18:35:20+02:00",
@@ -662,9 +646,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "718",
-        "714",
-        "738"
+        "7 1/8",
+        "7 1/4",
+        "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-mlb-mythical-negra.jpg?width=500",
       "created_at": "2026-10-16T18:35:04+02:00",
@@ -704,7 +688,7 @@
     },
     "gorra-new-era-pittsbourg-pirates-950-a-frame-evergreen-negra": {
       "handle": "gorra-new-era-pittsbourg-pirates-950-a-frame-evergreen-negra",
-      "title": "GORRA NEW ERA PITTSBOURG PIRATES 950 A FRAME EVERGREEN NEGRA",
+      "title": "GORRA NEW ERA PITTSBURGH PIRATES 950 A FRAME EVERGREEN NEGRA",
       "brand": "NEW ERA",
       "type": "GORRAS",
       "url": "https://areazero.biz/products/gorra-new-era-pittsbourg-pirates-950-a-frame-evergreen-negra",
@@ -736,7 +720,7 @@
     },
     "gorra-new-era-philadelphia-pillies-950-a-frame-evergreen-roja": {
       "handle": "gorra-new-era-philadelphia-pillies-950-a-frame-evergreen-roja",
-      "title": "GORRA NEW ERA PHILADELPHIA PILLIES 950 A FRAME EVERGREEN ROJA",
+      "title": "GORRA NEW ERA PHILADELPHIA PHILLIES 950 A FRAME EVERGREEN ROJA",
       "brand": "NEW ERA",
       "type": "GORRAS",
       "url": "https://areazero.biz/products/gorra-new-era-philadelphia-pillies-950-a-frame-evergreen-roja",
@@ -1767,7 +1751,8 @@
         "7 1/2",
         "7 5/8",
         "7 3/4",
-        "7 7/8"
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-595fifty-side-patch-evergreen-negra.jpg?width=500",
       "created_at": "2026-10-15T19:42:48+02:00",
@@ -1941,7 +1926,8 @@
         "7 1/2",
         "7 5/8",
         "7 3/4",
-        "7 7/8"
+        "7 7/8",
+        "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-toronto-jays-59fifty-evergreen-royal.jpg?width=500",
       "created_at": "2026-10-15T19:39:51+02:00",
@@ -5150,22 +5136,6 @@
       "created_at": "2026-09-28T15:51:29+02:00",
       "found_at": "2026-10-13T09:25:46.371954"
     },
-    "bolsa-de-deporte-sprayground-negra-sharks-in-paris-wtf-bubbly-black-check-mini": {
-      "handle": "bolsa-de-deporte-sprayground-negra-sharks-in-paris-wtf-bubbly-black-check-mini",
-      "title": "BOLSA DE DEPORTE SPRAYGROUND NEGRA SHARKS IN PARIS WTF BUBBLY BLACK CHECK MINI",
-      "brand": "SPRAYGROUND",
-      "type": "MALETAS",
-      "url": "https://areazero.biz/products/bolsa-de-deporte-sprayground-negra-sharks-in-paris-wtf-bubbly-black-check-mini",
-      "price": 134.99,
-      "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/bolsa-de-deporte-sprayground-negra-sharks-in-paris-wtf-bubbly-black-check-mini.jpg?width=500",
-      "created_at": "2026-09-28T15:51:13+02:00",
-      "found_at": "2026-10-13T09:25:46.371957"
-    },
     "cartera-sprayground-negra-blacked-out-embossed-gold-tooth-wallet": {
       "handle": "cartera-sprayground-negra-blacked-out-embossed-gold-tooth-wallet",
       "title": "CARTERA SPRAYGROUND NEGRA BLACKED OUT EMBOSSED GOLD TOOTH WALLET",
@@ -6047,7 +6017,8 @@
       "sizes": [
         "S",
         "M",
-        "L"
+        "L",
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-psd-celeste-diamantes-pb-vvs-standard-lenght-trunk.jpg?width=500",
       "created_at": "2026-09-22T12:52:42+02:00",
@@ -6249,7 +6220,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S"
+        "S",
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tripack-boxers-psd-wf-surge-standard-length-trunk-pack.jpg?width=500",
       "created_at": "2026-09-22T12:49:37+02:00",
@@ -11014,20 +10986,6 @@
       "created_at": "2026-07-13T14:41:17+02:00",
       "found_at": "2026-10-13T09:25:49.522684"
     },
-    "tracksuit-ovst-poly-tech-arm-negro": {
-      "handle": "tracksuit-ovst-poly-tech-arm-negro",
-      "title": "TRACKSUIT OVER STREET NEGRO POLY TECH ARM",
-      "brand": "OVER STREET",
-      "type": "",
-      "url": "https://areazero.biz/products/tracksuit-ovst-poly-tech-arm-negro",
-      "price": 35.98,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/102.jpg?width=500",
-      "created_at": "2026-07-13T14:09:08+02:00",
-      "found_at": "2026-10-13T09:25:49.522687"
-    },
     "tracksuit-ovst-poly-tech-beige": {
       "handle": "tracksuit-ovst-poly-tech-beige",
       "title": "TRACKSUIT OVER STREET BEIGE POLY TECH",
@@ -11074,20 +11032,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/103.jpg?width=500",
       "created_at": "2026-07-13T14:01:15+02:00",
       "found_at": "2026-10-13T09:25:49.522699"
-    },
-    "tracksuit-ovst-monographic-tostado": {
-      "handle": "tracksuit-ovst-monographic-tostado",
-      "title": "TRACKSUIT OVER STREET TOSTADO MONOGRAPHIC",
-      "brand": "OVER STREET",
-      "type": "",
-      "url": "https://areazero.biz/products/tracksuit-ovst-monographic-tostado",
-      "price": 39.98,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-tostado-monographic-trackpant_5a0bfdff-4cce-4fef-b06c-33f65ff6af30.jpg?width=500",
-      "created_at": "2026-07-13T13:59:12+02:00",
-      "found_at": "2026-10-13T09:25:49.522702"
     },
     "tracksuit-ovst-monographic-blanca": {
       "handle": "tracksuit-ovst-monographic-blanca",
@@ -12611,6 +12555,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
         "M",
         "L",
         "XL",
@@ -12981,5 +12926,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-16T19:53:02.609035"
+  "last_check": "2026-10-17T11:34:18.169025"
 }
