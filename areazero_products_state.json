@@ -1,5 +1,21 @@
 {
   "products": {
+    "tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck": {
+      "handle": "tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck",
+      "title": "TABLA SKATE SANTA CRUZ X POKEMON TCG BLIND BAG DECK",
+      "brand": "SANTA CRUZ",
+      "type": "ACCESORIOS",
+      "url": "https://areazero.biz/products/tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck",
+      "price": 279.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/shopping.webp2.webp?width=500",
+      "created_at": "2026-10-16T18:48:28+02:00",
+      "found_at": "2026-10-17T19:12:26.905838"
+    },
     "sudadera-santa-cruz-x-pokemon-roja-tcg-hand-zip-hoodes-sweatshirt": {
       "handle": "sudadera-santa-cruz-x-pokemon-roja-tcg-hand-zip-hoodes-sweatshirt",
       "title": "SUDADERA SANTA CRUZ X POKEMON ROJA TCG HAND ZIP HOODED SWEATSHIRT",
@@ -917,7 +933,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "L",
         "XL",
         "XXL"
       ],
@@ -3862,7 +3877,6 @@
       "available": true,
       "sizes": [
         "XS",
-        "S",
         "M",
         "L",
         "XL"
@@ -6221,6 +6235,7 @@
       "available": true,
       "sizes": [
         "S",
+        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tripack-boxers-psd-wf-surge-standard-length-trunk-pack.jpg?width=500",
@@ -11314,10 +11329,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-beige-raiders-nfl-colourblock-9forty-lasrai",
       "price": 25.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-beige-raiders-nfl-colourblock-9forty-lasrai.jpg?width=500",
       "created_at": "2026-07-10T12:27:03+02:00",
       "found_at": "2026-10-13T09:25:49.522744"
@@ -12100,7 +12113,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-kappa-x-budweiser-autentic-maxim-trackjacket.jpg?width=500",
@@ -12926,5 +12938,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-17T11:34:18.169025"
+  "last_check": "2026-10-17T19:12:30.957580"
 }
