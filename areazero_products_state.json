@@ -7612,7 +7612,8 @@
       "available": true,
       "sizes": [
         "L",
-        "XL"
+        "XL",
+        "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-champion-junior-negra-hoodie.jpg?width=500",
       "created_at": "2026-09-11T19:43:35+02:00",
@@ -11035,7 +11036,6 @@
       "sizes": [
         "XS",
         "S",
-        "M",
         "L",
         "XL"
       ],
@@ -11077,16 +11077,14 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "XS",
-        "XS",
-        "XS",
-        "XS",
-        "XS",
         "L",
         "L",
         "L",
         "L",
         "L",
+        "XL",
+        "XL",
+        "XL",
         "XL",
         "XL"
       ],
@@ -12092,10 +12090,8 @@
       "url": "https://areazero.biz/products/chaqueta-kappa-x-budweiser-autentic-maxim-trackjacket",
       "price": 84.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "XL"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-kappa-x-budweiser-autentic-maxim-trackjacket.jpg?width=500",
       "created_at": "2026-07-10T00:57:36+02:00",
       "found_at": "2026-10-13T09:25:49.522880"
@@ -12918,5 +12914,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-18T12:02:18.161914"
+  "last_check": "2026-10-18T19:23:01.877550"
 }
