@@ -1106,7 +1106,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL",
@@ -3820,7 +3819,6 @@
       "compare": 79.99,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XXL"
@@ -4274,7 +4272,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "XL",
         "XXL"
@@ -7512,7 +7509,6 @@
       "available": true,
       "sizes": [
         "S",
-        "XL",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-champion-negra-chicago-white-sox-champion-poly-trackjacket.jpg?width=500",
@@ -11831,7 +11827,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL",
@@ -12081,20 +12076,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-kappa-x-budweiser-mawi-banda-trackpant.jpg?width=500",
       "created_at": "2026-07-10T00:57:45+02:00",
       "found_at": "2026-10-13T09:25:49.522877"
-    },
-    "chaqueta-kappa-x-budweiser-autentic-maxim-trackjacket": {
-      "handle": "chaqueta-kappa-x-budweiser-autentic-maxim-trackjacket",
-      "title": "CHAQUETA KAPPA X BUDWEISER AUTENTIC MAXIM TRACKJACKET",
-      "brand": "KAPPA",
-      "type": "CHAQUETAS",
-      "url": "https://areazero.biz/products/chaqueta-kappa-x-budweiser-autentic-maxim-trackjacket",
-      "price": 84.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-kappa-x-budweiser-autentic-maxim-trackjacket.jpg?width=500",
-      "created_at": "2026-07-10T00:57:36+02:00",
-      "found_at": "2026-10-13T09:25:49.522880"
     },
     "gorra-new-era-beige-dodgers-d-ring-patch-losdod": {
       "handle": "gorra-new-era-beige-dodgers-d-ring-patch-losdod",
@@ -12914,5 +12895,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-18T19:23:01.877550"
+  "last_check": "2026-10-19T14:38:04.340310"
 }
