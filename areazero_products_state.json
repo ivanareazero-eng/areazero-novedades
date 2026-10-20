@@ -7252,8 +7252,7 @@
         "S",
         "M",
         "L",
-        "XL",
-        "XXL"
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/polo-fred-perry-rosa-iced-pink-twin-tipped-shirt.jpg?width=500",
       "created_at": "2026-09-11T19:49:24+02:00",
@@ -7451,6 +7450,7 @@
       "sizes": [
         "XS",
         "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -8278,20 +8278,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/46.png?width=500",
       "created_at": "2026-09-01T13:40:31+02:00",
       "found_at": "2026-10-13T09:25:47.895642"
-    },
-    "cartera-marron-zipped-pocket-card-holder-wallet": {
-      "handle": "cartera-marron-zipped-pocket-card-holder-wallet",
-      "title": "CARTERA OVER STREET MARRON ZIPPED POCKET CARD HOLDER WALLET",
-      "brand": "OVER STREET",
-      "type": "CARTERAS",
-      "url": "https://areazero.biz/products/cartera-marron-zipped-pocket-card-holder-wallet",
-      "price": 14.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/FOTOS_TAMANO_WEB_7.png?width=500",
-      "created_at": "2026-09-01T13:40:27+02:00",
-      "found_at": "2026-10-13T09:25:47.895645"
     },
     "mochila-sprayground-negra-shark-central-black-embroidered-shark-backpack": {
       "handle": "mochila-sprayground-negra-shark-central-black-embroidered-shark-backpack",
@@ -10098,20 +10084,6 @@
       "created_at": "2026-07-24T21:54:43+02:00",
       "found_at": "2026-10-13T09:25:47.895966"
     },
-    "gorra-capslab-negra-gotham-plate-trucker-cap": {
-      "handle": "gorra-capslab-negra-gotham-plate-trucker-cap",
-      "title": "GORRA CAPSLAB BATMAN GOTHAM PLATE TRUCKER NEGRA",
-      "brand": "CAPSLAB",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-capslab-negra-gotham-plate-trucker-cap",
-      "price": 34.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-capslab-negra-gotham-plate-trucker-cap.jpg?width=500",
-      "created_at": "2026-07-24T21:54:19+02:00",
-      "found_at": "2026-10-13T09:25:47.895969"
-    },
     "gorra-capslab-azul-cheers-jarras-trucker-cap": {
       "handle": "gorra-capslab-azul-cheers-jarras-trucker-cap",
       "title": "GORRA CAPSLAB CHEERS JARRAS TRUCKER AZUL",
@@ -11325,20 +11297,6 @@
       "created_at": "2026-07-10T12:26:51+02:00",
       "found_at": "2026-10-13T09:25:49.522747"
     },
-    "gorra-new-era-beige-yankees-cord-9forty-mc-neyyan": {
-      "handle": "gorra-new-era-beige-yankees-cord-9forty-mc-neyyan",
-      "title": "GORRA NEW ERA BEIGE YANKEES CORD 9FORTY MC NEYYAN",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-beige-yankees-cord-9forty-mc-neyyan",
-      "price": 30.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-beige-yankees-cord-9forty-mc-neyyan.jpg?width=500",
-      "created_at": "2026-07-10T12:26:28+02:00",
-      "found_at": "2026-10-13T09:25:49.522752"
-    },
     "gorra-new-era-negra-yankees-wmns-pattern-pu-9forty-neyyan": {
       "handle": "gorra-new-era-negra-yankees-wmns-pattern-pu-9forty-neyyan",
       "title": "GORRA NEW ERA 9FORTY NEW YORK YANKEES MLB WMNS PATTERN PU NEGRA",
@@ -11491,10 +11449,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-marron-yankees-wmns-cosy-leopard-9forty-neyyan",
       "price": 31.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-marron-yankees-wmns-cosy-leopard-9forty-neyyan.jpg?width=500",
       "created_at": "2026-07-10T12:23:54+02:00",
       "found_at": "2026-10-13T09:25:49.522782"
@@ -12450,7 +12406,7 @@
         "XL",
         "XXL"
       ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-morado-joker-dc27-cra-standard-length-trunk.jpg?width=500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/freegun-calzoncillos-de-microfibra-para-hombre-de-dc-comics-batman-gotham-neon_4.jpg?width=500",
       "created_at": "2026-07-03T01:50:58+02:00",
       "found_at": "2026-10-13T09:25:49.522949"
     },
@@ -12892,5 +12848,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-19T21:25:25.046617"
+  "last_check": "2026-10-20T12:41:55.967979"
 }
