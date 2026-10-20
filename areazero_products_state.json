@@ -1047,7 +1047,6 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
         "L",
         "XL",
         "XXL"
@@ -3969,8 +3968,7 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
-        "L"
+        "M"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-grimey-negro-the-infamous-baggy-sweatpants-black.jpg?width=500",
       "created_at": "2026-09-30T17:34:30+02:00",
@@ -10688,8 +10686,6 @@
       "compare": 17.99,
       "available": true,
       "sizes": [
-        "M",
-        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-blanca-resertricted-world-tour-oversized-tee_34e1ef70-5a44-4552-8475-af932819f2f2.jpg?width=500",
@@ -10763,7 +10759,6 @@
       "available": true,
       "sizes": [
         "XS",
-        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-blanca-chicago-perfection-oversized-tee_84266036-211b-4b53-88ad-2324cf7f3c26.jpg?width=500",
@@ -11072,8 +11067,6 @@
         "XS",
         "XS",
         "XS",
-        "XS",
-        "XL",
         "XL",
         "XL",
         "XL"
@@ -12848,5 +12841,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-20T12:41:55.967979"
+  "last_check": "2026-10-20T20:27:07.077122"
 }
