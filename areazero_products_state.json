@@ -4080,8 +4080,7 @@
         "28",
         "30",
         "32",
-        "34",
-        "36"
+        "34"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-mojado-gastado-slim-fit-broken-pants.jpg?width=500",
       "created_at": "2026-09-30T15:08:26+02:00",
@@ -6911,6 +6910,7 @@
       "compare": 69.99,
       "available": true,
       "sizes": [
+        "XS",
         "S",
         "M",
         "L",
@@ -10685,6 +10685,7 @@
       "compare": 17.99,
       "available": true,
       "sizes": [
+        "M",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-blanca-resertricted-world-tour-oversized-tee_34e1ef70-5a44-4552-8475-af932819f2f2.jpg?width=500",
@@ -10741,6 +10742,7 @@
       "compare": 17.99,
       "available": true,
       "sizes": [
+        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-beige-chicago-perfection-oversized-tee_f3dc761f-1c25-4885-9aa5-1732c3bbbe57.jpg?width=500",
@@ -11060,6 +11062,8 @@
       "sizes": [
         "XS",
         "XS",
+        "XS",
+        "XL",
         "XL",
         "XL"
       ],
@@ -12623,7 +12627,6 @@
         "XS",
         "S",
         "M",
-        "L",
         "XL",
         "XXL"
       ],
@@ -12819,5 +12822,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-21T12:54:23.296949"
+  "last_check": "2026-10-21T20:31:51.349001"
 }
