@@ -1,5 +1,1192 @@
 {
   "products": {
+    "magnetic-capclip-100-poker-roulette": {
+      "handle": "magnetic-capclip-100-poker-roulette",
+      "title": "MAGNETIC CAPCLIP 100 POKER ROULETTE",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/magnetic-capclip-100-poker-roulette",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/magnetic-capclip-100-poker-roulette.jpg?width=500",
+      "created_at": "2026-10-22T15:30:20+02:00",
+      "found_at": "2026-10-22T20:29:17.185621"
+    },
+    "magnetic-capclip-all-in-poker-chip": {
+      "handle": "magnetic-capclip-all-in-poker-chip",
+      "title": "MAGNETIC CAPCLIP ALL IN POKER CHIP",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/magnetic-capclip-all-in-poker-chip",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/magnetic-capclip-all-in-poker-chip.jpg?width=500",
+      "created_at": "2026-10-22T15:30:16+02:00",
+      "found_at": "2026-10-22T20:29:17.185639"
+    },
+    "magnetic-capclip-las-vegas-strip": {
+      "handle": "magnetic-capclip-las-vegas-strip",
+      "title": "MAGNETIC CAPCLIP LAS VEGAS STRIP",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/magnetic-capclip-las-vegas-strip",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/magnetic-capclip-las-vegas-strip.jpg?width=500",
+      "created_at": "2026-10-22T15:30:13+02:00",
+      "found_at": "2026-10-22T20:29:17.185648"
+    },
+    "pin-sant-michael-protector": {
+      "handle": "pin-sant-michael-protector",
+      "title": "PIN SANT MICHAEL PROTECTOR",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-sant-michael-protector",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-sant-michael-protector.jpg?width=500",
+      "created_at": "2026-10-22T15:30:09+02:00",
+      "found_at": "2026-10-22T20:29:17.185654"
+    },
+    "pin-weed-hands": {
+      "handle": "pin-weed-hands",
+      "title": "PIN WEED HANDS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-weed-hands",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-weed-hands.jpg?width=500",
+      "created_at": "2026-10-22T15:30:06+02:00",
+      "found_at": "2026-10-22T20:29:17.185660"
+    },
+    "pin-world-series-star-champion": {
+      "handle": "pin-world-series-star-champion",
+      "title": "PIN WORLD SERIES STAR CHAMPION",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-world-series-star-champion",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-world-series-star-champion.jpg?width=500",
+      "created_at": "2026-10-22T15:30:03+02:00",
+      "found_at": "2026-10-22T20:29:17.185666"
+    },
+    "pin-little-gost-face": {
+      "handle": "pin-little-gost-face",
+      "title": "PIN LITTLE GOST FACE",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-little-gost-face",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-little-gost-face.jpg?width=500",
+      "created_at": "2026-10-22T15:29:59+02:00",
+      "found_at": "2026-10-22T20:29:17.185672"
+    },
+    "pon-dorado-cock-gaulois": {
+      "handle": "pon-dorado-cock-gaulois",
+      "title": "PON DORADO COCK GAULOIS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pon-dorado-cock-gaulois",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pon-dorado-cock-gaulois.jpg?width=500",
+      "created_at": "2026-10-22T15:29:55+02:00",
+      "found_at": "2026-10-22T20:29:17.185678"
+    },
+    "pin-lazy-duck": {
+      "handle": "pin-lazy-duck",
+      "title": "PIN LAZY DUCK",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-lazy-duck",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-lazy-duck.jpg?width=500",
+      "created_at": "2026-10-22T15:29:52+02:00",
+      "found_at": "2026-10-22T20:29:17.185683"
+    },
+    "pin-super-burbuja": {
+      "handle": "pin-super-burbuja",
+      "title": "PIN SUPER BURBUJA",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-super-burbuja",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-super-burbuja.jpg?width=500",
+      "created_at": "2026-10-22T15:29:48+02:00",
+      "found_at": "2026-10-22T20:29:17.185688"
+    },
+    "pin-dorado-golden-crown": {
+      "handle": "pin-dorado-golden-crown",
+      "title": "PIN DORADO GOLDEN CROWN",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-dorado-golden-crown",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-dorado-golden-crown.jpg?width=500",
+      "created_at": "2026-10-22T15:29:45+02:00",
+      "found_at": "2026-10-22T20:29:17.185693"
+    },
+    "pin-black-drift-car": {
+      "handle": "pin-black-drift-car",
+      "title": "PIN BLACK DRIFT CAR",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-black-drift-car",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-black-drift-car.jpg?width=500",
+      "created_at": "2026-10-22T15:29:41+02:00",
+      "found_at": "2026-10-22T20:29:17.185698"
+    },
+    "pin-red-truck": {
+      "handle": "pin-red-truck",
+      "title": "PIN RED TRUCK",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-red-truck",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-red-truck.jpg?width=500",
+      "created_at": "2026-10-22T15:29:38+02:00",
+      "found_at": "2026-10-22T20:29:17.185703"
+    },
+    "pin-green-sport-car": {
+      "handle": "pin-green-sport-car",
+      "title": "PIN GREEN SPORT CAR",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-green-sport-car",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-green-sport-car.jpg?width=500",
+      "created_at": "2026-10-22T15:29:34+02:00",
+      "found_at": "2026-10-22T20:29:17.185708"
+    },
+    "pin-black-sport-car": {
+      "handle": "pin-black-sport-car",
+      "title": "PIN BLACK SPORT CAR",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-black-sport-car",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-black-sport-car.jpg?width=500",
+      "created_at": "2026-10-22T15:29:31+02:00",
+      "found_at": "2026-10-22T20:29:17.185713"
+    },
+    "pin-crying-for-money": {
+      "handle": "pin-crying-for-money",
+      "title": "PIN CRYING FOR MONEY",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-crying-for-money",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-crying-for-money.jpg?width=500",
+      "created_at": "2026-10-22T15:29:28+02:00",
+      "found_at": "2026-10-22T20:29:17.185719"
+    },
+    "pin-green-parrot": {
+      "handle": "pin-green-parrot",
+      "title": "PIN GREEN PARROT",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-green-parrot",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-green-parrot.jpg?width=500",
+      "created_at": "2026-10-22T15:29:24+02:00",
+      "found_at": "2026-10-22T20:29:17.185739"
+    },
+    "pin-canyon-turtle-silouette": {
+      "handle": "pin-canyon-turtle-silouette",
+      "title": "PIN CANYON TURTLE SILOUETTE",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-canyon-turtle-silouette",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-canyon-turtle-silouette.jpg?width=500",
+      "created_at": "2026-10-22T15:29:21+02:00",
+      "found_at": "2026-10-22T20:29:17.185746"
+    },
+    "pin-super-hero-peeking": {
+      "handle": "pin-super-hero-peeking",
+      "title": "PIN SUPER HERO PEEKING",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-super-hero-peeking",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-super-hero-peeking.jpg?width=500",
+      "created_at": "2026-10-22T15:29:18+02:00",
+      "found_at": "2026-10-22T20:29:17.185752"
+    },
+    "pin-jesus-aura": {
+      "handle": "pin-jesus-aura",
+      "title": "PIN JESUS AURA",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-jesus-aura",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-jesus-aura.jpg?width=500",
+      "created_at": "2026-10-22T15:29:14+02:00",
+      "found_at": "2026-10-22T20:29:17.185757"
+    },
+    "pin-peaky-ball": {
+      "handle": "pin-peaky-ball",
+      "title": "PIN PEAKY BALL",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-peaky-ball",
+      "price": 4.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-peaky-ball.jpg?width=500",
+      "created_at": "2026-10-22T15:29:11+02:00",
+      "found_at": "2026-10-22T20:29:17.185762"
+    },
+    "pin-yellow-game-dices-chains": {
+      "handle": "pin-yellow-game-dices-chains",
+      "title": "PIN YELLOW GAME DICES CHAINS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-yellow-game-dices-chains",
+      "price": 5.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-yellow-game-dices-chains.jpg?width=500",
+      "created_at": "2026-10-22T15:29:07+02:00",
+      "found_at": "2026-10-22T20:29:17.185767"
+    },
+    "pin-royal-blue-game-dices-chains": {
+      "handle": "pin-royal-blue-game-dices-chains",
+      "title": "PIN ROYAL BLUE GAME DICES CHAINS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-royal-blue-game-dices-chains",
+      "price": 5.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-royal-blue-game-dices-chains.jpg?width=500",
+      "created_at": "2026-10-22T15:29:04+02:00",
+      "found_at": "2026-10-22T20:29:17.185772"
+    },
+    "pin-ski-blue-game-dices-chains": {
+      "handle": "pin-ski-blue-game-dices-chains",
+      "title": "PIN SKI BLUE GAME DICES CHAINS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-ski-blue-game-dices-chains",
+      "price": 5.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-ski-blue-game-dices-chains.jpg?width=500",
+      "created_at": "2026-10-22T15:29:01+02:00",
+      "found_at": "2026-10-22T20:29:17.185777"
+    },
+    "pin-white-game-dices-chains": {
+      "handle": "pin-white-game-dices-chains",
+      "title": "PIN WHITE GAME DICES CHAINS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-white-game-dices-chains",
+      "price": 5.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-white-game-dices-chains.jpg?width=500",
+      "created_at": "2026-10-22T15:28:57+02:00",
+      "found_at": "2026-10-22T20:29:17.185782"
+    },
+    "pin-red-game-dices-chains": {
+      "handle": "pin-red-game-dices-chains",
+      "title": "PIN RED GAME DICES CHAINS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-red-game-dices-chains",
+      "price": 5.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-red-game-dices-chains.jpg?width=500",
+      "created_at": "2026-10-22T15:28:54+02:00",
+      "found_at": "2026-10-22T20:29:17.185788"
+    },
+    "pin-black-game-dices-chains": {
+      "handle": "pin-black-game-dices-chains",
+      "title": "PIN BLACK GAME DICES CHAINS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-black-game-dices-chains",
+      "price": 5.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-black-game-dices-chains.jpg?width=500",
+      "created_at": "2026-10-22T15:28:51+02:00",
+      "found_at": "2026-10-22T20:29:17.185793"
+    },
+    "pin-super-hero-chains": {
+      "handle": "pin-super-hero-chains",
+      "title": "PIN SUPER HERO CHAINS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-super-hero-chains",
+      "price": 5.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-super-hero-chains.jpg?width=500",
+      "created_at": "2026-10-22T15:28:48+02:00",
+      "found_at": "2026-10-22T20:29:17.185798"
+    },
+    "pin-dorado-enjoy-little-thing-chains": {
+      "handle": "pin-dorado-enjoy-little-thing-chains",
+      "title": "PIN DORADO ENJOY LITTLE THING CHAINS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-dorado-enjoy-little-thing-chains",
+      "price": 5.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-dorado-enjoy-little-thing-chains.jpg?width=500",
+      "created_at": "2026-10-22T15:28:44+02:00",
+      "found_at": "2026-10-22T20:29:17.185803"
+    },
+    "pin-dorado-big-brother-red-eye-chains": {
+      "handle": "pin-dorado-big-brother-red-eye-chains",
+      "title": "PIN DORADO BIG BROTHER RED EYE CHAINS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-dorado-big-brother-red-eye-chains",
+      "price": 5.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-dorado-big-brother-red-eye-chains.jpg?width=500",
+      "created_at": "2026-10-22T15:28:41+02:00",
+      "found_at": "2026-10-22T20:29:17.185808"
+    },
+    "pin-jesus-chains": {
+      "handle": "pin-jesus-chains",
+      "title": "PIN JESUS CHAINS",
+      "brand": "PIN",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pin-jesus-chains",
+      "price": 5.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pin-jesus-chains.jpg?width=500",
+      "created_at": "2026-10-22T15:28:38+02:00",
+      "found_at": "2026-10-22T20:29:17.185813"
+    },
+    "gorra-new-era-new-york-yankees-59fifty-league-essential-cruda-1": {
+      "handle": "gorra-new-era-new-york-yankees-59fifty-league-essential-cruda-1",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 59FIFTY LEAGUE ESSENTIAL CRUDA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-59fifty-league-essential-cruda-1",
+      "price": 38.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "678",
+        "7",
+        "718",
+        "714",
+        "738",
+        "712",
+        "758",
+        "734",
+        "778",
+        "8"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-league-essential-cruda_da840444-a610-42d2-9cf3-c6097b2273bb.jpg?width=500",
+      "created_at": "2026-10-22T15:28:13+02:00",
+      "found_at": "2026-10-22T20:29:17.185825"
+    },
+    "gorra-new-era-new-york-yankees-59fifty-league-essential-cruda": {
+      "handle": "gorra-new-era-new-york-yankees-59fifty-league-essential-cruda",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 59FIFTY LEAGUE ESSENTIAL CRUDA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-59fifty-league-essential-cruda",
+      "price": 38.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "678",
+        "7",
+        "718",
+        "714",
+        "738",
+        "712",
+        "758",
+        "734",
+        "778",
+        "8"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-league-essential-cruda.jpg?width=500",
+      "created_at": "2026-10-22T15:27:46+02:00",
+      "found_at": "2026-10-22T20:29:17.185837"
+    },
+    "boxer-freegun-rojo-joker-batman-standard-lenght-trunk": {
+      "handle": "boxer-freegun-rojo-joker-batman-standard-lenght-trunk",
+      "title": "BOXER FREEGUN ROJO JOKER & BATMAN STANDARD LENGHT TRUNK",
+      "brand": "FREEGUN",
+      "type": "ROPA INTERIOR",
+      "url": "https://areazero.biz/products/boxer-freegun-rojo-joker-batman-standard-lenght-trunk",
+      "price": 14.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-rojo-joker-_-batman-standard-lenght-trunk.jpg?width=500",
+      "created_at": "2026-10-22T15:27:28+02:00",
+      "found_at": "2026-10-22T20:29:17.185845"
+    },
+    "boxer-freegun-gris-100-dollars-standard-lenght-trunk": {
+      "handle": "boxer-freegun-gris-100-dollars-standard-lenght-trunk",
+      "title": "BOXER FREEGUN GRIS 100 DOLLARS STANDARD LENGHT TRUNK",
+      "brand": "FREEGUN",
+      "type": "ROPA INTERIOR",
+      "url": "https://areazero.biz/products/boxer-freegun-gris-100-dollars-standard-lenght-trunk",
+      "price": 14.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-gris-100-dollars-standard-lenght-trunk.jpg?width=500",
+      "created_at": "2026-10-22T15:27:10+02:00",
+      "found_at": "2026-10-22T20:29:17.185853"
+    },
+    "boxer-freegun-negro-vegeta-standard-lenght-trunk": {
+      "handle": "boxer-freegun-negro-vegeta-standard-lenght-trunk",
+      "title": "BOXER FREEGUN NEGRO VEGETA STANDARD LENGHT TRUNK",
+      "brand": "FREEGUN",
+      "type": "ROPA INTERIOR",
+      "url": "https://areazero.biz/products/boxer-freegun-negro-vegeta-standard-lenght-trunk",
+      "price": 14.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-negro-vegeta-standard-lenght-trunk.jpg?width=500",
+      "created_at": "2026-10-22T15:26:56+02:00",
+      "found_at": "2026-10-22T20:29:17.185860"
+    },
+    "boxer-freegun-negro-batman-classic-logo-standard-lenght-trunk": {
+      "handle": "boxer-freegun-negro-batman-classic-logo-standard-lenght-trunk",
+      "title": "BOXER FREEGUN NEGRO BATMAN CLASSIC LOGO STANDARD LENGHT TRUNK",
+      "brand": "FREEGUN",
+      "type": "ROPA INTERIOR",
+      "url": "https://areazero.biz/products/boxer-freegun-negro-batman-classic-logo-standard-lenght-trunk",
+      "price": 14.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-negro-batman-classic-logo-standard-lenght-trunk.jpg?width=500",
+      "created_at": "2026-10-22T15:26:40+02:00",
+      "found_at": "2026-10-22T20:29:17.185868"
+    },
+    "boxer-freegun-azul-vegeta-standard-lenght-trunk": {
+      "handle": "boxer-freegun-azul-vegeta-standard-lenght-trunk",
+      "title": "BOXER FREEGUN AZUL VEGETA STANDARD LENGHT TRUNK",
+      "brand": "FREEGUN",
+      "type": "ROPA INTERIOR",
+      "url": "https://areazero.biz/products/boxer-freegun-azul-vegeta-standard-lenght-trunk",
+      "price": 14.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-azul-vegeta-standard-lenght-trunk.jpg?width=500",
+      "created_at": "2026-10-22T15:26:22+02:00",
+      "found_at": "2026-10-22T20:29:17.185877"
+    },
+    "boxer-freegun-rosa-batman-liquid-logo-standard-lenght-trunk": {
+      "handle": "boxer-freegun-rosa-batman-liquid-logo-standard-lenght-trunk",
+      "title": "BOXER FREEGUN ROSA BATMAN LIQUID LOGO STANDARD LENGHT TRUNK",
+      "brand": "FREEGUN",
+      "type": "ROPA INTERIOR",
+      "url": "https://areazero.biz/products/boxer-freegun-rosa-batman-liquid-logo-standard-lenght-trunk",
+      "price": 14.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-rosa-batman-liquid-logo-standard-lenght-trunk.jpg?width=500",
+      "created_at": "2026-10-22T15:26:09+02:00",
+      "found_at": "2026-10-22T20:29:17.185884"
+    },
+    "boxer-freegun-delorean-back-to-the-future-standard-lenght-trunk": {
+      "handle": "boxer-freegun-delorean-back-to-the-future-standard-lenght-trunk",
+      "title": "BOXER FREEGUN DELOREAN BACK TO THE FUTURE STANDARD LENGHT TRUNK",
+      "brand": "FREEGUN",
+      "type": "ROPA INTERIOR",
+      "url": "https://areazero.biz/products/boxer-freegun-delorean-back-to-the-future-standard-lenght-trunk",
+      "price": 14.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-delorean-back-to-the-future-standard-lenght-trunk.jpg?width=500",
+      "created_at": "2026-10-22T15:25:52+02:00",
+      "found_at": "2026-10-22T20:29:17.185891"
+    },
+    "gorra-new-era-new-york-yankees-9forty-league-essential-azul": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-league-essential-azul",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY LEAGUE ESSENTIAL AZUL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-league-essential-azul",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-league-essential-azul.jpg?width=500",
+      "created_at": "2026-10-22T15:25:42+02:00",
+      "found_at": "2026-10-22T20:29:17.185897"
+    },
+    "gorra-new-era-los-angeles-dodgers-9forty-league-essential-granate": {
+      "handle": "gorra-new-era-los-angeles-dodgers-9forty-league-essential-granate",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 9FORTY LEAGUE ESSENTIAL GRANATE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-9forty-league-essential-granate",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-9forty-league-essential-granate.jpg?width=500",
+      "created_at": "2026-10-22T15:25:29+02:00",
+      "found_at": "2026-10-22T20:29:17.185902"
+    },
+    "gorra-new-era-new-york-yankees-9forty-league-essential-verde": {
+      "handle": "gorra-new-era-new-york-yankees-9forty-league-essential-verde",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY LEAGUE ESSENTIAL VERDE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-league-essential-verde",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-league-essential-verde.jpg?width=500",
+      "created_at": "2026-10-22T15:25:18+02:00",
+      "found_at": "2026-10-22T20:29:17.185907"
+    },
+    "gorra-new-era-beige-new-york-yankees-9forty-league-essential": {
+      "handle": "gorra-new-era-beige-new-york-yankees-9forty-league-essential",
+      "title": "GORRA NEW ERA BEIGE NEW YORK YANKEES 9FORTY LEAGUE ESSENTIAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-beige-new-york-yankees-9forty-league-essential",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-beige-new-york-yankees-9forty-league-essential.jpg?width=500",
+      "created_at": "2026-10-22T15:25:06+02:00",
+      "found_at": "2026-10-22T20:29:17.185912"
+    },
+    "gorra-new-era-los-angeles-dodgers-team-outline-eframe-marron": {
+      "handle": "gorra-new-era-los-angeles-dodgers-team-outline-eframe-marron",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS TEAM OUTLINE EFRAME MARRON",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-team-outline-eframe-marron",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-team-outline-eframe-marron.jpg?width=500",
+      "created_at": "2026-10-22T15:24:55+02:00",
+      "found_at": "2026-10-22T20:29:17.185917"
+    },
+    "gorra-new-era-new-york-yankees-team-outline-eframe-marino": {
+      "handle": "gorra-new-era-new-york-yankees-team-outline-eframe-marino",
+      "title": "GORRA NEW ERA NEW YORK YANKEES TEAM OUTLINE EFRAME MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-team-outline-eframe-marino",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-team-outline-eframe-marino.jpg?width=500",
+      "created_at": "2026-10-22T15:24:45+02:00",
+      "found_at": "2026-10-22T20:29:17.185922"
+    },
+    "gorra-new-era-new-york-yankees-mythical-icon-eframe-marino": {
+      "handle": "gorra-new-era-new-york-yankees-mythical-icon-eframe-marino",
+      "title": "GORRA NEW ERA NEW YORK YANKEES MYTHICAL ICON EFRAME MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-mythical-icon-eframe-marino",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-mythical-icon-eframe-marino.jpg?width=500",
+      "created_at": "2026-10-22T15:24:33+02:00",
+      "found_at": "2026-10-22T20:29:17.185927"
+    },
+    "gorra-new-era-los-angeles-dodgers-mythical-icon-eframe-negra": {
+      "handle": "gorra-new-era-los-angeles-dodgers-mythical-icon-eframe-negra",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS MYTHICAL ICON EFRAME NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-mythical-icon-eframe-negra",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-mythical-icon-eframe-negra.jpg?width=500",
+      "created_at": "2026-10-22T15:24:20+02:00",
+      "found_at": "2026-10-22T20:29:17.185933"
+    },
+    "gorra-new-era-new-york-yankees-metallic-outline-eframe-beige": {
+      "handle": "gorra-new-era-new-york-yankees-metallic-outline-eframe-beige",
+      "title": "GORRA NEW ERA NEW YORK YANKEES METALLIC OUTLINE EFRAME BEIGE",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-metallic-outline-eframe-beige",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-metallic-outline-eframe-beige.jpg?width=500",
+      "created_at": "2026-10-22T15:24:07+02:00",
+      "found_at": "2026-10-22T20:29:17.185938"
+    },
+    "set-guantes-y-gorro-new-era-essential-kit": {
+      "handle": "set-guantes-y-gorro-new-era-essential-kit",
+      "title": "SET GUANTES Y GORRO NEW ERA ESSENTIAL KIT",
+      "brand": "NEW ERA",
+      "type": "GUANTES",
+      "url": "https://areazero.biz/products/set-guantes-y-gorro-new-era-essential-kit",
+      "price": 27.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/set-guantes-y-gorro-new-era-essential-kit.jpg?width=500",
+      "created_at": "2026-10-22T15:23:56+02:00",
+      "found_at": "2026-10-22T20:29:17.185943"
+    },
+    "gorra-new-era-san-diego-padres-59fifty-all-star-game-marron": {
+      "handle": "gorra-new-era-san-diego-padres-59fifty-all-star-game-marron",
+      "title": "GORRA NEW ERA SAN DIEGO PADRES 59FIFTY ALL STAR GAME MARRON",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-san-diego-padres-59fifty-all-star-game-marron",
+      "price": 48.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "7",
+        "718",
+        "714",
+        "738",
+        "712",
+        "758"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-san-diego-padres-59fifty-all-star-game-marron.jpg?width=500",
+      "created_at": "2026-10-22T15:23:41+02:00",
+      "found_at": "2026-10-22T20:29:17.185951"
+    },
+    "gorra-new-era-houston-rockets-59fifty-hardwood-classic-roja": {
+      "handle": "gorra-new-era-houston-rockets-59fifty-hardwood-classic-roja",
+      "title": "GORRA NEW ERA HOUSTON ROCKETS 59FIFTY HARDWOOD CLASSIC ROJA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-houston-rockets-59fifty-hardwood-classic-roja",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "7",
+        "718",
+        "714",
+        "712",
+        "734"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-houston-rockets-59fifty-hardwood-classic-roja.jpg?width=500",
+      "created_at": "2026-10-22T15:23:20+02:00",
+      "found_at": "2026-10-22T20:29:17.185959"
+    },
+    "gorra-new-era-minnesota-timberwolves-59fifty-hardwood-classic-royal": {
+      "handle": "gorra-new-era-minnesota-timberwolves-59fifty-hardwood-classic-royal",
+      "title": "GORRA NEW ERA MINNESOTA TIMBERWOLVES 59FIFTY HARDWOOD CLASSIC ROYAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-minnesota-timberwolves-59fifty-hardwood-classic-royal",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "7",
+        "718",
+        "714",
+        "712",
+        "758",
+        "734",
+        "778"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-minnesota-timberwolves-59fifty-hardwood-classic-royal.jpg?width=500",
+      "created_at": "2026-10-22T15:22:54+02:00",
+      "found_at": "2026-10-22T20:29:17.185967"
+    },
+    "gorra-new-era-milwaukee-bucks-59fifty-hardwood-classic-negra": {
+      "handle": "gorra-new-era-milwaukee-bucks-59fifty-hardwood-classic-negra",
+      "title": "GORRA NEW ERA MILWAUKEE BUCKS 59FIFTY HARDWOOD CLASSIC NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-milwaukee-bucks-59fifty-hardwood-classic-negra",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "7",
+        "718",
+        "714",
+        "712",
+        "734"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-milwaukee-bucks-59fifty-hardwood-classic-negra.jpg?width=500",
+      "created_at": "2026-10-22T15:22:33+02:00",
+      "found_at": "2026-10-22T20:29:17.185975"
+    },
+    "gorra-new-era-dallas-mavericks-59fifty-hardwood-classic-royal": {
+      "handle": "gorra-new-era-dallas-mavericks-59fifty-hardwood-classic-royal",
+      "title": "GORRA NEW ERA DALLAS MAVERICKS 59FIFTY HARDWOOD CLASSIC ROYAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-dallas-mavericks-59fifty-hardwood-classic-royal",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "7",
+        "718",
+        "714",
+        "738",
+        "712",
+        "758",
+        "734",
+        "778"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-dallas-mavericks-59fifty-hardwood-classic-royal.jpg?width=500",
+      "created_at": "2026-10-22T15:22:04+02:00",
+      "found_at": "2026-10-22T20:29:17.185983"
+    },
+    "gorra-new-era-new-york-knicks-59fifty-hardwood-classic-royal": {
+      "handle": "gorra-new-era-new-york-knicks-59fifty-hardwood-classic-royal",
+      "title": "GORRA NEW ERA NEW YORK KNICKS 59FIFTY HARDWOOD CLASSIC ROYAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-knicks-59fifty-hardwood-classic-royal",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "7",
+        "718",
+        "714",
+        "712",
+        "734"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-knicks-59fifty-hardwood-classic-royal.jpg?width=500",
+      "created_at": "2026-10-22T15:21:41+02:00",
+      "found_at": "2026-10-22T20:29:17.185991"
+    },
+    "gorra-new-era-atlanta-hawks-59fifty-hardwood-classic-roja": {
+      "handle": "gorra-new-era-atlanta-hawks-59fifty-hardwood-classic-roja",
+      "title": "GORRA NEW ERA ATLANTA HAWKS 59FIFTY HARDWOOD CLASSIC ROJA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-atlanta-hawks-59fifty-hardwood-classic-roja",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "7",
+        "718",
+        "714",
+        "738",
+        "712",
+        "758",
+        "734"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-atlanta-hawks-59fifty-hardwood-classic-roja.jpg?width=500",
+      "created_at": "2026-10-22T15:21:16+02:00",
+      "found_at": "2026-10-22T20:29:17.185999"
+    },
+    "rinonera-jordan-marino-jam-air-crossbody": {
+      "handle": "rinonera-jordan-marino-jam-air-crossbody",
+      "title": "RIÑONERA JORDAN MARINO JAM AIR CROSSBODY",
+      "brand": "JORDAN",
+      "type": "RIÑONERAS",
+      "url": "https://areazero.biz/products/rinonera-jordan-marino-jam-air-crossbody",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/rinonera-jordan-marino-jam-air-crossbody.jpg?width=500",
+      "created_at": "2026-10-22T15:20:53+02:00",
+      "found_at": "2026-10-22T20:29:17.186005"
+    },
+    "bolso-jordan-negro-tactical-festival-bag": {
+      "handle": "bolso-jordan-negro-tactical-festival-bag",
+      "title": "BOLSO JORDAN NEGRO TACTICAL FESTIVAL BAG",
+      "brand": "JORDAN",
+      "type": "BOLSOS Y BANDOLERAS",
+      "url": "https://areazero.biz/products/bolso-jordan-negro-tactical-festival-bag",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/bolso-jordan-negro-tactical-festival-bag.jpg?width=500",
+      "created_at": "2026-10-22T15:20:45+02:00",
+      "found_at": "2026-10-22T20:29:17.186010"
+    },
+    "bolso-jordan-marron-jam-airborne-ii-festival-bag": {
+      "handle": "bolso-jordan-marron-jam-airborne-ii-festival-bag",
+      "title": "BOLSO JORDAN MARRON JAM AIRBORNE II FESTIVAL BAG",
+      "brand": "JORDAN",
+      "type": "BOLSOS Y BANDOLERAS",
+      "url": "https://areazero.biz/products/bolso-jordan-marron-jam-airborne-ii-festival-bag",
+      "price": 22.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/bolso-jordan-marron-jam-airborne-ii-festival-bag.jpg?width=500",
+      "created_at": "2026-10-22T15:20:38+02:00",
+      "found_at": "2026-10-22T20:29:17.186015"
+    },
+    "bolso-jordan-rojo-jam-airborne-ii-festival-bag": {
+      "handle": "bolso-jordan-rojo-jam-airborne-ii-festival-bag",
+      "title": "BOLSO JORDAN ROJO JAM AIRBORNE II FESTIVAL BAG",
+      "brand": "JORDAN",
+      "type": "BOLSOS Y BANDOLERAS",
+      "url": "https://areazero.biz/products/bolso-jordan-rojo-jam-airborne-ii-festival-bag",
+      "price": 22.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/bolso-jordan-rojo-jam-airborne-ii-festival-bag.jpg?width=500",
+      "created_at": "2026-10-22T15:20:30+02:00",
+      "found_at": "2026-10-22T20:29:17.186020"
+    },
+    "bolso-jordan-negro-jam-airborne-ii-festival-bag": {
+      "handle": "bolso-jordan-negro-jam-airborne-ii-festival-bag",
+      "title": "BOLSO JORDAN NEGRO JAM AIRBORNE II FESTIVAL BAG",
+      "brand": "JORDAN",
+      "type": "BOLSOS Y BANDOLERAS",
+      "url": "https://areazero.biz/products/bolso-jordan-negro-jam-airborne-ii-festival-bag",
+      "price": 22.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/bolso-jordan-negro-jam-airborne-ii-festival-bag.jpg?width=500",
+      "created_at": "2026-10-22T15:20:22+02:00",
+      "found_at": "2026-10-22T20:29:17.186025"
+    },
+    "mochila-y-lunch-jordan-negros-air-jordan-lunch-backpack": {
+      "handle": "mochila-y-lunch-jordan-negros-air-jordan-lunch-backpack",
+      "title": "MOCHILA Y LUNCH JORDAN NEGROS AIR JORDAN LUNCH BACKPACK",
+      "brand": "JORDAN",
+      "type": "MOCHILAS",
+      "url": "https://areazero.biz/products/mochila-y-lunch-jordan-negros-air-jordan-lunch-backpack",
+      "price": 59.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/mochila-y-lunch-jordan-negros-air-jordan-lunch-backpack.jpg?width=500",
+      "created_at": "2026-10-22T15:20:14+02:00",
+      "found_at": "2026-10-22T20:29:17.186030"
+    },
+    "gorra-new-era-chicago-white-sox-59fifty-all-star-game-negra": {
+      "handle": "gorra-new-era-chicago-white-sox-59fifty-all-star-game-negra",
+      "title": "GORRA NEW ERA CHICAGO WHITE SOX 59FIFTY ALL STAR GAME NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-chicago-white-sox-59fifty-all-star-game-negra",
+      "price": 48.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738",
+        "712"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-59fifty-all-star-game-negra.jpg?width=500",
+      "created_at": "2026-10-22T15:19:32+02:00",
+      "found_at": "2026-10-22T20:29:17.186037"
+    },
+    "gorra-new-era-boston-red-sox-59fifty-all-star-game-marino": {
+      "handle": "gorra-new-era-boston-red-sox-59fifty-all-star-game-marino",
+      "title": "GORRA NEW ERA BOSTON RED SOX 59FIFTY ALL STAR GAME MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-boston-red-sox-59fifty-all-star-game-marino",
+      "price": 48.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738",
+        "712",
+        "758"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-boston-red-sox-59fifty-all-star-game-marino.jpg?width=500",
+      "created_at": "2026-10-22T15:19:12+02:00",
+      "found_at": "2026-10-22T20:29:17.186044"
+    },
+    "gorra-new-era-los-angeles-dodgers-59fifty-all-star-game-royal": {
+      "handle": "gorra-new-era-los-angeles-dodgers-59fifty-all-star-game-royal",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 59FIFTY ALL STAR GAME ROYAL",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-59fifty-all-star-game-royal",
+      "price": 48.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738",
+        "712",
+        "758"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-all-star-game-royal.jpg?width=500",
+      "created_at": "2026-10-22T15:18:50+02:00",
+      "found_at": "2026-10-22T20:29:17.186051"
+    },
+    "gorra-new-era-new-york-yankees-59fifty-all-star-game-marino": {
+      "handle": "gorra-new-era-new-york-yankees-59fifty-all-star-game-marino",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 59FIFTY ALL STAR GAME MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-59fifty-all-star-game-marino",
+      "price": 48.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714",
+        "738",
+        "712"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-all-star-game-marino.jpg?width=500",
+      "created_at": "2026-10-22T15:18:32+02:00",
+      "found_at": "2026-10-22T20:29:17.186057"
+    },
+    "gorra-new-era-boston-red-sox-59fifty-hall-of-fame-marino": {
+      "handle": "gorra-new-era-boston-red-sox-59fifty-hall-of-fame-marino",
+      "title": "GORRA NEW ERA BOSTON RED SOX 59FIFTY HALL OF FAME MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-boston-red-sox-59fifty-hall-of-fame-marino",
+      "price": 45.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "718",
+        "714",
+        "738",
+        "712",
+        "758"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-boston-red-sox-59fifty-hall-of-fame-marino.jpg?width=500",
+      "created_at": "2026-10-22T15:18:10+02:00",
+      "found_at": "2026-10-22T20:29:17.186064"
+    },
     "tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck": {
       "handle": "tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck",
       "title": "TABLA SKATE SANTA CRUZ X POKEMON TCG BLIND BAG DECK",
@@ -7041,7 +8228,6 @@
       "available": true,
       "sizes": [
         "M",
-        "L",
         "XL",
         "XXL"
       ],
@@ -10695,7 +11881,6 @@
       "compare": 17.99,
       "available": true,
       "sizes": [
-        "M",
         "L",
         "XL"
       ],
@@ -12082,10 +13267,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-marino-california-license-plate-trucker-cap",
       "price": 31.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-marino-california-license-plate-trucker-cap.jpg?width=500",
       "created_at": "2026-07-03T01:58:17+02:00",
       "found_at": "2026-10-13T09:25:49.522892"
@@ -12753,7 +13936,8 @@
       "available": true,
       "sizes": [
         "XS",
-        "L"
+        "L",
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-new-era-negra-boston-celtics-nos-nba-regular-tee-boscel.jpg?width=500",
       "created_at": "2026-07-03T01:44:38+02:00",
@@ -12840,5 +14024,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-22T12:56:40.696706"
+  "last_check": "2026-10-22T20:29:22.541485"
 }
