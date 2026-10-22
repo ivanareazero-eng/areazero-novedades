@@ -1027,7 +1027,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "M",
         "L",
         "XL",
         "XXL"
@@ -3619,7 +3618,8 @@
         "S",
         "M",
         "L",
-        "XL"
+        "XL",
+        "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-santa-cruz-negra-punk-web-zip-hood-jacket.jpg?width=500",
       "created_at": "2026-10-05T17:37:46+02:00",
@@ -3872,6 +3872,7 @@
       "available": true,
       "sizes": [
         "XS",
+        "S",
         "M",
         "L",
         "XL"
@@ -3987,7 +3988,8 @@
         "S",
         "M",
         "L",
-        "XL"
+        "XL",
+        "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-grimey-negra-the-infamous-boxy-hoodie-black.jpg?width=500",
       "created_at": "2026-09-30T17:34:14+02:00",
@@ -4271,6 +4273,7 @@
       "sizes": [
         "S",
         "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -5965,7 +5968,8 @@
       "available": true,
       "sizes": [
         "S",
-        "M"
+        "M",
+        "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-prohibited-marino-letherman-knit-jacket.jpg?width=500",
       "created_at": "2026-09-22T12:53:38+02:00",
@@ -6075,6 +6079,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
         "M",
         "L"
       ],
@@ -6853,6 +6858,7 @@
       "available": true,
       "sizes": [
         "S",
+        "M",
         "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-new-era-negra-essentials-full-zip-hoodie.jpg?width=500",
@@ -7035,6 +7041,7 @@
       "available": true,
       "sizes": [
         "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -7323,6 +7330,7 @@
         "7",
         "7 3/8",
         "7 1/2",
+        "7 5/8",
         "7 3/4",
         "7 7/8"
       ],
@@ -7367,7 +7375,8 @@
         "7 3/8",
         "7 1/2",
         "7 5/8",
-        "7 3/4"
+        "7 3/4",
+        "7 7/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-marino-yankees-mlb-icon-59fifty-neyyan.jpg?width=500",
       "created_at": "2026-09-11T19:47:15+02:00",
@@ -8081,6 +8090,7 @@
       "available": true,
       "sizes": [
         "M",
+        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-von-dutch-cruda-von-cat-relaxed-fit-tee.jpg?width=500",
@@ -10686,6 +10696,7 @@
       "available": true,
       "sizes": [
         "M",
+        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-blanca-resertricted-world-tour-oversized-tee_34e1ef70-5a44-4552-8475-af932819f2f2.jpg?width=500",
@@ -10995,8 +11006,13 @@
       "url": "https://areazero.biz/products/tracksuit-ovst-poly-gris",
       "price": 35.98,
       "compare": 0,
-      "available": false,
-      "sizes": [],
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "L",
+        "XL"
+      ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/103.jpg?width=500",
       "created_at": "2026-07-13T14:01:15+02:00",
       "found_at": "2026-10-13T09:25:49.522699"
@@ -11755,6 +11771,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
         "M",
         "L",
         "XL",
@@ -12227,7 +12244,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S/M"
+        "S/M",
+        "M/L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-gris-yankees-stretch-mesh-39thirty-neyyan_653c8a60-6f76-4778-bf35-67ba1a898a31.jpg?width=500",
       "created_at": "2026-07-03T01:54:56+02:00",
@@ -12822,5 +12840,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-21T20:31:51.349001"
+  "last_check": "2026-10-22T12:56:40.696706"
 }
