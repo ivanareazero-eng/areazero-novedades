@@ -11742,7 +11742,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/polo-fred-perry-beige-embroidered-panel-polo-shirt.jpg?width=500",
@@ -12259,10 +12258,7 @@
       "sizes": [
         "XS",
         "XS",
-        "XS",
-        "XL",
-        "XL",
-        "XL"
+        "XS"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-negra-hooded-trackjacket_fff99d3a-d77c-470d-a4a8-018bc03594af.jpg?width=500",
       "created_at": "2026-07-13T13:51:13+02:00",
@@ -13255,20 +13251,6 @@
       "created_at": "2026-07-03T01:58:41+02:00",
       "found_at": "2026-10-13T09:25:49.522889"
     },
-    "gorra-new-era-marino-california-license-plate-trucker-cap": {
-      "handle": "gorra-new-era-marino-california-license-plate-trucker-cap",
-      "title": "GORRA NEW ERA MARINO CALIFORNIA LICENSE PLATE TRUCKER CAP",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-marino-california-license-plate-trucker-cap",
-      "price": 31.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-marino-california-license-plate-trucker-cap.jpg?width=500",
-      "created_at": "2026-07-03T01:58:17+02:00",
-      "found_at": "2026-10-13T09:25:49.522892"
-    },
     "gorra-new-era-marino-dodgers-metallic-outline-eframe-losdod": {
       "handle": "gorra-new-era-marino-dodgers-metallic-outline-eframe-losdod",
       "title": "GORRA NEW ERA LOS ANGELES DODGERS MLB METALLIC OUTLINE E-FRAME MARINO",
@@ -14019,5 +14001,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-23T20:18:45.513388"
+  "last_check": "2026-10-24T11:58:19.087275"
 }
