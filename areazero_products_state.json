@@ -2078,7 +2078,6 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
         "L",
         "XL",
         "XXL"
@@ -2269,7 +2268,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "M",
         "L",
         "XL",
         "XXL"
@@ -3214,8 +3212,7 @@
       "sizes": [
         "S",
         "M",
-        "L",
-        "XL"
+        "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/bomber-fred-perry-verde-quilted-tennis-bomber-jacket.jpg?width=500",
       "created_at": "2026-10-09T13:00:14+02:00",
@@ -5433,7 +5430,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL",
@@ -12015,7 +12011,7 @@
     },
     "respect-the-clan-tracksuit": {
       "handle": "respect-the-clan-tracksuit",
-      "title": "CHÁNDAL CLAN NEGRO RESPECT THE CLAN TRACKSUIT",
+      "title": "RESPECT THE CLAN | PACK",
       "brand": "CLAN",
       "type": "",
       "url": "https://areazero.biz/products/respect-the-clan-tracksuit",
@@ -12042,7 +12038,7 @@
     },
     "la-boca-evolution-tracksuit": {
       "handle": "la-boca-evolution-tracksuit",
-      "title": "CHÁNDAL CLAN NEGRO LA BOCA EVOLUTION TRACKSUIT",
+      "title": "LA BOCA EVOLUTION | PACK",
       "brand": "CLAN",
       "type": "",
       "url": "https://areazero.biz/products/la-boca-evolution-tracksuit",
@@ -12069,7 +12065,7 @@
     },
     "keep-the-clan-tracksuit": {
       "handle": "keep-the-clan-tracksuit",
-      "title": "CHÁNDAL CLAN NEGRO KEEP THE CLAN TRACKSUIT",
+      "title": "KEEP THE CLAN | PACK",
       "brand": "CLAN",
       "type": "",
       "url": "https://areazero.biz/products/keep-the-clan-tracksuit",
@@ -13092,20 +13088,6 @@
       "created_at": "2026-07-10T00:59:43+02:00",
       "found_at": "2026-10-13T09:25:49.522859"
     },
-    "gorra-new-era-celeste-dodgers-palm-taco-59fifty-losdod": {
-      "handle": "gorra-new-era-celeste-dodgers-palm-taco-59fifty-losdod",
-      "title": "GORRA NEW ERA 59FIFTY LOS ANGELES DODGERS MLB PALM TACO CELESTE",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-celeste-dodgers-palm-taco-59fifty-losdod",
-      "price": 39.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-celeste-dodgers-palm-taco-59fifty-losdod.jpg?width=500",
-      "created_at": "2026-07-10T00:59:21+02:00",
-      "found_at": "2026-10-13T09:25:49.522862"
-    },
     "gorra-new-era-beige-yankees-cooperstown-logo-59fifty-lp-neyyan": {
       "handle": "gorra-new-era-beige-yankees-cooperstown-logo-59fifty-lp-neyyan",
       "title": "GORRA NEW ERA 59FIFTY NEW YORK YANKEES MLB COOPERSTOWN LOGO BEIGE",
@@ -13996,5 +13978,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-24T19:24:06.672045"
+  "last_check": "2026-10-25T12:32:41.518500"
 }
