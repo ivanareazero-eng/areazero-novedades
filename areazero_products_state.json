@@ -2193,7 +2193,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "M",
         "L",
         "XL",
         "XXL"
@@ -5299,7 +5298,6 @@
       "available": true,
       "sizes": [
         "M",
-        "L",
         "XL",
         "XXL"
       ],
@@ -5430,7 +5428,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "M",
         "L",
         "XL",
         "XXL"
@@ -5449,7 +5446,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL",
@@ -8098,7 +8094,6 @@
         "XS",
         "S",
         "M",
-        "L",
         "XL",
         "XXL"
       ],
@@ -10079,20 +10074,6 @@
       "created_at": "2026-08-31T11:50:02+02:00",
       "found_at": "2026-10-13T09:25:47.895762"
     },
-    "gorra-mitchell-ness-negra-bulls-nba-shinning-stars-pro-snapback": {
-      "handle": "gorra-mitchell-ness-negra-bulls-nba-shinning-stars-pro-snapback",
-      "title": "GORRA MITCHELL & NESS NEGRA BULLS NBA SHINNING STARS PRO SNAPBACK",
-      "brand": "MITCHELL & NESS",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-mitchell-ness-negra-bulls-nba-shinning-stars-pro-snapback",
-      "price": 33.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-negra-bulls-nba-shinning-stars-pro-snapback.jpg?width=500",
-      "created_at": "2026-08-31T11:47:49+02:00",
-      "found_at": "2026-10-13T09:25:47.895765"
-    },
     "gorra-new-era-9twenty-new-york-yankess-nos-league-essential-negra": {
       "handle": "gorra-new-era-9twenty-new-york-yankess-nos-league-essential-negra",
       "title": "GORRA NEW ERA 9TWENTY NEW YORK YANKEES NOS LEAGUE ESSENTIAL NEGRA",
@@ -11115,7 +11096,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "M",
         "L",
         "XL"
       ],
@@ -11775,23 +11755,6 @@
       "created_at": "2026-07-14T20:40:24+02:00",
       "found_at": "2026-10-13T09:25:49.522612"
     },
-    "camiseta-new-era-granate-yankees-nos-mlb-regular-tee-neyyan-mrnwhi": {
-      "handle": "camiseta-new-era-granate-yankees-nos-mlb-regular-tee-neyyan-mrnwhi",
-      "title": "CAMISETA NEW ERA NEW YORK YANKEES MLB REGULAR TEE GRANATE",
-      "brand": "NEW ERA",
-      "type": "CAMISETAS",
-      "url": "https://areazero.biz/products/camiseta-new-era-granate-yankees-nos-mlb-regular-tee-neyyan-mrnwhi",
-      "price": 18.0,
-      "compare": 35.99,
-      "available": true,
-      "sizes": [
-        "XS",
-        "S"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-new-era-granate-yankees-nos-mlb-regular-tee-neyyan-mrnwhi.jpg?width=500",
-      "created_at": "2026-07-14T20:39:14+02:00",
-      "found_at": "2026-10-13T09:25:49.522626"
-    },
     "gorra-new-era-negra-yankees-outdoor-icon-9fifty-neyyan": {
       "handle": "gorra-new-era-negra-yankees-outdoor-icon-9fifty-neyyan",
       "title": "GORRA NEW ERA 9FIFTY NEW YORK YANKEES MLB OUTDOOR ICON NEGRA",
@@ -12156,16 +12119,14 @@
       "sizes": [
         "XS",
         "XS",
-        "XS",
         "S",
         "S",
-        "S",
-        "M",
         "M",
         "M",
         "L",
         "L",
-        "L"
+        "XL",
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/99.jpg?width=500",
       "created_at": "2026-07-13T14:07:42+02:00",
@@ -12224,11 +12185,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
         "XL",
         "XL",
         "XL",
@@ -12249,7 +12205,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "XS",
         "XS",
         "XS"
       ],
@@ -13978,5 +13933,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-25T19:31:26.333401"
+  "last_check": "2026-10-26T14:11:24.894422"
 }
