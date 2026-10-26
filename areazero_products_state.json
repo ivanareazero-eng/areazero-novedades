@@ -1848,6 +1848,7 @@
       "available": true,
       "sizes": [
         "7 1/8",
+        "7 1/4",
         "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-mlb-mythical-negra.jpg?width=500",
@@ -5690,10 +5691,8 @@
       "url": "https://areazero.biz/products/gorra-l-ab-c-o-off-white-negra-clamp-arrows-curved-brim-trucker-cap",
       "price": 69.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/o-off-white-negra-clamp-arrows-curved-brim-trucker-cap.jpg?width=500",
       "created_at": "2026-09-30T11:30:14+02:00",
       "found_at": "2026-10-13T09:25:46.371855"
@@ -8055,7 +8054,6 @@
         "S",
         "M",
         "L",
-        "XL",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-new-era-marino-boston-red-sox-regular-hoodie.jpg?width=500",
@@ -8806,7 +8804,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "L",
         "XL",
         "XXL"
       ],
@@ -13933,5 +13930,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-26T14:11:24.894422"
+  "last_check": "2026-10-26T21:33:43.217770"
 }
