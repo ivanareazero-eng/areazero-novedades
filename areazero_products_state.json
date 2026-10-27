@@ -2079,6 +2079,7 @@
       "available": true,
       "sizes": [
         "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -3168,6 +3169,7 @@
         "7 1/2",
         "7 5/8",
         "7 3/4",
+        "7 7/8",
         "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-white-sox-59fifty-evergreen-negra.jpg?width=500",
@@ -4704,7 +4706,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL"
@@ -8035,8 +8036,10 @@
       "available": true,
       "sizes": [
         "XS",
+        "S",
         "M",
         "L",
+        "XL",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-new-era-marino-boston-red-sox-regular-hoodie.jpg?width=500",
@@ -8448,7 +8451,6 @@
       "available": true,
       "sizes": [
         "M",
-        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-fred-perry-negra-zip-through-sweatshirt.jpg?width=500",
@@ -8788,6 +8790,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "L",
         "XL",
         "XXL"
       ],
@@ -11813,6 +11816,7 @@
       "compare": 17.99,
       "available": true,
       "sizes": [
+        "M",
         "L",
         "XL"
       ],
@@ -13914,5 +13918,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-27T13:09:46.984574"
+  "last_check": "2026-10-27T21:12:57.292646"
 }
