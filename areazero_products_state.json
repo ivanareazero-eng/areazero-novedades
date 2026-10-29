@@ -1,5 +1,421 @@
 {
   "products": {
+    "camiseta-fanatics-new-england-patriots-60-core-foundation-nfl-jersey": {
+      "handle": "camiseta-fanatics-new-england-patriots-60-core-foundation-nfl-jersey",
+      "title": "CAMISETA FANATICS NEW ENGLAND PATRIOTS 60 CORE FOUNDATION NFL JERSEY",
+      "brand": "FANATICS",
+      "type": "FUTBOL AMERICANO - NFL",
+      "url": "https://areazero.biz/products/camiseta-fanatics-new-england-patriots-60-core-foundation-nfl-jersey",
+      "price": 79.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-fanatics-new-england-patriots-60-core-foundation-nfl-jersey.jpg?width=500",
+      "created_at": "2026-10-29T15:04:16+01:00",
+      "found_at": "2026-10-29T21:44:10.369789"
+    },
+    "camiseta-fanatics-minnesota-vikings-61-core-foundation-nfl-jersey": {
+      "handle": "camiseta-fanatics-minnesota-vikings-61-core-foundation-nfl-jersey",
+      "title": "CAMISETA FANATICS MINNESOTA VIKINGS 61 CORE FOUNDATION NFL JERSEY",
+      "brand": "FANATICS",
+      "type": "FUTBOL AMERICANO - NFL",
+      "url": "https://areazero.biz/products/camiseta-fanatics-minnesota-vikings-61-core-foundation-nfl-jersey",
+      "price": 79.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-fanatics-minnesota-vikings-61-core-foundation-nfl-jersey.jpg?width=500",
+      "created_at": "2026-10-29T15:04:04+01:00",
+      "found_at": "2026-10-29T21:44:10.369810"
+    },
+    "camiseta-fanatics-roja-kansas-city-chiefs-60-core-foundation-nfl-jersey": {
+      "handle": "camiseta-fanatics-roja-kansas-city-chiefs-60-core-foundation-nfl-jersey",
+      "title": "CAMISETA FANATICS ROJA KANSAS CITY CHIEFS 60 CORE FOUNDATION NFL JERSEY",
+      "brand": "FANATICS",
+      "type": "FUTBOL AMERICANO - NFL",
+      "url": "https://areazero.biz/products/camiseta-fanatics-roja-kansas-city-chiefs-60-core-foundation-nfl-jersey",
+      "price": 79.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-fanatics-roja-kansas-city-chiefs-60-core-foundation-nfl-jersey.jpg?width=500",
+      "created_at": "2026-10-29T15:03:50+01:00",
+      "found_at": "2026-10-29T21:44:10.369822"
+    },
+    "gorra-nike-royal-los-angeles-dodgers-dri-fit-true-structured-round-bill-fitted": {
+      "handle": "gorra-nike-royal-los-angeles-dodgers-dri-fit-true-structured-round-bill-fitted",
+      "title": "GORRA NIKE ROYAL LOS ANGELES DODGERS DRI FIT TRUE STRUCTURED ROUND BILL FITTED",
+      "brand": "NIKE",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-nike-royal-los-angeles-dodgers-dri-fit-true-structured-round-bill-fitted",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "738",
+        "712",
+        "758"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-royal-los-angeles-dodgers-dri-fit-true-structured-round-bill-fitted.jpg?width=500",
+      "created_at": "2026-10-29T15:03:40+01:00",
+      "found_at": "2026-10-29T21:44:10.369830"
+    },
+    "gorra-nike-negra-new-york-yankees-dri-fit-rise-structured-swooshflex-cap": {
+      "handle": "gorra-nike-negra-new-york-yankees-dri-fit-rise-structured-swooshflex-cap",
+      "title": "GORRA NIKE NEGRA NEW YORK YANKEES DRI FIT RISE STRUCTURED SWOOSHFLEX CAP",
+      "brand": "NIKE",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-nike-negra-new-york-yankees-dri-fit-rise-structured-swooshflex-cap",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "SM",
+        "ML"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-negra-new-york-yankees-dri-fit-rise-structured-swooshflex-cap.jpg?width=500",
+      "created_at": "2026-10-29T15:03:29+01:00",
+      "found_at": "2026-10-29T21:44:10.369837"
+    },
+    "gorra-nike-marino-los-angeles-dodgers-dri-fit-rise-structured-swooshflex-cap": {
+      "handle": "gorra-nike-marino-los-angeles-dodgers-dri-fit-rise-structured-swooshflex-cap",
+      "title": "GORRA NIKE MARINO LOS ANGELES DODGERS DRI FIT RISE STRUCTURED SWOOSHFLEX CAP",
+      "brand": "NIKE",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-nike-marino-los-angeles-dodgers-dri-fit-rise-structured-swooshflex-cap",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "SM",
+        "ML"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-marino-los-angeles-dodgers-dri-fit-rise-structured-swooshflex-cap.jpg?width=500",
+      "created_at": "2026-10-29T15:03:13+01:00",
+      "found_at": "2026-10-29T21:44:10.369844"
+    },
+    "gorra-nike-negra-chicago-white-sox-dri-fit-rise-structured-swooshflex-cap": {
+      "handle": "gorra-nike-negra-chicago-white-sox-dri-fit-rise-structured-swooshflex-cap",
+      "title": "GORRA NIKE NEGRA CHICAGO WHITE SOX DRI FIT RISE STRUCTURED SWOOSHFLEX CAP",
+      "brand": "NIKE",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-nike-negra-chicago-white-sox-dri-fit-rise-structured-swooshflex-cap",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "SM",
+        "ML"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-negra-chicago-white-sox-dri-fit-rise-structured-swooshflex-cap.jpg?width=500",
+      "created_at": "2026-10-29T15:02:58+01:00",
+      "found_at": "2026-10-29T21:44:10.369849"
+    },
+    "gorra-nike-marino-boston-red-sox-dri-fit-rise-structured-swooshflex-cap": {
+      "handle": "gorra-nike-marino-boston-red-sox-dri-fit-rise-structured-swooshflex-cap",
+      "title": "GORRA NIKE MARINO BOSTON RED SOX DRI FIT RISE STRUCTURED SWOOSHFLEX CAP",
+      "brand": "NIKE",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-nike-marino-boston-red-sox-dri-fit-rise-structured-swooshflex-cap",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "ML"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-marino-boston-red-sox-dri-fit-rise-structured-swooshflex-cap.jpg?width=500",
+      "created_at": "2026-10-29T15:02:47+01:00",
+      "found_at": "2026-10-29T21:44:10.369855"
+    },
+    "gorra-nike-marron-new-york-yankees-rise-structured-a-frame-cap": {
+      "handle": "gorra-nike-marron-new-york-yankees-rise-structured-a-frame-cap",
+      "title": "GORRA NIKE MARRON NEW YORK YANKEES RISE STRUCTURED A FRAME CAP",
+      "brand": "NIKE",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-nike-marron-new-york-yankees-rise-structured-a-frame-cap",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-marron-new-york-yankees-rise-structured-a-frame-cap.jpg?width=500",
+      "created_at": "2026-10-29T15:02:35+01:00",
+      "found_at": "2026-10-29T21:44:10.369860"
+    },
+    "gorra-nike-marron-boston-red-sox-dri-fit-rise-structured-cap": {
+      "handle": "gorra-nike-marron-boston-red-sox-dri-fit-rise-structured-cap",
+      "title": "GORRA NIKE MARRON BOSTON RED SOX DRI-FIT RISE STRUCTURED CAP",
+      "brand": "NIKE",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-nike-marron-boston-red-sox-dri-fit-rise-structured-cap",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-marron-boston-red-sox-dri-fit-rise-structured-cap.jpg?width=500",
+      "created_at": "2026-10-29T15:02:30+01:00",
+      "found_at": "2026-10-29T21:44:10.369866"
+    },
+    "gorra-mitchell-ness-cruda-boston-bruins-brown-cream-snapback": {
+      "handle": "gorra-mitchell-ness-cruda-boston-bruins-brown-cream-snapback",
+      "title": "GORRA MITCHELL & NESS CRUDA BOSTON BRUINS BROWN & CREAM SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-cruda-boston-bruins-brown-cream-snapback",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-cruda-boston-bruins-brown-_-cream-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:02:19+01:00",
+      "found_at": "2026-10-29T21:44:10.369871"
+    },
+    "gorra-mitchell-ness-cruda-anaheim-ducks-brown-cream-pro-snapback": {
+      "handle": "gorra-mitchell-ness-cruda-anaheim-ducks-brown-cream-pro-snapback",
+      "title": "GORRA MITCHELL & NESS CRUDA ANAHEIM DUCKS BROWN & CREAM PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-cruda-anaheim-ducks-brown-cream-pro-snapback",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-cruda-anaheim-ducks-brown-_-cream-pro-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:02:05+01:00",
+      "found_at": "2026-10-29T21:44:10.369877"
+    },
+    "gorra-mitchell-ness-cruda-toronto-raptors-brown-cream-pro-snapback": {
+      "handle": "gorra-mitchell-ness-cruda-toronto-raptors-brown-cream-pro-snapback",
+      "title": "GORRA MITCHELL & NESS CRUDA TORONTO RAPTORS BROWN & CREAM PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-cruda-toronto-raptors-brown-cream-pro-snapback",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-cruda-toronto-raptors-brown-_-cream-pro-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:01:54+01:00",
+      "found_at": "2026-10-29T21:44:10.369882"
+    },
+    "gorra-mitchell-ness-cruda-milwaukee-bucks-brown-cream-pro-snapback": {
+      "handle": "gorra-mitchell-ness-cruda-milwaukee-bucks-brown-cream-pro-snapback",
+      "title": "GORRA MITCHELL & NESS CRUDA MILWAUKEE BUCKS BROWN & CREAM PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-cruda-milwaukee-bucks-brown-cream-pro-snapback",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-cruda-milwaukee-bucks-brown-_-cream-pro-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:01:42+01:00",
+      "found_at": "2026-10-29T21:44:10.369887"
+    },
+    "gorra-mitchell-ness-cruda-chicago-bulls-brown-cream-pro-snapback": {
+      "handle": "gorra-mitchell-ness-cruda-chicago-bulls-brown-cream-pro-snapback",
+      "title": "GORRA MITCHELL & NESS CRUDA CHICAGO BULLS BROWN & CREAM PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-cruda-chicago-bulls-brown-cream-pro-snapback",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-cruda-chicago-bulls-brown-_-cream-pro-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:01:29+01:00",
+      "found_at": "2026-10-29T21:44:10.369893"
+    },
+    "gorra-mitchell-ness-marron-chicago-bulls-brown-cream-snapback": {
+      "handle": "gorra-mitchell-ness-marron-chicago-bulls-brown-cream-snapback",
+      "title": "GORRA MITCHELL & NESS MARRON CHICAGO BULLS BROWN & CREAM SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-marron-chicago-bulls-brown-cream-snapback",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-marron-chicago-bulls-brown-_-cream-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:01:15+01:00",
+      "found_at": "2026-10-29T21:44:10.369898"
+    },
+    "gorra-mitchell-ness-marron-boston-celtics-brown-cream-snapback": {
+      "handle": "gorra-mitchell-ness-marron-boston-celtics-brown-cream-snapback",
+      "title": "GORRA MITCHELL & NESS MARRON BOSTON CELTICS BROWN & CREAM SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-marron-boston-celtics-brown-cream-snapback",
+      "price": 30.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-marron-boston-celtics-brown-_-cream-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:01:02+01:00",
+      "found_at": "2026-10-29T21:44:10.369903"
+    },
+    "gorra-mitchell-ness-cruda-brooklin-nets-retro-roots-stripe-pro-snapback": {
+      "handle": "gorra-mitchell-ness-cruda-brooklin-nets-retro-roots-stripe-pro-snapback",
+      "title": "GORRA MITCHELL & NESS CRUDA BROOKLIN NETS RETRO ROOTS STRIPE PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-cruda-brooklin-nets-retro-roots-stripe-pro-snapback",
+      "price": 35.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-cruda-brooklin-nets-retro-roots-stripe-pro-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:00:54+01:00",
+      "found_at": "2026-10-29T21:44:10.369909"
+    },
+    "gorra-mitchell-ness-negra-los-angeles-lakers-triple-check-pro-snapback": {
+      "handle": "gorra-mitchell-ness-negra-los-angeles-lakers-triple-check-pro-snapback",
+      "title": "GORRA MITCHELL & NESS NEGRA LOS ANGELES LAKERS TRIPLE CHECK PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-negra-los-angeles-lakers-triple-check-pro-snapback",
+      "price": 33.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-negra-los-angeles-lakers-triple-check-pro-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:00:41+01:00",
+      "found_at": "2026-10-29T21:44:10.369915"
+    },
+    "gorra-mitchell-ness-negra-chicago-bulls-triple-check-pro-snapback": {
+      "handle": "gorra-mitchell-ness-negra-chicago-bulls-triple-check-pro-snapback",
+      "title": "GORRA MITCHELL & NESS NEGRA CHICAGO BULLS TRIPLE CHECK PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-negra-chicago-bulls-triple-check-pro-snapback",
+      "price": 33.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-negra-chicago-bulls-triple-check-pro-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:00:28+01:00",
+      "found_at": "2026-10-29T21:44:10.369921"
+    },
+    "gorra-mitchell-ness-negra-brooklin-nets-triple-check-pro-snapback": {
+      "handle": "gorra-mitchell-ness-negra-brooklin-nets-triple-check-pro-snapback",
+      "title": "GORRA MITCHELL & NESS NEGRA BROOKLIN NETS TRIPLE CHECK PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-negra-brooklin-nets-triple-check-pro-snapback",
+      "price": 33.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-negra-brooklin-nets-triple-check-pro-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:00:14+01:00",
+      "found_at": "2026-10-29T21:44:10.369926"
+    },
+    "gorra-mitchell-ness-negra-boston-celtics-triple-check-pro-snapback": {
+      "handle": "gorra-mitchell-ness-negra-boston-celtics-triple-check-pro-snapback",
+      "title": "GORRA MITCHELL & NESS NEGRA BOSTON CELTICS TRIPLE CHECK PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-negra-boston-celtics-triple-check-pro-snapback",
+      "price": 33.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-negra-boston-celtics-triple-check-pro-snapback.jpg?width=500",
+      "created_at": "2026-10-29T15:00:02+01:00",
+      "found_at": "2026-10-29T21:44:10.369932"
+    },
+    "gorra-goorin-bros-blanca-osito-double-stuffed-teddy-trucker-cap": {
+      "handle": "gorra-goorin-bros-blanca-osito-double-stuffed-teddy-trucker-cap",
+      "title": "GORRA GOORIN BROS BLANCA OSITO DOUBLE STUFFED TEDDY TRUCKER CAP",
+      "brand": "GOORIN BROS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-goorin-bros-blanca-osito-double-stuffed-teddy-trucker-cap",
+      "price": 49.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-blanca-osito-double-stuffed-teddy-trucker-cap.jpg?width=500",
+      "created_at": "2026-10-29T14:56:49+01:00",
+      "found_at": "2026-10-29T21:44:10.369937"
+    },
+    "gorra-goorin-bros-granate-pony-double-stuffed-horsey-trucker-cap": {
+      "handle": "gorra-goorin-bros-granate-pony-double-stuffed-horsey-trucker-cap",
+      "title": "GORRA GOORIN BROS GRANATE PONY DOUBLE STUFFED HORSEY TRUCKER CAP",
+      "brand": "GOORIN BROS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-goorin-bros-granate-pony-double-stuffed-horsey-trucker-cap",
+      "price": 49.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-granate-pony-double-stuffed-horsey-trucker-cap.jpg?width=500",
+      "created_at": "2026-10-29T14:56:36+01:00",
+      "found_at": "2026-10-29T21:44:10.369943"
+    },
+    "gorra-goorin-bros-blanca-calavera-suede-cancelled-skull-trucker-cap": {
+      "handle": "gorra-goorin-bros-blanca-calavera-suede-cancelled-skull-trucker-cap",
+      "title": "GORRA GOORIN BROS BLANCA CALAVERA SUEDE CANCELLED SKULL TRUCKER CAP",
+      "brand": "GOORIN BROS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-goorin-bros-blanca-calavera-suede-cancelled-skull-trucker-cap",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-blanca-calavera-suede-cancelled-skull-trucker-cap.jpg?width=500",
+      "created_at": "2026-10-29T14:56:18+01:00",
+      "found_at": "2026-10-29T21:44:10.369948"
+    },
     "gorra-new-era-new-york-yankees-9fifty-a-frame-localized-graphics-negra": {
       "handle": "gorra-new-era-new-york-yankees-9fifty-a-frame-localized-graphics-negra",
       "title": "GORRA NEW ERA NEW YORK YANKEES 9FIFTY A FRAME LOCALIZED GRAPHICS NEGRA",
@@ -5415,7 +5831,6 @@
         "28",
         "30",
         "32",
-        "34",
         "36"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-mojado-gastado-slim-fit-broken-pants.jpg?width=500",
@@ -10154,8 +10569,7 @@
       "sizes": [
         "S",
         "M",
-        "L",
-        "XL"
+        "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-von-dutch-cruda-von-skull-relaxed-fit-tee.jpg?width=500",
       "created_at": "2026-08-31T11:50:45+02:00",
@@ -13164,8 +13578,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7",
-        "7 1/8"
+        "7"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-marino-yankees-mlb-side-script-lp59fifty-neyyan.jpg?width=500",
       "created_at": "2026-07-10T00:59:43+02:00",
@@ -13866,7 +14279,6 @@
         "XS",
         "S",
         "M",
-        "XL",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-new-era-marino-san-diego-padres-nos-mlb-regular-tee-sadpad.jpg?width=500",
@@ -13973,8 +14385,7 @@
       "compare": 35.99,
       "available": true,
       "sizes": [
-        "XS",
-        "XL"
+        "XS"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-new-era-negra-boston-celtics-nos-nba-regular-tee-boscel.jpg?width=500",
       "created_at": "2026-07-03T01:44:38+02:00",
@@ -14061,5 +14472,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-29T14:12:27.648282"
+  "last_check": "2026-10-29T21:44:15.895334"
 }
