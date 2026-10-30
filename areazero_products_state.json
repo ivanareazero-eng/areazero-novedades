@@ -2768,7 +2768,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL",
@@ -3161,7 +3160,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "XS",
         "S",
         "M",
         "L",
@@ -5096,10 +5094,8 @@
       "url": "https://areazero.biz/products/gorra-goorin-bros-negra-suede-black-out-lion-trucker-cap",
       "price": 44.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-negra-suede-black-out-lion-trucker-cap.jpg?width=500",
       "created_at": "2026-10-09T12:38:10+02:00",
       "found_at": "2026-10-13T09:25:46.371660"
@@ -5423,10 +5419,8 @@
       "url": "https://areazero.biz/products/balaclava-ovst-negra-heat-basic",
       "price": 19.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/85_7378e1af-7ead-402a-ab09-03df76123ad4.jpg?width=500",
       "created_at": "2026-10-02T13:17:27+02:00",
       "found_at": "2026-10-13T09:25:46.371715"
@@ -5573,7 +5567,6 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
         "L",
         "XL",
         "XXL"
@@ -5645,7 +5638,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "XS",
         "M",
         "L",
         "XL"
@@ -8632,7 +8624,6 @@
       "available": true,
       "sizes": [
         "XS",
-        "S",
         "M",
         "L",
         "XL"
@@ -9059,7 +9050,6 @@
       "available": true,
       "sizes": [
         "6 7/8",
-        "7",
         "7 3/8",
         "7 1/2",
         "7 5/8",
@@ -9229,6 +9219,7 @@
       "available": true,
       "sizes": [
         "XS",
+        "S",
         "M",
         "L",
         "XL",
@@ -12770,7 +12761,9 @@
       "available": true,
       "sizes": [
         "XS",
-        "XS"
+        "XS",
+        "XL",
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-negra-hooded-trackjacket_fff99d3a-d77c-470d-a4a8-018bc03594af.jpg?width=500",
       "created_at": "2026-07-13T13:51:13+02:00",
@@ -14494,5 +14487,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-30T14:04:28.236385"
+  "last_check": "2026-10-30T21:25:57.349726"
 }
