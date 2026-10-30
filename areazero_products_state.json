@@ -1,5 +1,29 @@
 {
   "products": {
+    "gorra-new-era-anaheim-ducks-evergreen-31200-negra-washed": {
+      "handle": "gorra-new-era-anaheim-ducks-evergreen-31200-negra-washed",
+      "title": "GORRA NEW ERA ANAHEIM DUCKS EVERGREEN 31200 NEGRA WASHED",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-anaheim-ducks-evergreen-31200-negra-washed",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "678",
+        "7",
+        "718",
+        "714",
+        "738",
+        "712",
+        "758",
+        "734",
+        "8"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-anaheim-ducks-evergreen-31200-negra-washed.jpg?width=500",
+      "created_at": "2026-10-30T13:21:39+01:00",
+      "found_at": "2026-10-30T14:04:22.276871"
+    },
     "camiseta-fanatics-new-england-patriots-60-core-foundation-nfl-jersey": {
       "handle": "camiseta-fanatics-new-england-patriots-60-core-foundation-nfl-jersey",
       "title": "CAMISETA FANATICS NEW ENGLAND PATRIOTS 60 CORE FOUNDATION NFL JERSEY",
@@ -2857,8 +2881,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
-        "M",
         "L",
         "XL",
         "XXL"
@@ -5277,6 +5299,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
         "M",
         "L",
         "XL"
@@ -8534,8 +8557,7 @@
         "XS",
         "S",
         "M",
-        "L",
-        "XL"
+        "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-new-era-negra-las-vegas-raiders-crewneck-sewatshirt.jpg?width=500",
       "created_at": "2026-09-17T17:17:41+02:00",
@@ -14472,5 +14494,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-29T21:44:15.895334"
+  "last_check": "2026-10-30T14:04:28.236385"
 }
