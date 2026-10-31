@@ -10,14 +10,14 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "678",
+        "6 7/8",
         "7",
-        "718",
-        "714",
-        "738",
-        "712",
-        "758",
-        "734",
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
         "8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-anaheim-ducks-evergreen-31200-negra-washed.jpg?width=500",
@@ -93,9 +93,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "738",
-        "712",
-        "758"
+        "7 3/8",
+        "7 1/2",
+        "7 5/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-royal-los-angeles-dodgers-dri-fit-true-structured-round-bill-fitted.jpg?width=500",
       "created_at": "2026-10-29T15:03:40+01:00",
@@ -5086,20 +5086,6 @@
       "created_at": "2026-10-09T12:38:28+02:00",
       "found_at": "2026-10-13T09:25:46.371657"
     },
-    "gorra-goorin-bros-negra-suede-black-out-lion-trucker-cap": {
-      "handle": "gorra-goorin-bros-negra-suede-black-out-lion-trucker-cap",
-      "title": "GORRA GOORIN BROS NEGRA SUEDE BLACK OUT LION TRUCKER CAP",
-      "brand": "GOORIN BROS",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-goorin-bros-negra-suede-black-out-lion-trucker-cap",
-      "price": 44.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-negra-suede-black-out-lion-trucker-cap.jpg?width=500",
-      "created_at": "2026-10-09T12:38:10+02:00",
-      "found_at": "2026-10-13T09:25:46.371660"
-    },
     "gorra-goorin-bros-negra-arana-suede-black-out-spider-trucker-cap": {
       "handle": "gorra-goorin-bros-negra-arana-suede-black-out-spider-trucker-cap",
       "title": "GORRA GOORIN BROS NEGRA ARAÑA SUEDE BLACK OUT SPIDER TRUCKER CAP",
@@ -5419,8 +5405,10 @@
       "url": "https://areazero.biz/products/balaclava-ovst-negra-heat-basic",
       "price": 19.99,
       "compare": 0,
-      "available": false,
-      "sizes": [],
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/85_7378e1af-7ead-402a-ab09-03df76123ad4.jpg?width=500",
       "created_at": "2026-10-02T13:17:27+02:00",
       "found_at": "2026-10-13T09:25:46.371715"
@@ -8623,7 +8611,6 @@
       "compare": 69.99,
       "available": true,
       "sizes": [
-        "XS",
         "M",
         "L",
         "XL"
@@ -14487,5 +14474,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-10-30T21:25:57.349726"
+  "last_check": "2026-10-31T13:36:37.329708"
 }
