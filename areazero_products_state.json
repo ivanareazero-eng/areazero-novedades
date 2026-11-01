@@ -1,5 +1,86 @@
 {
   "products": {
+    "tracksuit-over-street-rosa-falling-stars": {
+      "handle": "tracksuit-over-street-rosa-falling-stars",
+      "title": "TRACKSUIT OVER STREET ROSA FALLING STARS",
+      "brand": "OVER STREET",
+      "type": "",
+      "url": "https://areazero.biz/products/tracksuit-over-street-rosa-falling-stars",
+      "price": 74.98,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XS",
+        "XS",
+        "XS",
+        "XS",
+        "XS"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tracksuit-falling-stars-rosa.jpg?width=500",
+      "created_at": "2026-11-01T20:41:29+01:00",
+      "found_at": "2026-11-01T21:04:51.042312"
+    },
+    "tracksuit-over-street-gris-falling-stars": {
+      "handle": "tracksuit-over-street-gris-falling-stars",
+      "title": "TRACKSUIT OVER STREET GRIS FALLING STARS",
+      "brand": "OVER STREET",
+      "type": "",
+      "url": "https://areazero.biz/products/tracksuit-over-street-gris-falling-stars",
+      "price": 74.98,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XS",
+        "XS",
+        "XS",
+        "XS",
+        "XS"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tracksuit-falling-stars-gris.jpg?width=500",
+      "created_at": "2026-11-01T20:41:29+01:00",
+      "found_at": "2026-11-01T21:04:51.042357"
+    },
+    "tracksuit-over-street-negro-falling-stars": {
+      "handle": "tracksuit-over-street-negro-falling-stars",
+      "title": "TRACKSUIT OVER STREET NEGRO FALLING STARS",
+      "brand": "OVER STREET",
+      "type": "",
+      "url": "https://areazero.biz/products/tracksuit-over-street-negro-falling-stars",
+      "price": 74.98,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XXS",
+        "XS",
+        "XS",
+        "XS",
+        "XS",
+        "XS"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tracksuit-falling-stars-negro.jpg?width=500",
+      "created_at": "2026-11-01T20:41:19+01:00",
+      "found_at": "2026-11-01T21:04:51.042389"
+    },
     "pack-6-cap-clips-personajes": {
       "handle": "pack-6-cap-clips-personajes",
       "title": "PACK 6 CAP CLIPS PERSONAJES",
@@ -5521,8 +5602,7 @@
       "sizes": [
         "S",
         "M",
-        "L",
-        "XL"
+        "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-santa-cruz-negra-pinstripe-crewneck.jpg?width=500",
       "created_at": "2026-10-05T20:31:26+02:00",
@@ -6108,7 +6188,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "M",
         "XL",
         "XXL"
       ],
@@ -8032,7 +8111,6 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
         "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-psd-rosa-flores-rose-hustle-standard-lenght-trunk.jpg?width=500",
@@ -8829,7 +8907,6 @@
       "available": true,
       "sizes": [
         "XS",
-        "M",
         "L",
         "XL",
         "XXL"
@@ -8989,7 +9066,6 @@
       "compare": 49.99,
       "available": true,
       "sizes": [
-        "M",
         "XL",
         "XXL"
       ],
@@ -9401,7 +9477,6 @@
       "available": true,
       "sizes": [
         "XS",
-        "S",
         "M",
         "L",
         "XL",
@@ -9463,7 +9538,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-champion-negra-chicago-white-sox-champion-poly-trackjacket.jpg?width=500",
@@ -12787,12 +12861,12 @@
         "S",
         "S",
         "S",
-        "S",
         "M",
         "M",
         "M",
         "M",
-        "M",
+        "L",
+        "L",
         "L",
         "L"
       ],
@@ -12937,11 +13011,8 @@
       "sizes": [
         "L",
         "L",
-        "L",
         "XL",
         "XL",
-        "XL",
-        "XXL",
         "XXL",
         "XXL"
       ],
@@ -14709,5 +14780,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-11-01T14:15:06.299486"
+  "last_check": "2026-11-01T21:04:56.619256"
 }
