@@ -4,7 +4,7 @@
       "handle": "tracksuit-over-street-rosa-falling-stars",
       "title": "TRACKSUIT OVER STREET ROSA FALLING STARS",
       "brand": "OVER STREET",
-      "type": "",
+      "type": "CHANDAL",
       "url": "https://areazero.biz/products/tracksuit-over-street-rosa-falling-stars",
       "price": 74.98,
       "compare": 0,
@@ -31,7 +31,7 @@
       "handle": "tracksuit-over-street-gris-falling-stars",
       "title": "TRACKSUIT OVER STREET GRIS FALLING STARS",
       "brand": "OVER STREET",
-      "type": "",
+      "type": "CHANDAL",
       "url": "https://areazero.biz/products/tracksuit-over-street-gris-falling-stars",
       "price": 74.98,
       "compare": 0,
@@ -58,7 +58,7 @@
       "handle": "tracksuit-over-street-negro-falling-stars",
       "title": "TRACKSUIT OVER STREET NEGRO FALLING STARS",
       "brand": "OVER STREET",
-      "type": "",
+      "type": "CHANDAL",
       "url": "https://areazero.biz/products/tracksuit-over-street-negro-falling-stars",
       "price": 74.98,
       "compare": 0,
@@ -80,6 +80,48 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tracksuit-falling-stars-negro.jpg?width=500",
       "created_at": "2026-11-01T20:41:19+01:00",
       "found_at": "2026-11-01T21:04:51.042389"
+    },
+    "pack-3-pins-animales-over-street": {
+      "handle": "pack-3-pins-animales-over-street",
+      "title": "PACK 3 PINS OVER STREET ANIMALES",
+      "brand": "PINS",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pack-3-pins-animales-over-street",
+      "price": 12.99,
+      "compare": 14.97,
+      "available": true,
+      "sizes": [],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/0016-5976797524234307926.jpg?width=500",
+      "created_at": "2026-11-01T15:27:16+01:00",
+      "found_at": "2026-11-02T17:00:21.088197"
+    },
+    "pack-3-pins-dark-over-street": {
+      "handle": "pack-3-pins-dark-over-street",
+      "title": "PACK 3 PINS OVER STREET DARK",
+      "brand": "PINS",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pack-3-pins-dark-over-street",
+      "price": 12.99,
+      "compare": 14.97,
+      "available": true,
+      "sizes": [],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/0017-5976797524234307926.jpg?width=500",
+      "created_at": "2026-11-01T15:27:16+01:00",
+      "found_at": "2026-11-02T17:00:21.088205"
+    },
+    "pack-3-pins-gym-over-street": {
+      "handle": "pack-3-pins-gym-over-street",
+      "title": "PACK 3 PINS OVER STREET GYM",
+      "brand": "PINS",
+      "type": "PINS",
+      "url": "https://areazero.biz/products/pack-3-pins-gym-over-street",
+      "price": 12.99,
+      "compare": 14.97,
+      "available": true,
+      "sizes": [],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/0014-5976797524234307926.jpg?width=500",
+      "created_at": "2026-11-01T15:27:14+01:00",
+      "found_at": "2026-11-02T17:00:21.088212"
     },
     "pack-6-cap-clips-personajes": {
       "handle": "pack-6-cap-clips-personajes",
@@ -353,7 +395,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL",
@@ -2991,7 +3032,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "M",
         "L",
         "XL",
         "XXL"
@@ -5600,7 +5640,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L"
       ],
@@ -11356,10 +11395,8 @@
       "url": "https://areazero.biz/products/gorra-capslab-verde-natural-mystik-lion-trucker-cap",
       "price": 34.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-capslab-verde-natural-mystik-lion-trucker-cap_bee691b3-16d2-4dfd-8aff-e19e78c41a77.jpg?width=500",
       "created_at": "2026-08-29T12:20:18+02:00",
       "found_at": "2026-10-13T09:25:47.895842"
@@ -13921,7 +13958,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 3/8",
         "7 3/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-marino-yankees-mlb-zodiac-59fifty-neyyan.jpg?width=500",
@@ -14017,20 +14053,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-negro-white-tiger-whi-standard-length-trunk.jpg?width=500",
       "created_at": "2026-07-10T00:54:36+02:00",
       "found_at": "2026-10-13T09:25:49.522886"
-    },
-    "gorra-new-era-granate-athletics-league-essential-oakath-trucker-cap": {
-      "handle": "gorra-new-era-granate-athletics-league-essential-oakath-trucker-cap",
-      "title": "GORRA NEW ERA OAKLAND ATHLETICS MLB LEAGUE ESSENTIAL TRUCKER GRANATE",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-granate-athletics-league-essential-oakath-trucker-cap",
-      "price": 30.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-granate-athletics-league-essential-oakath-trucker-cap.jpg?width=500",
-      "created_at": "2026-07-03T01:58:41+02:00",
-      "found_at": "2026-10-13T09:25:49.522889"
     },
     "gorra-new-era-marino-dodgers-metallic-outline-eframe-losdod": {
       "handle": "gorra-new-era-marino-dodgers-metallic-outline-eframe-losdod",
@@ -14623,8 +14645,7 @@
       "available": true,
       "sizes": [
         "XS",
-        "S",
-        "M"
+        "S"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-new-era-marino-boston-red-sox-nos-mlb-regular-tee-bosred.jpg?width=500",
       "created_at": "2026-07-03T01:46:23+02:00",
@@ -14780,5 +14801,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-11-01T21:04:56.619256"
+  "last_check": "2026-11-02T17:00:26.142278"
 }
