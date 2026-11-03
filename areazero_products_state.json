@@ -11385,20 +11385,6 @@
       "created_at": "2026-08-29T12:20:33+02:00",
       "found_at": "2026-10-13T09:25:47.895839"
     },
-    "gorra-capslab-verde-natural-mystik-lion-trucker-cap": {
-      "handle": "gorra-capslab-verde-natural-mystik-lion-trucker-cap",
-      "title": "GORRA CAPSLAB VERDE NATURAL MYSTIK LION TRUCKER CAP",
-      "brand": "CAPSLAB",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-capslab-verde-natural-mystik-lion-trucker-cap",
-      "price": 34.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-capslab-verde-natural-mystik-lion-trucker-cap_bee691b3-16d2-4dfd-8aff-e19e78c41a77.jpg?width=500",
-      "created_at": "2026-08-29T12:20:18+02:00",
-      "found_at": "2026-10-13T09:25:47.895842"
-    },
     "gorra-capslab-beige-one-piece-skull-trucker-cap": {
       "handle": "gorra-capslab-beige-one-piece-skull-trucker-cap",
       "title": "GORRA CAPSLAB BEIGE ONE PIECE SKULL TRUCKER CAP",
@@ -11923,7 +11909,7 @@
       "sizes": [
         "TU"
       ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/visor-curve-az-negro.jpg?width=500",
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/visor-curve-az-negro_042d829b-23d0-4d21-bf94-b0d01d5295d6.jpg?width=500",
       "created_at": "2026-07-24T21:58:10+02:00",
       "found_at": "2026-10-13T09:25:47.895934"
     },
@@ -14706,7 +14692,8 @@
       "compare": 35.99,
       "available": true,
       "sizes": [
-        "XS"
+        "XS",
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-new-era-negra-boston-celtics-nos-nba-regular-tee-boscel.jpg?width=500",
       "created_at": "2026-07-03T01:44:38+02:00",
@@ -14793,5 +14780,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-11-02T23:50:37.810520"
+  "last_check": "2026-11-03T15:02:49.606023"
 }
