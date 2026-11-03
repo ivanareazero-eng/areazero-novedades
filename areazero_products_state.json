@@ -13046,11 +13046,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
         "XL",
         "XL",
         "XL",
@@ -13303,10 +13298,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-negra-yankees-wmns-pattern-pu-9forty-neyyan",
       "price": 31.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-negra-yankees-wmns-pattern-pu-9forty-neyyan.jpg?width=500",
       "created_at": "2026-07-10T12:26:14+02:00",
       "found_at": "2026-10-13T09:25:49.522755"
@@ -14431,10 +14424,8 @@
       "url": "https://areazero.biz/products/boxer-freegun-negro-dragon-ball-dbz15-dra-standard-length-trunk",
       "price": 14.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "XL"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-negro-dragon-ball-dbz15-dra-standard-length-trunk.jpg?width=500",
       "created_at": "2026-07-03T01:49:36+02:00",
       "found_at": "2026-10-13T09:25:49.522964"
@@ -14692,8 +14683,7 @@
       "compare": 35.99,
       "available": true,
       "sizes": [
-        "XS",
-        "XL"
+        "XS"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-new-era-negra-boston-celtics-nos-nba-regular-tee-boscel.jpg?width=500",
       "created_at": "2026-07-03T01:44:38+02:00",
@@ -14780,5 +14770,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-11-03T15:02:49.606023"
+  "last_check": "2026-11-03T22:16:13.358574"
 }
