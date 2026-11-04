@@ -1,5 +1,883 @@
 {
   "products": {
+    "gorra-goorin-bros-granate-elefante-gilded-beast-goals-trucker-cap": {
+      "handle": "gorra-goorin-bros-granate-elefante-gilded-beast-goals-trucker-cap",
+      "title": "GORRA GOORIN BROS GRANATE ELEFANTE GILDED BEAST GOALS TRUCKER CAP",
+      "brand": "GOORIN BROS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-goorin-bros-granate-elefante-gilded-beast-goals-trucker-cap",
+      "price": 54.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-granate-elefante-gilded-beast-goals-trucker-cap.jpg?width=500",
+      "created_at": "2026-11-04T14:46:04+01:00",
+      "found_at": "2026-11-04T15:22:28.092620"
+    },
+    "gorra-goorin-bros-negra-hipopotamo-gilded-beast-swole-trucker-cap": {
+      "handle": "gorra-goorin-bros-negra-hipopotamo-gilded-beast-swole-trucker-cap",
+      "title": "GORRA GOORIN BROS NEGRA HIPOPOTAMO GILDED BEAST SWOLE TRUCKER CAP",
+      "brand": "GOORIN BROS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-goorin-bros-negra-hipopotamo-gilded-beast-swole-trucker-cap",
+      "price": 54.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-negra-hipopotamo-gilded-beast-swole-trucker-cap.jpg?width=500",
+      "created_at": "2026-11-04T14:45:59+01:00",
+      "found_at": "2026-11-04T15:22:28.092638"
+    },
+    "gorra-goorin-bros-negra-pantera-celebrate-a-legend-trucker-cap": {
+      "handle": "gorra-goorin-bros-negra-pantera-celebrate-a-legend-trucker-cap",
+      "title": "GORRA GOORIN BROS NEGRA PANTERA CELEBRATE A LEGEND TRUCKER CAP",
+      "brand": "GOORIN BROS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-goorin-bros-negra-pantera-celebrate-a-legend-trucker-cap",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-negra-pantera-celebrate-a-legend-trucker-cap.jpg?width=500",
+      "created_at": "2026-11-04T14:45:53+01:00",
+      "found_at": "2026-11-04T15:22:28.092645"
+    },
+    "gorra-goorin-bros-beige-cabra-top-of-the-podium-trucker-cap": {
+      "handle": "gorra-goorin-bros-beige-cabra-top-of-the-podium-trucker-cap",
+      "title": "GORRA GOORIN BROS BEIGE CABRA TOP OF THE PODIUM TRUCKER CAP",
+      "brand": "GOORIN BROS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-goorin-bros-beige-cabra-top-of-the-podium-trucker-cap",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-beige-cabra-top-of-the-podium-trucker-cap.jpg?width=500",
+      "created_at": "2026-11-04T14:45:39+01:00",
+      "found_at": "2026-11-04T15:22:28.092650"
+    },
+    "gorra-goorin-bros-blanca-gato-migration-oops-trucker-cap": {
+      "handle": "gorra-goorin-bros-blanca-gato-migration-oops-trucker-cap",
+      "title": "GORRA GOORIN BROS BLANCA GATO MIGRATION OOPS TRUCKER CAP",
+      "brand": "GOORIN BROS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-goorin-bros-blanca-gato-migration-oops-trucker-cap",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-blanca-gato-migration-oops-trucker-cap.jpg?width=500",
+      "created_at": "2026-11-04T14:45:25+01:00",
+      "found_at": "2026-11-04T15:22:28.092655"
+    },
+    "camiseta-lacoste-negra-printed-croco-ultra-dry-sport-tee": {
+      "handle": "camiseta-lacoste-negra-printed-croco-ultra-dry-sport-tee",
+      "title": "CAMISETA LACOSTE NEGRA PRINTED CROCO ULTRA DRY SPORT TEE",
+      "brand": "LACOSTE",
+      "type": "CAMISETAS",
+      "url": "https://areazero.biz/products/camiseta-lacoste-negra-printed-croco-ultra-dry-sport-tee",
+      "price": 69.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-lacoste-negra-printed-croco-ultra-dry-sport-tee.jpg?width=500",
+      "created_at": "2026-11-04T14:45:00+01:00",
+      "found_at": "2026-11-04T15:22:28.092664"
+    },
+    "sudadera-lacoste-blanca-tipped-logo-hoodie": {
+      "handle": "sudadera-lacoste-blanca-tipped-logo-hoodie",
+      "title": "SUDADERA LACOSTE BLANCA TIPPED LOGO HOODIE",
+      "brand": "LACOSTE",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-lacoste-blanca-tipped-logo-hoodie",
+      "price": 159.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-lacoste-blanca-tipped-logo-hoodie.jpg?width=500",
+      "created_at": "2026-11-04T14:44:38+01:00",
+      "found_at": "2026-11-04T15:22:28.092673"
+    },
+    "sudadera-lacoste-negra-tipped-logo-hoodie": {
+      "handle": "sudadera-lacoste-negra-tipped-logo-hoodie",
+      "title": "SUDADERA LACOSTE NEGRA TIPPED LOGO HOODIE",
+      "brand": "LACOSTE",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-lacoste-negra-tipped-logo-hoodie",
+      "price": 159.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-lacoste-negra-tipped-logo-hoodie.jpg?width=500",
+      "created_at": "2026-11-04T14:44:15+01:00",
+      "found_at": "2026-11-04T15:22:28.092680"
+    },
+    "camiseta-lacoste-blanca-printed-croco-ultra-dry-sport-tee": {
+      "handle": "camiseta-lacoste-blanca-printed-croco-ultra-dry-sport-tee",
+      "title": "CAMISETA LACOSTE BLANCA PRINTED CROCO ULTRA DRY SPORT TEE",
+      "brand": "LACOSTE",
+      "type": "CAMISETAS",
+      "url": "https://areazero.biz/products/camiseta-lacoste-blanca-printed-croco-ultra-dry-sport-tee",
+      "price": 69.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-lacoste-blanca-printed-croco-ultra-dry-sport-tee.jpg?width=500",
+      "created_at": "2026-11-04T14:43:52+01:00",
+      "found_at": "2026-11-04T15:22:28.092686"
+    },
+    "sudadera-lacoste-granate-wordmark-embroidered-hoodie": {
+      "handle": "sudadera-lacoste-granate-wordmark-embroidered-hoodie",
+      "title": "SUDADERA LACOSTE GRANATE WORDMARK EMBROIDERED HOODIE",
+      "brand": "LACOSTE",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-lacoste-granate-wordmark-embroidered-hoodie",
+      "price": 179.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-lacoste-granate-wordmark-embroidered-hoodie.jpg?width=500",
+      "created_at": "2026-11-04T14:43:31+01:00",
+      "found_at": "2026-11-04T15:22:28.092693"
+    },
+    "cazadora-grimey-blanca-sho-nuff-pull-over-jacket": {
+      "handle": "cazadora-grimey-blanca-sho-nuff-pull-over-jacket",
+      "title": "CAZADORA GRIMEY BLANCA SHO NUFF PULL OVER JACKET",
+      "brand": "GRIMEY",
+      "type": "ABRIGOS",
+      "url": "https://areazero.biz/products/cazadora-grimey-blanca-sho-nuff-pull-over-jacket",
+      "price": 189.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-grimey-blanca-sho-nuff-pull-over-jacket.jpg?width=500",
+      "created_at": "2026-11-04T14:43:05+01:00",
+      "found_at": "2026-11-04T15:22:28.092699"
+    },
+    "cazadora-grimey-negra-sho-nuff-pull-over-jacket": {
+      "handle": "cazadora-grimey-negra-sho-nuff-pull-over-jacket",
+      "title": "CAZADORA GRIMEY NEGRA SHO NUFF PULL OVER JACKET",
+      "brand": "GRIMEY",
+      "type": "ABRIGOS",
+      "url": "https://areazero.biz/products/cazadora-grimey-negra-sho-nuff-pull-over-jacket",
+      "price": 189.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-grimey-negra-sho-nuff-pull-over-jacket.jpg?width=500",
+      "created_at": "2026-11-04T14:42:51+01:00",
+      "found_at": "2026-11-04T15:22:28.092705"
+    },
+    "cazadora-grimey-blanca-hans-island-pu-leather-jacket": {
+      "handle": "cazadora-grimey-blanca-hans-island-pu-leather-jacket",
+      "title": "CAZADORA GRIMEY BLANCA HANS ISLAND PU LEATHER JACKET",
+      "brand": "GRIMEY",
+      "type": "ABRIGOS",
+      "url": "https://areazero.biz/products/cazadora-grimey-blanca-hans-island-pu-leather-jacket",
+      "price": 199.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-grimey-blanca-hans-island-pu-leather-jacket.jpg?width=500",
+      "created_at": "2026-11-04T14:42:36+01:00",
+      "found_at": "2026-11-04T15:22:28.092711"
+    },
+    "sudadera-grimey-blanca-hans-island-boxy-hoodie-off-white": {
+      "handle": "sudadera-grimey-blanca-hans-island-boxy-hoodie-off-white",
+      "title": "SUDADERA GRIMEY BLANCA HANS ISLAND BOXY HOODIE OFF WHITE",
+      "brand": "GRIMEY",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-grimey-blanca-hans-island-boxy-hoodie-off-white",
+      "price": 89.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-grimey-blanca-hans-island-boxy-hoodie-off-white.jpg?width=500",
+      "created_at": "2026-11-04T14:42:18+01:00",
+      "found_at": "2026-11-04T15:22:28.092717"
+    },
+    "sudadera-grimey-negra-hans-island-boxy-hoodie-black": {
+      "handle": "sudadera-grimey-negra-hans-island-boxy-hoodie-black",
+      "title": "SUDADERA GRIMEY NEGRA HANS ISLAND BOXY HOODIE BLACK",
+      "brand": "GRIMEY",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-grimey-negra-hans-island-boxy-hoodie-black",
+      "price": 89.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-grimey-negra-hans-island-boxy-hoodie-black.jpg?width=500",
+      "created_at": "2026-11-04T14:42:01+01:00",
+      "found_at": "2026-11-04T15:22:28.092723"
+    },
+    "polo-champion-rojo-long-sleeve-stripped-polo-shirt": {
+      "handle": "polo-champion-rojo-long-sleeve-stripped-polo-shirt",
+      "title": "POLO CHAMPION ROJO LONG SLEEVE STRIPPED POLO SHIRT",
+      "brand": "CHAMPION",
+      "type": "POLOS",
+      "url": "https://areazero.biz/products/polo-champion-rojo-long-sleeve-stripped-polo-shirt",
+      "price": 39.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/polo-champion-rojo-long-sleeve-stripped-polo-shirt_777f396b-1e7f-422d-b991-c442706ca9c8.jpg?width=500",
+      "created_at": "2026-11-04T14:41:46+01:00",
+      "found_at": "2026-11-04T15:22:28.092729"
+    },
+    "polo-champion-gris-long-sleeve-stripped-polo-shirt": {
+      "handle": "polo-champion-gris-long-sleeve-stripped-polo-shirt",
+      "title": "POLO CHAMPION GRIS LONG SLEEVE STRIPPED POLO SHIRT",
+      "brand": "CHAMPION",
+      "type": "POLOS",
+      "url": "https://areazero.biz/products/polo-champion-gris-long-sleeve-stripped-polo-shirt",
+      "price": 39.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/polo-champion-gris-long-sleeve-stripped-polo-shirt_22d69a83-9df3-426d-af2f-a6b7727ff619.jpg?width=500",
+      "created_at": "2026-11-04T14:41:34+01:00",
+      "found_at": "2026-11-04T15:22:28.092735"
+    },
+    "sudadera-champion-cruda-back-logo-rugby-sweatshirt": {
+      "handle": "sudadera-champion-cruda-back-logo-rugby-sweatshirt",
+      "title": "SUDADERA CHAMPION CRUDA BACK LOGO RUGBY SWEATSHIRT",
+      "brand": "CHAMPION",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-champion-cruda-back-logo-rugby-sweatshirt",
+      "price": 49.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-champion-cruda-back-logo-rugby-sweatshirt_44c34023-b461-4f58-9adf-23be10f06c6c.jpg?width=500",
+      "created_at": "2026-11-04T14:41:20+01:00",
+      "found_at": "2026-11-04T15:22:28.092741"
+    },
+    "sudadera-champion-marino-back-logo-rugby-sweatshirt": {
+      "handle": "sudadera-champion-marino-back-logo-rugby-sweatshirt",
+      "title": "SUDADERA CHAMPION MARINO BACK LOGO RUGBY SWEATSHIRT",
+      "brand": "CHAMPION",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-champion-marino-back-logo-rugby-sweatshirt",
+      "price": 49.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-champion-marino-back-logo-rugby-sweatshirt.jpg?width=500",
+      "created_at": "2026-11-04T14:41:10+01:00",
+      "found_at": "2026-11-04T15:22:28.092747"
+    },
+    "polar-champion-verde-full-zip-polar-jacket": {
+      "handle": "polar-champion-verde-full-zip-polar-jacket",
+      "title": "POLAR CHAMPION VERDE FULL ZIP POLAR JACKET",
+      "brand": "CHAMPION",
+      "type": "ABRIGOS",
+      "url": "https://areazero.biz/products/polar-champion-verde-full-zip-polar-jacket",
+      "price": 49.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/polar-champion-verde-full-zip-polar-jacket_e5ece442-2c4b-420c-8356-5ada42989643.jpg?width=500",
+      "created_at": "2026-11-04T14:40:57+01:00",
+      "found_at": "2026-11-04T15:22:28.092754"
+    },
+    "pantalon-champion-beige-loose-fit-carpenter-pants": {
+      "handle": "pantalon-champion-beige-loose-fit-carpenter-pants",
+      "title": "PANTALON CHAMPION BEIGE LOOSE FIT CARPENTER PANTS",
+      "brand": "CHAMPION",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-champion-beige-loose-fit-carpenter-pants",
+      "price": 69.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-champion-beige-loose-fit-carpenter-pants.jpg?width=500",
+      "created_at": "2026-11-04T14:40:46+01:00",
+      "found_at": "2026-11-04T15:22:28.092759"
+    },
+    "pantalon-champion-negro-university-logo-rib-cuff-pant": {
+      "handle": "pantalon-champion-negro-university-logo-rib-cuff-pant",
+      "title": "PANTALON CHAMPION NEGRO UNIVERSITY LOGO RIB CUFF PANT",
+      "brand": "CHAMPION",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-champion-negro-university-logo-rib-cuff-pant",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-champion-negro-university-logo-rib-cuff-pant_4a575897-169d-4e61-a71a-dff023a19310.jpg?width=500",
+      "created_at": "2026-11-04T14:40:32+01:00",
+      "found_at": "2026-11-04T15:22:28.092765"
+    },
+    "pantalon-champion-verde-university-logo-rib-cuff-pant": {
+      "handle": "pantalon-champion-verde-university-logo-rib-cuff-pant",
+      "title": "PANTALON CHAMPION VERDE UNIVERSITY LOGO RIB CUFF PANT",
+      "brand": "CHAMPION",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-champion-verde-university-logo-rib-cuff-pant",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-champion-verde-university-logo-rib-cuff-pant_71869782-8c8c-4813-9017-04b33dcd9818.jpg?width=500",
+      "created_at": "2026-11-04T14:40:20+01:00",
+      "found_at": "2026-11-04T15:22:28.092770"
+    },
+    "pantalon-champion-gris-university-logo-rib-cuff-pant": {
+      "handle": "pantalon-champion-gris-university-logo-rib-cuff-pant",
+      "title": "PANTALON CHAMPION GRIS UNIVERSITY LOGO RIB CUFF PANT",
+      "brand": "CHAMPION",
+      "type": "PANTALONES",
+      "url": "https://areazero.biz/products/pantalon-champion-gris-university-logo-rib-cuff-pant",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-champion-gris-university-logo-rib-cuff-pant_be0d35e2-8cec-4c1f-9f91-f38cd578a2cd.jpg?width=500",
+      "created_at": "2026-11-04T14:40:08+01:00",
+      "found_at": "2026-11-04T15:22:28.092776"
+    },
+    "tripack-calcetines-antracita-stripped-logo-socks": {
+      "handle": "tripack-calcetines-antracita-stripped-logo-socks",
+      "title": "TRIPACK CALCETINES ANTRACITA STRIPPED LOGO SOCKS",
+      "brand": "AREA ZERO ROTS",
+      "type": "CALCETINES",
+      "url": "https://areazero.biz/products/tripack-calcetines-antracita-stripped-logo-socks",
+      "price": 7.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "41",
+        "43"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tripack-calcetines-antracita-stripped-logo-socks.jpg?width=500",
+      "created_at": "2026-11-04T14:40:00+01:00",
+      "found_at": "2026-11-04T15:22:28.092781"
+    },
+    "tripack-calcetines-negros-stripped-logo-socks": {
+      "handle": "tripack-calcetines-negros-stripped-logo-socks",
+      "title": "TRIPACK CALCETINES NEGROS STRIPPED LOGO SOCKS",
+      "brand": "AREA ZERO ROTS",
+      "type": "CALCETINES",
+      "url": "https://areazero.biz/products/tripack-calcetines-negros-stripped-logo-socks",
+      "price": 7.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "41",
+        "43"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tripack-calcetines-negros-stripped-logo-socks.jpg?width=500",
+      "created_at": "2026-11-04T14:39:47+01:00",
+      "found_at": "2026-11-04T15:22:28.092785"
+    },
+    "tripack-calcetines-blancos-stripped-logo-socks": {
+      "handle": "tripack-calcetines-blancos-stripped-logo-socks",
+      "title": "TRIPACK CALCETINES BLANCOS STRIPPED LOGO SOCKS",
+      "brand": "AREA ZERO ROTS",
+      "type": "CALCETINES",
+      "url": "https://areazero.biz/products/tripack-calcetines-blancos-stripped-logo-socks",
+      "price": 7.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "41",
+        "43"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tripack-calcetines-blancos-stripped-logo-socks.jpg?width=500",
+      "created_at": "2026-11-04T14:39:32+01:00",
+      "found_at": "2026-11-04T15:22:28.092790"
+    },
+    "tripack-calcetines-antracita-classic-logo-socks": {
+      "handle": "tripack-calcetines-antracita-classic-logo-socks",
+      "title": "TRIPACK CALCETINES ANTRACITA CLASSIC LOGO SOCKS",
+      "brand": "AREA ZERO ROTS",
+      "type": "CALCETINES",
+      "url": "https://areazero.biz/products/tripack-calcetines-antracita-classic-logo-socks",
+      "price": 7.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "41",
+        "43"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tripack-calcetines-antracita-classic-logo-socks.jpg?width=500",
+      "created_at": "2026-11-04T14:39:15+01:00",
+      "found_at": "2026-11-04T15:22:28.092794"
+    },
+    "tripack-calcetines-negros-classic-logo-socks": {
+      "handle": "tripack-calcetines-negros-classic-logo-socks",
+      "title": "TRIPACK CALCETINES NEGROS CLASSIC LOGO SOCKS",
+      "brand": "AREA ZERO ROTS",
+      "type": "CALCETINES",
+      "url": "https://areazero.biz/products/tripack-calcetines-negros-classic-logo-socks",
+      "price": 7.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "41",
+        "43"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tripack-calcetines-negros-classic-logo-socks.jpg?width=500",
+      "created_at": "2026-11-04T14:38:56+01:00",
+      "found_at": "2026-11-04T15:22:28.092798"
+    },
+    "tripack-calcetines-blancos-classic-logo-socks": {
+      "handle": "tripack-calcetines-blancos-classic-logo-socks",
+      "title": "TRIPACK CALCETINES BLANCOS CLASSIC LOGO SOCKS",
+      "brand": "AREA ZERO ROTS",
+      "type": "CALCETINES",
+      "url": "https://areazero.biz/products/tripack-calcetines-blancos-classic-logo-socks",
+      "price": 7.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "41",
+        "43"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/tripack-calcetines-blancos-classic-logo-socks.jpg?width=500",
+      "created_at": "2026-11-04T14:38:40+01:00",
+      "found_at": "2026-11-04T15:22:28.092803"
+    },
+    "gorra-mitchell-ness-beige-vancouver-grizzlies-retro-roots-deadstock": {
+      "handle": "gorra-mitchell-ness-beige-vancouver-grizzlies-retro-roots-deadstock",
+      "title": "GORRA MITCHELL & NESS BEIGE VANCOUVER GRIZZLIES RETRO ROOTS DEADSTOCK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-beige-vancouver-grizzlies-retro-roots-deadstock",
+      "price": 32.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-beige-vancouver-grizzlies-retro-roots-deadstock.jpg?width=500",
+      "created_at": "2026-11-04T14:38:05+01:00",
+      "found_at": "2026-11-04T15:22:28.092807"
+    },
+    "gorra-mitchell-ness-cruda-anaheim-ducks-retro-roots-stripe-pro-snapback": {
+      "handle": "gorra-mitchell-ness-cruda-anaheim-ducks-retro-roots-stripe-pro-snapback",
+      "title": "GORRA MITCHELL & NESS CRUDA ANAHEIM DUCKS RETRO ROOTS STRIPE PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-cruda-anaheim-ducks-retro-roots-stripe-pro-snapback",
+      "price": 35.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-cruda-anaheim-ducks-retro-roots-stripe-pro-snapback.jpg?width=500",
+      "created_at": "2026-11-04T14:37:59+01:00",
+      "found_at": "2026-11-04T15:22:28.092811"
+    },
+    "gorra-mitchell-ness-cruda-chicago-bulls-retro-roots-stripe-pro-snapback": {
+      "handle": "gorra-mitchell-ness-cruda-chicago-bulls-retro-roots-stripe-pro-snapback",
+      "title": "GORRA MITCHELL & NESS CRUDA CHICAGO BULLS RETRO ROOTS STRIPE PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-cruda-chicago-bulls-retro-roots-stripe-pro-snapback",
+      "price": 35.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-cruda-chicago-bulls-retro-roots-stripe-pro-snapback.jpg?width=500",
+      "created_at": "2026-11-04T14:37:46+01:00",
+      "found_at": "2026-11-04T15:22:28.092814"
+    },
+    "gorra-new-era-x-bj-betts-philadelphia-eagles-59fifty-negra": {
+      "handle": "gorra-new-era-x-bj-betts-philadelphia-eagles-59fifty-negra",
+      "title": "GORRA NEW ERA X BJ BETTS PHILADELPHIA EAGLES 59FIFTY NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-x-bj-betts-philadelphia-eagles-59fifty-negra",
+      "price": 51.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "678",
+        "7",
+        "718",
+        "714",
+        "738",
+        "712",
+        "758",
+        "734",
+        "778"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-x-bj-betts-philadelphia-eagles-59fifty-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:37:05+01:00",
+      "found_at": "2026-11-04T15:22:28.092822"
+    },
+    "gorra-new-era-los-angeles-dodgers-9fifty-trucker-negra": {
+      "handle": "gorra-new-era-los-angeles-dodgers-9fifty-trucker-negra",
+      "title": "GORRA NEW ERA LOS ANGELES DODGERS 9FIFTY TRUCKER NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-9fifty-trucker-negra",
+      "price": 36.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-9fifty-trucker-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:36:48+01:00",
+      "found_at": "2026-11-04T15:22:28.092827"
+    },
+    "gorra-new-era-new-york-yankees-9fifty-trucker-negra": {
+      "handle": "gorra-new-era-new-york-yankees-9fifty-trucker-negra",
+      "title": "GORRA NEW ERA NEW YORK YANKEES 9FIFTY TRUCKER NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9fifty-trucker-negra",
+      "price": 36.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9fifty-trucker-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:36:34+01:00",
+      "found_at": "2026-11-04T15:22:28.092831"
+    },
+    "gorra-new-era-boston-red-sox-9fifty-trucker-marino": {
+      "handle": "gorra-new-era-boston-red-sox-9fifty-trucker-marino",
+      "title": "GORRA NEW ERA BOSTON RED SOX 9FIFTY TRUCKER MARINO",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-boston-red-sox-9fifty-trucker-marino",
+      "price": 36.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-boston-red-sox-9fifty-trucker-marino.jpg?width=500",
+      "created_at": "2026-11-04T14:36:20+01:00",
+      "found_at": "2026-11-04T15:22:28.092835"
+    },
+    "gorra-new-era-by-bj-betts-las-vegas-raiders-9fifty-a-frame-negra": {
+      "handle": "gorra-new-era-by-bj-betts-las-vegas-raiders-9fifty-a-frame-negra",
+      "title": "GORRA NEW ERA BY BJ BETTS LAS VEGAS RAIDERS 9FIFTY A FRAME NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-by-bj-betts-las-vegas-raiders-9fifty-a-frame-negra",
+      "price": 49.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-by-bj-betts-las-vegas-raiders-9fifty-a-frame-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:36:06+01:00",
+      "found_at": "2026-11-04T15:22:28.092840"
+    },
+    "gorra-new-era-by-bj-betts-las-vegas-raiders-9forty-a-frame-negra": {
+      "handle": "gorra-new-era-by-bj-betts-las-vegas-raiders-9forty-a-frame-negra",
+      "title": "GORRA NEW ERA BY BJ BETTS LAS VEGAS RAIDERS 9FORTY A FRAME NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-by-bj-betts-las-vegas-raiders-9forty-a-frame-negra",
+      "price": 45.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-by-bj-betts-las-vegas-raiders-9forty-a-frame-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:35:52+01:00",
+      "found_at": "2026-11-04T15:22:28.092844"
+    },
+    "gorra-new-era-by-bj-betts-seattle-seahawks-9forty-a-frame-negra": {
+      "handle": "gorra-new-era-by-bj-betts-seattle-seahawks-9forty-a-frame-negra",
+      "title": "GORRA NEW ERA BY BJ BETTS SEATTLE SEAHAWKS 9FORTY A FRAME NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-by-bj-betts-seattle-seahawks-9forty-a-frame-negra",
+      "price": 45.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-by-bj-betts-seattle-seahawks-9forty-a-frame-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:35:36+01:00",
+      "found_at": "2026-11-04T15:22:28.092847"
+    },
+    "gorra-new-era-by-bj-betts-green-bay-packers-9forty-a-frame-negra": {
+      "handle": "gorra-new-era-by-bj-betts-green-bay-packers-9forty-a-frame-negra",
+      "title": "GORRA NEW ERA BY BJ BETTS GREEN BAY PACKERS 9FORTY A FRAME NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-by-bj-betts-green-bay-packers-9forty-a-frame-negra",
+      "price": 45.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-by-bj-betts-green-bay-packers-9forty-a-frame-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:35:21+01:00",
+      "found_at": "2026-11-04T15:22:28.092851"
+    },
+    "gorra-new-era-by-bj-betts-new-england-patriots-9forty-a-frame-negra": {
+      "handle": "gorra-new-era-by-bj-betts-new-england-patriots-9forty-a-frame-negra",
+      "title": "GORRA NEW ERA BY BJ BETTS NEW ENGLAND PATRIOTS 9FORTY A FRAME NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-by-bj-betts-new-england-patriots-9forty-a-frame-negra",
+      "price": 45.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-by-bj-betts-new-england-patriots-9forty-a-frame-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:35:06+01:00",
+      "found_at": "2026-11-04T15:22:28.092866"
+    },
+    "gorra-new-era-by-bj-betts-seattle-seahawks-19twenty-negra": {
+      "handle": "gorra-new-era-by-bj-betts-seattle-seahawks-19twenty-negra",
+      "title": "GORRA NEW ERA BY BJ BETTS SEATTLE SEAHAWKS 19TWENTY NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-by-bj-betts-seattle-seahawks-19twenty-negra",
+      "price": 37.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-by-bj-betts-seattle-seahawks-19twenty-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:34:51+01:00",
+      "found_at": "2026-11-04T15:22:28.092869"
+    },
+    "gorra-new-era-by-bj-betts-las-vegas-raiders-19twenty-negra": {
+      "handle": "gorra-new-era-by-bj-betts-las-vegas-raiders-19twenty-negra",
+      "title": "GORRA NEW ERA BY BJ BETTS LAS VEGAS RAIDERS 19TWENTY NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-by-bj-betts-las-vegas-raiders-19twenty-negra",
+      "price": 37.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-by-bj-betts-las-vegas-raiders-19twenty-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:34:38+01:00",
+      "found_at": "2026-11-04T15:22:28.092874"
+    },
+    "gorra-new-era-by-bj-betts-philadelphia-eagles-19twenty-negra": {
+      "handle": "gorra-new-era-by-bj-betts-philadelphia-eagles-19twenty-negra",
+      "title": "GORRA NEW ERA BY BJ BETTS PHILADELPHIA EAGLES 19TWENTY NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-by-bj-betts-philadelphia-eagles-19twenty-negra",
+      "price": 37.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-by-bj-betts-philadelphia-eagles-19twenty-negra.jpg?width=500",
+      "created_at": "2026-11-04T14:34:23+01:00",
+      "found_at": "2026-11-04T15:22:28.092877"
+    },
+    "gorra-new-era-chicago-bulls-9fifty-a-frame-hardwood-classic-blanca": {
+      "handle": "gorra-new-era-chicago-bulls-9fifty-a-frame-hardwood-classic-blanca",
+      "title": "GORRA NEW ERA CHICAGO BULLS 9FIFTY A FRAME HARDWOOD CLASSIC BLANCA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-chicago-bulls-9fifty-a-frame-hardwood-classic-blanca",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-bulls-9fifty-a-frame-hardwood-classic-blanca.jpg?width=500",
+      "created_at": "2026-11-04T14:34:09+01:00",
+      "found_at": "2026-11-04T15:22:28.092881"
+    },
+    "botas-lacoste-negras-elite-active-winter-2260-sneakers": {
+      "handle": "botas-lacoste-negras-elite-active-winter-2260-sneakers",
+      "title": "BOTAS LACOSTE NEGRAS ELITE ACTIVE WINTER 2260 SNEAKERS",
+      "brand": "LACOSTE",
+      "type": "ZAPATILLAS",
+      "url": "https://areazero.biz/products/botas-lacoste-negras-elite-active-winter-2260-sneakers",
+      "price": 179.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/botas-lacoste-negras-elite-active-winter-2260-sneakers.jpg?width=500",
+      "created_at": "2026-11-04T14:32:15+01:00",
+      "found_at": "2026-11-04T15:22:28.092888"
+    },
+    "chaqueta-fred-perry-marino-chandal-cremallera-franjas-hombros-logo-bordado-pech": {
+      "handle": "chaqueta-fred-perry-marino-chandal-cremallera-franjas-hombros-logo-bordado-pech",
+      "title": "CHAQUETA FRED PERRY MARINO CHANDAL CREMALLERA FRANJAS HOMBROS LOGO BORDADO PECH",
+      "brand": "FRED PERRY",
+      "type": "CHAQUETAS",
+      "url": "https://areazero.biz/products/chaqueta-fred-perry-marino-chandal-cremallera-franjas-hombros-logo-bordado-pech",
+      "price": 154.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "M",
+        "L",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-fred-perry-marino-chandal-cremallera-franjas-hombros-logo-bordado-pech.jpg?width=500",
+      "created_at": "2026-11-04T14:19:34+01:00",
+      "found_at": "2026-11-04T15:22:28.092894"
+    },
     "tracksuit-over-street-rosa-falling-stars": {
       "handle": "tracksuit-over-street-rosa-falling-stars",
       "title": "TRACKSUIT OVER STREET ROSA FALLING STARS",
@@ -395,6 +1273,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
         "M",
         "L",
         "XL",
@@ -3239,6 +4118,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -3599,10 +4480,8 @@
       "url": "https://areazero.biz/products/balaclava-grimey-the-infamous-balaclava",
       "price": 19.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/balaclava-grimey-the-infamous-balaclava.jpg?width=500",
       "created_at": "2026-10-15T19:46:41+02:00",
       "found_at": "2026-10-15T20:15:56.001975"
@@ -6976,7 +7855,6 @@
         "S",
         "M",
         "L",
-        "XL",
         "XXL",
         "3XL"
       ],
@@ -7983,8 +8861,7 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
-        "L"
+        "M"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-prohibited-verde-classic-logo-hoodie.jpg?width=500",
       "created_at": "2026-09-22T12:54:32+02:00",
@@ -8889,7 +9766,8 @@
         "XS",
         "S",
         "M",
-        "L"
+        "L",
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-new-era-negra-las-vegas-raiders-crewneck-sewatshirt.jpg?width=500",
       "created_at": "2026-09-17T17:17:41+02:00",
@@ -8944,6 +9822,7 @@
       "available": true,
       "sizes": [
         "XS",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -8962,6 +9841,7 @@
       "compare": 69.99,
       "available": true,
       "sizes": [
+        "XS",
         "M",
         "L",
         "XL"
@@ -9103,6 +9983,7 @@
       "compare": 49.99,
       "available": true,
       "sizes": [
+        "M",
         "XL",
         "XXL"
       ],
@@ -9354,6 +10235,7 @@
       "available": true,
       "sizes": [
         "M",
+        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-fred-perry-negra-zip-through-sweatshirt.jpg?width=500",
@@ -9514,6 +10396,7 @@
       "available": true,
       "sizes": [
         "XS",
+        "S",
         "M",
         "L",
         "XL",
@@ -10147,8 +11030,7 @@
       "available": true,
       "sizes": [
         "M",
-        "L",
-        "XL"
+        "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-von-dutch-cruda-von-cat-relaxed-fit-tee.jpg?width=500",
       "created_at": "2026-09-07T20:05:51+02:00",
@@ -10164,10 +11046,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
+        "S"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-von-dutch-negra-eyepat-relaxed-fit-tee.jpg?width=500",
       "created_at": "2026-09-07T20:05:41+02:00",
@@ -13290,20 +14169,6 @@
       "created_at": "2026-07-10T12:26:51+02:00",
       "found_at": "2026-10-13T09:25:49.522747"
     },
-    "gorra-new-era-negra-yankees-wmns-pattern-pu-9forty-neyyan": {
-      "handle": "gorra-new-era-negra-yankees-wmns-pattern-pu-9forty-neyyan",
-      "title": "GORRA NEW ERA 9FORTY NEW YORK YANKEES MLB WMNS PATTERN PU NEGRA",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-negra-yankees-wmns-pattern-pu-9forty-neyyan",
-      "price": 31.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-negra-yankees-wmns-pattern-pu-9forty-neyyan.jpg?width=500",
-      "created_at": "2026-07-10T12:26:14+02:00",
-      "found_at": "2026-10-13T09:25:49.522755"
-    },
     "gorra-new-era-beige-yankees-wmns-pattern-pu-9forty-neyyan": {
       "handle": "gorra-new-era-beige-yankees-wmns-pattern-pu-9forty-neyyan",
       "title": "GORRA NEW ERA 9FORTY NEW YORK YANKEES MLB WMNS PATTERN PU BEIGE",
@@ -13930,6 +14795,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "7 3/8",
         "7 3/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-marino-yankees-mlb-zodiac-59fifty-neyyan.jpg?width=500",
@@ -14416,20 +15282,6 @@
       "created_at": "2026-07-03T01:49:55+02:00",
       "found_at": "2026-10-13T09:25:49.522961"
     },
-    "boxer-freegun-negro-dragon-ball-dbz15-dra-standard-length-trunk": {
-      "handle": "boxer-freegun-negro-dragon-ball-dbz15-dra-standard-length-trunk",
-      "title": "BOXER FREEGUN NEGRO DRAGON BALL DBZ15 DRA STANDARD LENGTH TRUNK",
-      "brand": "FREEGUN",
-      "type": "ROPA INTERIOR",
-      "url": "https://areazero.biz/products/boxer-freegun-negro-dragon-ball-dbz15-dra-standard-length-trunk",
-      "price": 14.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-freegun-negro-dragon-ball-dbz15-dra-standard-length-trunk.jpg?width=500",
-      "created_at": "2026-07-03T01:49:36+02:00",
-      "found_at": "2026-10-13T09:25:49.522964"
-    },
     "boxer-freegun-fuxia-calaveras-lov-standard-length-trunk": {
       "handle": "boxer-freegun-fuxia-calaveras-lov-standard-length-trunk",
       "title": "BOXER FREEGUN FUXIA CALAVERAS LOV STANDARD LENGTH TRUNK",
@@ -14770,5 +15622,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-11-03T22:16:13.358574"
+  "last_check": "2026-11-04T15:22:34.193346"
 }
