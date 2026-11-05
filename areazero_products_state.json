@@ -612,15 +612,15 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "678",
+        "6 7/8",
         "7",
-        "718",
-        "714",
-        "738",
-        "712",
-        "758",
-        "734",
-        "778"
+        "7 1/8",
+        "7 1/4",
+        "7 3/8",
+        "7 1/2",
+        "7 5/8",
+        "7 3/4",
+        "7 7/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-x-bj-betts-philadelphia-eagles-59fifty-negra.jpg?width=500",
       "created_at": "2026-11-04T14:37:05+01:00",
@@ -4450,20 +4450,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-grimey-marron-wild-one-pu-leather-jacket-washed-brown.jpg?width=500",
       "created_at": "2026-10-15T19:46:49+02:00",
       "found_at": "2026-10-15T20:15:56.001971"
-    },
-    "balaclava-grimey-the-infamous-balaclava": {
-      "handle": "balaclava-grimey-the-infamous-balaclava",
-      "title": "BALACLAVA GRIMEY THE INFAMOUS BALACLAVA",
-      "brand": "GRIMEY",
-      "type": "BALACLAVAS",
-      "url": "https://areazero.biz/products/balaclava-grimey-the-infamous-balaclava",
-      "price": 19.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/balaclava-grimey-the-infamous-balaclava.jpg?width=500",
-      "created_at": "2026-10-15T19:46:41+02:00",
-      "found_at": "2026-10-15T20:15:56.001975"
     },
     "gorra-tical-x-grimey-negra-nueva-york-snapback-cap": {
       "handle": "gorra-tical-x-grimey-negra-nueva-york-snapback-cap",
@@ -9802,7 +9788,6 @@
       "sizes": [
         "XS",
         "M",
-        "L",
         "XL",
         "XXL"
       ],
@@ -9843,6 +9828,7 @@
         "XS",
         "S",
         "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -9882,7 +9868,6 @@
       "sizes": [
         "XS",
         "S",
-        "M",
         "L",
         "XL"
       ],
@@ -11026,7 +11011,10 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S"
+        "S",
+        "M",
+        "L",
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-von-dutch-negra-eyepat-relaxed-fit-tee.jpg?width=500",
       "created_at": "2026-09-07T20:05:41+02:00",
@@ -11089,20 +11077,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/FOTOS_TAMANO_WEB_4.png?width=500",
       "created_at": "2026-09-02T14:18:23+02:00",
       "found_at": "2026-10-13T09:25:47.895623"
-    },
-    "cartera-negra-zipped-pocket-card-holder-wallet": {
-      "handle": "cartera-negra-zipped-pocket-card-holder-wallet",
-      "title": "CARTERA OVER STREET NEGRA ZIPPED POCKET CARD HOLDER WALLET",
-      "brand": "OVER STREET",
-      "type": "CARTERAS",
-      "url": "https://areazero.biz/products/cartera-negra-zipped-pocket-card-holder-wallet",
-      "price": 14.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/FOTOS_TAMANO_WEB_3_f34dc158-d47b-48c9-8e19-4f7c36721ec7.png?width=500",
-      "created_at": "2026-09-02T14:18:20+02:00",
-      "found_at": "2026-10-13T09:25:47.895625"
     },
     "durag-negro": {
       "handle": "durag-negro",
@@ -14123,10 +14097,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-beige-newyork-wordmark-suede-eframe-neyyan",
       "price": 34.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-beige-newyork-wordmark-suede-eframe-neyyan.jpg?width=500",
       "created_at": "2026-07-10T12:27:59+02:00",
       "found_at": "2026-10-13T09:25:49.522738"
@@ -15600,5 +15572,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-11-04T22:32:05.363179"
+  "last_check": "2026-11-05T15:25:52.319685"
 }
