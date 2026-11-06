@@ -366,7 +366,8 @@
       "sizes": [
         "M",
         "L",
-        "XL"
+        "XL",
+        "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-champion-marino-back-logo-rugby-sweatshirt.jpg?width=500",
       "created_at": "2026-11-04T14:41:10+01:00",
@@ -7122,7 +7123,6 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
         "L",
         "XL"
       ],
@@ -9787,6 +9787,7 @@
       "sizes": [
         "XS",
         "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -14088,20 +14089,6 @@
       "created_at": "2026-07-10T12:28:33+02:00",
       "found_at": "2026-10-13T09:25:49.522735"
     },
-    "gorra-new-era-beige-newyork-wordmark-suede-eframe-neyyan": {
-      "handle": "gorra-new-era-beige-newyork-wordmark-suede-eframe-neyyan",
-      "title": "GORRA NEW ERA BEIGE NEWYORK WORDMARK SUEDE EFRAME NEYYAN",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-beige-newyork-wordmark-suede-eframe-neyyan",
-      "price": 34.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-beige-newyork-wordmark-suede-eframe-neyyan.jpg?width=500",
-      "created_at": "2026-07-10T12:27:59+02:00",
-      "found_at": "2026-10-13T09:25:49.522738"
-    },
     "gorra-new-era-beige-dodgers-food-icon-9forty-losdod": {
       "handle": "gorra-new-era-beige-dodgers-food-icon-9forty-losdod",
       "title": "GORRA NEW ERA 9FORTY LOS ANGELES DODGERS MLB FOOD ICON BEIGE",
@@ -15018,20 +15005,6 @@
       "created_at": "2026-07-03T01:54:32+02:00",
       "found_at": "2026-10-13T09:25:49.522925"
     },
-    "gorra-new-era-negra-dodgers-metallic-outline-9forty-losdod": {
-      "handle": "gorra-new-era-negra-dodgers-metallic-outline-9forty-losdod",
-      "title": "GORRA NEW ERA 9FORTY LOS ANGELES DODGERS MLB METALLIC OUTLINE NEGRA",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-negra-dodgers-metallic-outline-9forty-losdod",
-      "price": 27.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-negra-dodgers-metallic-outline-9forty-losdod.jpg?width=500",
-      "created_at": "2026-07-03T01:53:40+02:00",
-      "found_at": "2026-10-13T09:25:49.522928"
-    },
     "gorra-new-era-antracita-yankees-metalic-outline-9forty-neyyan": {
       "handle": "gorra-new-era-antracita-yankees-metalic-outline-9forty-neyyan",
       "title": "GORRA NEW ERA 9FORTY NEW YORK YANKEES MLB METALLIC OUTLINE ANTRACITA",
@@ -15569,5 +15542,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-11-05T22:38:54.976255"
+  "last_check": "2026-11-06T14:58:20.425833"
 }
