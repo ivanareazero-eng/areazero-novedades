@@ -1,5 +1,521 @@
 {
   "products": {
+    "gorro-marron-faux-fur-trapper-hat": {
+      "handle": "gorro-marron-faux-fur-trapper-hat",
+      "title": "GORRO MARRON FAUX FUR TRAPPER HAT",
+      "brand": "OVER STREET",
+      "type": "GORROS",
+      "url": "https://areazero.biz/products/gorro-marron-faux-fur-trapper-hat",
+      "price": 24.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorro-marron-faux-fur-trapper-hat.jpg?width=500",
+      "created_at": "2026-11-06T21:24:34+01:00",
+      "found_at": "2026-11-06T22:00:23.152559"
+    },
+    "gorro-tostado-faux-fur-trapper-hat": {
+      "handle": "gorro-tostado-faux-fur-trapper-hat",
+      "title": "GORRO TOSTADO FAUX FUR TRAPPER HAT",
+      "brand": "OVER STREET",
+      "type": "GORROS",
+      "url": "https://areazero.biz/products/gorro-tostado-faux-fur-trapper-hat",
+      "price": 24.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorro-tostado-faux-fur-trapper-hat.jpg?width=500",
+      "created_at": "2026-11-06T21:24:25+01:00",
+      "found_at": "2026-11-06T22:00:23.152578"
+    },
+    "gorro-beige-faux-fur-trapper-hat": {
+      "handle": "gorro-beige-faux-fur-trapper-hat",
+      "title": "GORRO BEIGE FAUX FUR TRAPPER HAT",
+      "brand": "OVER STREET",
+      "type": "GORROS",
+      "url": "https://areazero.biz/products/gorro-beige-faux-fur-trapper-hat",
+      "price": 24.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorro-beige-faux-fur-trapper-hat.jpg?width=500",
+      "created_at": "2026-11-06T21:24:18+01:00",
+      "found_at": "2026-11-06T22:00:23.152584"
+    },
+    "gorro-negro-faux-fur-trapper-hat": {
+      "handle": "gorro-negro-faux-fur-trapper-hat",
+      "title": "GORRO NEGRO FAUX FUR TRAPPER HAT",
+      "brand": "OVER STREET",
+      "type": "GORROS",
+      "url": "https://areazero.biz/products/gorro-negro-faux-fur-trapper-hat",
+      "price": 24.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorro-negro-faux-fur-trapper-hat.jpg?width=500",
+      "created_at": "2026-11-06T21:24:11+01:00",
+      "found_at": "2026-11-06T22:00:23.152588"
+    },
+    "cinturon-negro-glitter-skull-buckle": {
+      "handle": "cinturon-negro-glitter-skull-buckle",
+      "title": "CINTURON NEGRO GLITTER SKULL BUCKLE",
+      "brand": "OVER STREET",
+      "type": "CINTURONES",
+      "url": "https://areazero.biz/products/cinturon-negro-glitter-skull-buckle",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "SM",
+        "ML"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cinturon-negro-glitter-skull-buckle_db8dd97b-ea14-455f-93dc-f1cc09c68204.jpg?width=500",
+      "created_at": "2026-11-06T21:23:58+01:00",
+      "found_at": "2026-11-06T22:00:23.152593"
+    },
+    "cinturon-blanco-glitter-skull-buckle": {
+      "handle": "cinturon-blanco-glitter-skull-buckle",
+      "title": "CINTURON BLANCO GLITTER SKULL BUCKLE",
+      "brand": "OVER STREET",
+      "type": "CINTURONES",
+      "url": "https://areazero.biz/products/cinturon-blanco-glitter-skull-buckle",
+      "price": 29.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "SM",
+        "ML"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cinturon-blanco-glitter-skull-buckle.jpg?width=500",
+      "created_at": "2026-11-06T21:23:52+01:00",
+      "found_at": "2026-11-06T22:00:23.152597"
+    },
+    "cinturon-blanco-cowboy-distressed-belt": {
+      "handle": "cinturon-blanco-cowboy-distressed-belt",
+      "title": "CINTURON BLANCO COWBOY DISTRESSED BELT",
+      "brand": "OVER STREET",
+      "type": "CINTURONES",
+      "url": "https://areazero.biz/products/cinturon-blanco-cowboy-distressed-belt",
+      "price": 24.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cinturon-blanco-cowboy-distressed-belt.jpg?width=500",
+      "created_at": "2026-11-06T21:23:48+01:00",
+      "found_at": "2026-11-06T22:00:23.152600"
+    },
+    "cinturon-negro-nylon-basic-belt": {
+      "handle": "cinturon-negro-nylon-basic-belt",
+      "title": "CINTURON NEGRO NYLON BASIC BELT",
+      "brand": "OVER STREET",
+      "type": "CINTURONES",
+      "url": "https://areazero.biz/products/cinturon-negro-nylon-basic-belt",
+      "price": 24.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cinturon-negro-nylon-basic-belt.jpg?width=500",
+      "created_at": "2026-11-06T21:23:38+01:00",
+      "found_at": "2026-11-06T22:00:23.152603"
+    },
+    "cinturon-negro-classic-belt": {
+      "handle": "cinturon-negro-classic-belt",
+      "title": "CINTURON NEGRO CLASSIC BELT",
+      "brand": "OVER STREET",
+      "type": "CINTURONES",
+      "url": "https://areazero.biz/products/cinturon-negro-classic-belt",
+      "price": 24.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cinturon-negro-classic-belt.jpg?width=500",
+      "created_at": "2026-11-06T21:23:32+01:00",
+      "found_at": "2026-11-06T22:00:23.152606"
+    },
+    "gorra-new-era-new-york-knicks-9fifty-a-frame-hardwood-classic-negra": {
+      "handle": "gorra-new-era-new-york-knicks-9fifty-a-frame-hardwood-classic-negra",
+      "title": "GORRA NEW ERA NEW YORK KNICKS 9FIFTY A FRAME HARDWOOD CLASSIC NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-new-york-knicks-9fifty-a-frame-hardwood-classic-negra",
+      "price": 46.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-knicks-9fifty-a-frame-hardwood-classic-negra.jpg?width=500",
+      "created_at": "2026-11-06T21:21:15+01:00",
+      "found_at": "2026-11-06T22:00:23.152609"
+    },
+    "gorra-new-era-charlotte-hornets-9fifty-a-frame-hardwood-classic-negra": {
+      "handle": "gorra-new-era-charlotte-hornets-9fifty-a-frame-hardwood-classic-negra",
+      "title": "GORRA NEW ERA CHARLOTTE HORNETS 9FIFTY A FRAME HARDWOOD CLASSIC NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-charlotte-hornets-9fifty-a-frame-hardwood-classic-negra",
+      "price": 46.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-charlotte-hornets-9fifty-a-frame-hardwood-classic-negra.jpg?width=500",
+      "created_at": "2026-11-06T21:21:08+01:00",
+      "found_at": "2026-11-06T22:00:23.152613"
+    },
+    "gorra-new-era-boston-celtics-9fifty-a-frame-hardwood-classic-negra": {
+      "handle": "gorra-new-era-boston-celtics-9fifty-a-frame-hardwood-classic-negra",
+      "title": "GORRA NEW ERA BOSTON CELTICS 9FIFTY A FRAME HARDWOOD CLASSIC NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-boston-celtics-9fifty-a-frame-hardwood-classic-negra",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-boston-celtics-9fifty-a-frame-hardwood-classic-negra.jpg?width=500",
+      "created_at": "2026-11-06T21:20:53+01:00",
+      "found_at": "2026-11-06T22:00:23.152616"
+    },
+    "gorra-new-era-detroit-pistons-9fifty-a-frame-hardwood-classic-negra": {
+      "handle": "gorra-new-era-detroit-pistons-9fifty-a-frame-hardwood-classic-negra",
+      "title": "GORRA NEW ERA DETROIT PISTONS 9FIFTY A FRAME HARDWOOD CLASSIC NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-detroit-pistons-9fifty-a-frame-hardwood-classic-negra",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-detroit-pistons-9fifty-a-frame-hardwood-classic-negra.jpg?width=500",
+      "created_at": "2026-11-06T21:20:41+01:00",
+      "found_at": "2026-11-06T22:00:23.152619"
+    },
+    "gorra-new-era-san-antonio-spurs-9fifty-a-frame-hardwood-classic-blanca": {
+      "handle": "gorra-new-era-san-antonio-spurs-9fifty-a-frame-hardwood-classic-blanca",
+      "title": "GORRA NEW ERA SAN ANTONIO SPURS 9FIFTY A FRAME HARDWOOD CLASSIC BLANCA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-san-antonio-spurs-9fifty-a-frame-hardwood-classic-blanca",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-san-antonio-spurs-9fifty-a-frame-hardwood-classic-blanca.jpg?width=500",
+      "created_at": "2026-11-06T21:20:27+01:00",
+      "found_at": "2026-11-06T22:00:23.152622"
+    },
+    "gorra-new-era-boston-celtics-9fifty-a-frame-hardwood-classic": {
+      "handle": "gorra-new-era-boston-celtics-9fifty-a-frame-hardwood-classic",
+      "title": "GORRA NEW ERA BOSTON CELTICS 9FIFTY A FRAME HARDWOOD CLASSIC",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-boston-celtics-9fifty-a-frame-hardwood-classic",
+      "price": 43.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-boston-celtics-9fifty-a-frame-hardwood-classic.jpg?width=500",
+      "created_at": "2026-11-06T21:20:13+01:00",
+      "found_at": "2026-11-06T22:00:23.152625"
+    },
+    "zapatillas-lacoste-grises-l003-neo-2261-sneakers": {
+      "handle": "zapatillas-lacoste-grises-l003-neo-2261-sneakers",
+      "title": "ZAPATILLAS LACOSTE GRISES L003 NEO 2261 SNEAKERS",
+      "brand": "LACOSTE",
+      "type": "ZAPATILLAS",
+      "url": "https://areazero.biz/products/zapatillas-lacoste-grises-l003-neo-2261-sneakers",
+      "price": 129.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/zapatillas-lacoste-grises-l003-neo-2261-sneakers.jpg?width=500",
+      "created_at": "2026-11-06T21:15:39+01:00",
+      "found_at": "2026-11-06T22:00:23.152631"
+    },
+    "sudadera-new-era-gris-essential-oversized-crewneck-sweatshirt": {
+      "handle": "sudadera-new-era-gris-essential-oversized-crewneck-sweatshirt",
+      "title": "SUDADERA NEW ERA GRIS ESSENTIAL OVERSIZED CREWNECK SWEATSHIRT",
+      "brand": "NEW ERA",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-new-era-gris-essential-oversized-crewneck-sweatshirt",
+      "price": 59.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-new-era-gris-essential-oversized-crewneck-sweatshirt.jpg?width=500",
+      "created_at": "2026-11-06T18:51:59+01:00",
+      "found_at": "2026-11-06T22:00:23.152636"
+    },
+    "sudadera-new-era-negra-essentials-oversized-crewneck-sweatshirt": {
+      "handle": "sudadera-new-era-negra-essentials-oversized-crewneck-sweatshirt",
+      "title": "SUDADERA NEW ERA NEGRA ESSENTIALS OVERSIZED CREWNECK SWEATSHIRT",
+      "brand": "NEW ERA",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-new-era-negra-essentials-oversized-crewneck-sweatshirt",
+      "price": 59.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-new-era-negra-essentials-oversized-crewneck-sweatshirt.jpg?width=500",
+      "created_at": "2026-11-06T18:51:39+01:00",
+      "found_at": "2026-11-06T22:00:23.152641"
+    },
+    "sudadera-new-era-negra-pittsburg-pirates-mlb-regular-hoodie": {
+      "handle": "sudadera-new-era-negra-pittsburg-pirates-mlb-regular-hoodie",
+      "title": "SUDADERA NEW ERA NEGRA PITTSBURG PIRATES MLB REGULAR HOODIE",
+      "brand": "NEW ERA",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-new-era-negra-pittsburg-pirates-mlb-regular-hoodie",
+      "price": 69.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-new-era-negra-pittsburg-pirates-mlb-regular-hoodie.jpg?width=500",
+      "created_at": "2026-11-06T18:51:18+01:00",
+      "found_at": "2026-11-06T22:00:23.152647"
+    },
+    "sudadera-new-era-marino-san-diego-padres-nos-mlb-regular-hoodie": {
+      "handle": "sudadera-new-era-marino-san-diego-padres-nos-mlb-regular-hoodie",
+      "title": "SUDADERA NEW ERA MARINO SAN DIEGO PADRES NOS MLB REGULAR HOODIE",
+      "brand": "NEW ERA",
+      "type": "SUDADERAS",
+      "url": "https://areazero.biz/products/sudadera-new-era-marino-san-diego-padres-nos-mlb-regular-hoodie",
+      "price": 69.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-new-era-marino-san-diego-padres-nos-mlb-regular-hoodie.jpg?width=500",
+      "created_at": "2026-11-06T18:51:02+01:00",
+      "found_at": "2026-11-06T22:00:23.152652"
+    },
+    "gorra-new-era-x-bj-betts-las-vegas-raiders-59fifty-distressed-green": {
+      "handle": "gorra-new-era-x-bj-betts-las-vegas-raiders-59fifty-distressed-green",
+      "title": "GORRA NEW ERA X BJ BETTS LAS VEGAS RAIDERS 59FIFTY DISTRESSED GREEN",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-x-bj-betts-las-vegas-raiders-59fifty-distressed-green",
+      "price": 51.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "678",
+        "7",
+        "718",
+        "714",
+        "738",
+        "712",
+        "758",
+        "734",
+        "778"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-x-bj-betts-las-vegas-raiders-59fifty-distressed-green.jpg?width=500",
+      "created_at": "2026-11-06T18:50:41+01:00",
+      "found_at": "2026-11-06T22:00:23.152658"
+    },
+    "gorra-nike-negra-chicago-white-sox-dri-fit-true-structured-round-bill-fitted-cap": {
+      "handle": "gorra-nike-negra-chicago-white-sox-dri-fit-true-structured-round-bill-fitted-cap",
+      "title": "GORRA NIKE NEGRA CHICAGO WHITE SOX DRI FIT TRUE STRUCTURED ROUND BILL FITTED CAP",
+      "brand": "NIKE",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-nike-negra-chicago-white-sox-dri-fit-true-structured-round-bill-fitted-cap",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714",
+        "738",
+        "712",
+        "758"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-negra-chicago-white-sox-dri-fit-true-structured-round-bill-fitted-cap.jpg?width=500",
+      "created_at": "2026-11-06T18:49:29+01:00",
+      "found_at": "2026-11-06T22:00:23.152662"
+    },
+    "gorra-nike-verde-oakland-athletics-dri-fit-true-structured-round-bill-fitted-cap": {
+      "handle": "gorra-nike-verde-oakland-athletics-dri-fit-true-structured-round-bill-fitted-cap",
+      "title": "GORRA NIKE VERDE OAKLAND ATHLETICS DRI FIT TRUE STRUCTURED ROUND BILL FITTED CAP",
+      "brand": "NIKE",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-nike-verde-oakland-athletics-dri-fit-true-structured-round-bill-fitted-cap",
+      "price": 34.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "714",
+        "738",
+        "712",
+        "758"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-verde-oakland-athletics-dri-fit-true-structured-round-bill-fitted-cap.jpg?width=500",
+      "created_at": "2026-11-06T18:49:15+01:00",
+      "found_at": "2026-11-06T22:00:23.152666"
+    },
+    "gorra-mitchell-ness-negra-chicago-blackhawks-gold-pro-snapback": {
+      "handle": "gorra-mitchell-ness-negra-chicago-blackhawks-gold-pro-snapback",
+      "title": "GORRA MITCHELL & NESS NEGRA CHICAGO BLACKHAWKS GOLD PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-negra-chicago-blackhawks-gold-pro-snapback",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-negra-chicago-blackhawks-gold-pro-snapback.jpg?width=500",
+      "created_at": "2026-11-06T18:49:01+01:00",
+      "found_at": "2026-11-06T22:00:23.152669"
+    },
+    "gorra-mitchell-ness-negra-anaheim-ducks-gold-pro-snapback": {
+      "handle": "gorra-mitchell-ness-negra-anaheim-ducks-gold-pro-snapback",
+      "title": "GORRA MITCHELL & NESS NEGRA ANAHEIM DUCKS GOLD PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-negra-anaheim-ducks-gold-pro-snapback",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-negra-anaheim-ducks-gold-pro-snapback.jpg?width=500",
+      "created_at": "2026-11-06T18:48:48+01:00",
+      "found_at": "2026-11-06T22:00:23.152673"
+    },
+    "gorra-mitchell-ness-negra-chicago-bulls-gold-pro-snapback": {
+      "handle": "gorra-mitchell-ness-negra-chicago-bulls-gold-pro-snapback",
+      "title": "GORRA MITCHELL & NESS NEGRA CHICAGO BULLS GOLD PRO SNAPBACK",
+      "brand": "MITCHELL & NESS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-mitchell-ness-negra-chicago-bulls-gold-pro-snapback",
+      "price": 31.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-mitchell-_-ness-negra-chicago-bulls-gold-pro-snapback.jpg?width=500",
+      "created_at": "2026-11-06T18:48:35+01:00",
+      "found_at": "2026-11-06T22:00:23.152676"
+    },
+    "cazadora-champion-beige-microsanded-cotton-jacket": {
+      "handle": "cazadora-champion-beige-microsanded-cotton-jacket",
+      "title": "CAZADORA CHAMPION BEIGE MICROSANDED COTTON JACKET",
+      "brand": "CHAMPION",
+      "type": "ABRIGOS",
+      "url": "https://areazero.biz/products/cazadora-champion-beige-microsanded-cotton-jacket",
+      "price": 89.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-champion-beige-microsanded-cotton-jacket.jpg?width=500",
+      "created_at": "2026-11-06T18:48:12+01:00",
+      "found_at": "2026-11-06T22:00:23.152681"
+    },
+    "gorra-new-era-x-bj-betts-miami-dolphins-59fifty-negra": {
+      "handle": "gorra-new-era-x-bj-betts-miami-dolphins-59fifty-negra",
+      "title": "GORRA NEW ERA X BJ BETTS MIAMI DOLPHINS 59FIFTY NEGRA",
+      "brand": "NEW ERA",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-new-era-x-bj-betts-miami-dolphins-59fifty-negra",
+      "price": 51.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "678",
+        "7",
+        "718",
+        "714",
+        "738",
+        "712",
+        "758",
+        "734",
+        "778"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-x-bj-betts-miami-dolphins-59fifty-negra.jpg?width=500",
+      "created_at": "2026-11-06T18:47:36+01:00",
+      "found_at": "2026-11-06T22:00:23.152686"
+    },
+    "gorra-goorin-bros-azul-leon-royal-stay-royal-trucker-cap": {
+      "handle": "gorra-goorin-bros-azul-leon-royal-stay-royal-trucker-cap",
+      "title": "GORRA GOORIN BROS AZUL LEON ROYAL STAY ROYAL TRUCKER CAP",
+      "brand": "GOORIN BROS",
+      "type": "GORRAS",
+      "url": "https://areazero.biz/products/gorra-goorin-bros-azul-leon-royal-stay-royal-trucker-cap",
+      "price": 44.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-azul-leon-royal-stay-royal-trucker-cap.jpg?width=500",
+      "created_at": "2026-11-06T15:54:05+01:00",
+      "found_at": "2026-11-06T22:00:23.152689"
+    },
     "gorra-goorin-bros-granate-elefante-gilded-beast-goals-trucker-cap": {
       "handle": "gorra-goorin-bros-granate-elefante-gilded-beast-goals-trucker-cap",
       "title": "GORRA GOORIN BROS GRANATE ELEFANTE GILDED BEAST GOALS TRUCKER CAP",
@@ -3006,7 +3522,7 @@
       "brand": "SANTA CRUZ",
       "type": "ACCESORIOS",
       "url": "https://areazero.biz/products/tabla-santa-cruz-x-pokemon-tcg-blind-bag-deck",
-      "price": 279.99,
+      "price": 179.99,
       "compare": 0,
       "available": false,
       "sizes": [],
@@ -4444,7 +4960,8 @@
         "S",
         "M",
         "L",
-        "XL"
+        "XL",
+        "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-grimey-marron-wild-one-pu-leather-jacket-washed-brown.jpg?width=500",
       "created_at": "2026-10-15T19:46:49+02:00",
@@ -7123,6 +7640,7 @@
       "available": true,
       "sizes": [
         "S",
+        "M",
         "L",
         "XL"
       ],
@@ -9949,6 +10467,7 @@
       "available": true,
       "sizes": [
         "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -11766,8 +12285,7 @@
       "sizes": [
         "S",
         "M",
-        "L",
-        "XL"
+        "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-von-dutch-negra-die-dirt-relaxed-fit-tee.jpg?width=500",
       "created_at": "2026-08-31T11:50:22+02:00",
@@ -13877,6 +14395,11 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
         "XL",
         "XL",
         "XL",
@@ -14698,7 +15221,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7"
+        "7",
+        "7 1/2"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-marino-yankees-mlb-side-script-lp59fifty-neyyan.jpg?width=500",
       "created_at": "2026-07-10T00:59:43+02:00",
@@ -15542,5 +16066,5 @@
       "found_at": "2026-10-13T09:25:49.523020"
     }
   },
-  "last_check": "2026-11-06T14:58:20.425833"
+  "last_check": "2026-11-06T22:00:28.506036"
 }
