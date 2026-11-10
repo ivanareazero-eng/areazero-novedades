@@ -8320,7 +8320,6 @@
       "sizes": [
         "S",
         "M",
-        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/negro-emerald-ice-everyday-trunks.jpg?width=500",
@@ -9927,7 +9926,6 @@
         "XS",
         "M",
         "L",
-        "XL",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-new-era-marino-boston-red-sox-regular-hoodie.jpg?width=500",
@@ -10340,7 +10338,6 @@
       "available": true,
       "sizes": [
         "M",
-        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-fred-perry-negra-zip-through-sweatshirt.jpg?width=500",
@@ -11304,10 +11301,8 @@
       "url": "https://areazero.biz/products/mochila-sprayground-negra-shark-central-black-embroidered-shark-backpack",
       "price": 119.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/mochila-sprayground-negra-shark-central-black-embroidered-shark-backpack.jpg?width=500",
       "created_at": "2026-09-01T13:40:21+02:00",
       "found_at": "2026-10-13T09:25:47.895648"
@@ -11932,10 +11927,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-9twenty-los-angeles-dodgers-nos-league-essential-negra",
       "price": 25.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-9twenty-los-angeles-dodgers-nos-league-essential-negra.jpg?width=500",
       "created_at": "2026-08-29T12:26:46+02:00",
       "found_at": "2026-10-13T09:25:47.895770"
@@ -15632,5 +15625,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-10T00:39:06.817066"
+  "last_check": "2026-11-10T15:32:24.421055"
 }
