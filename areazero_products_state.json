@@ -842,7 +842,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL",
@@ -4044,7 +4043,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "L",
         "XL",
         "XXL"
       ],
@@ -7322,7 +7320,6 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
         "L",
         "XL",
         "XXL"
@@ -15635,5 +15632,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-09T17:26:06.851630"
+  "last_check": "2026-11-10T00:39:06.817066"
 }
