@@ -7080,7 +7080,6 @@
         "XS",
         "S",
         "M",
-        "L",
         "XL",
         "XXL"
       ],
@@ -9924,7 +9923,6 @@
       "available": true,
       "sizes": [
         "XS",
-        "M",
         "L",
         "XXL"
       ],
@@ -13476,8 +13474,7 @@
       "sizes": [
         "S",
         "M",
-        "L",
-        "XL"
+        "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/beisbolera-nike-blanca-houston-astros-home-jersey.jpg?width=500",
       "created_at": "2026-07-14T20:41:26+02:00",
@@ -15625,5 +15622,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-10T15:32:24.421055"
+  "last_check": "2026-11-10T22:17:05.209593"
 }
