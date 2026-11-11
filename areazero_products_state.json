@@ -3675,7 +3675,8 @@
       "available": true,
       "sizes": [
         "7 1/8",
-        "7 1/4"
+        "7 1/4",
+        "7 3/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-wire-negra.jpg?width=500",
       "created_at": "2026-10-16T18:37:30+02:00",
@@ -4028,6 +4029,9 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
+        "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -4065,6 +4069,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "L",
+        "XL",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-negro-brooklin-brushed-script-jogger-pant.jpg?width=500",
@@ -4121,6 +4127,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -4139,6 +4147,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -4157,6 +4167,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -4174,6 +4186,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -4193,6 +4207,7 @@
       "available": true,
       "sizes": [
         "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -4211,6 +4226,8 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -4231,6 +4248,7 @@
       "sizes": [
         "S",
         "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -7987,8 +8005,7 @@
         "M",
         "L",
         "XL",
-        "3XL",
-        "XXL"
+        "3XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-lacoste-blanca-contrast-colourblock-crewneck.jpg?width=500",
       "created_at": "2026-09-28T15:54:45+02:00",
@@ -15563,5 +15580,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-11T15:06:55.248188"
+  "last_check": "2026-11-11T23:25:04.448210"
 }
