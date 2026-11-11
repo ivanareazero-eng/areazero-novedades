@@ -484,20 +484,6 @@
       "created_at": "2026-11-06T18:47:36+01:00",
       "found_at": "2026-11-06T22:00:23.152686"
     },
-    "gorra-goorin-bros-azul-leon-royal-stay-royal-trucker-cap": {
-      "handle": "gorra-goorin-bros-azul-leon-royal-stay-royal-trucker-cap",
-      "title": "GORRA GOORIN BROS AZUL LEON STAY ROYAL LION TRUCKER CAP",
-      "brand": "GOORIN BROS",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-goorin-bros-azul-leon-royal-stay-royal-trucker-cap",
-      "price": 44.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-azul-leon-royal-stay-royal-trucker-cap.jpg?width=500",
-      "created_at": "2026-11-06T15:54:05+01:00",
-      "found_at": "2026-11-06T22:00:23.152689"
-    },
     "gorra-goorin-bros-granate-elefante-gilded-beast-goals-trucker-cap": {
       "handle": "gorra-goorin-bros-granate-elefante-gilded-beast-goals-trucker-cap",
       "title": "GORRA GOORIN BROS GRANATE ELEFANTE GILDED BEAST GOALS TRUCKER CAP",
@@ -842,6 +828,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
+        "S",
         "M",
         "L",
         "XL",
@@ -3362,10 +3349,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-e-frame-suede-visor-beige",
       "price": 31.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-e-frame-suede-visor-beige.jpg?width=500",
       "created_at": "2026-10-16T18:41:21+02:00",
       "found_at": "2026-10-16T19:52:59.127853"
@@ -4597,6 +4582,22 @@
       "created_at": "2026-10-15T19:46:49+02:00",
       "found_at": "2026-10-15T20:15:56.001971"
     },
+    "balaclava-grimey-the-infamous-balaclava": {
+      "handle": "balaclava-grimey-the-infamous-balaclava",
+      "title": "BALACLAVA GRIMEY THE INFAMOUS BALACLAVA",
+      "brand": "GRIMEY",
+      "type": "BALACLAVAS",
+      "url": "https://areazero.biz/products/balaclava-grimey-the-infamous-balaclava",
+      "price": 19.99,
+      "compare": 0,
+      "available": true,
+      "sizes": [
+        "TU"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/balaclava-grimey-the-infamous-balaclava.jpg?width=500",
+      "created_at": "2026-10-15T19:46:41+02:00",
+      "found_at": "2026-11-11T15:06:51.698118"
+    },
     "gorra-tical-x-grimey-negra-nueva-york-snapback-cap": {
       "handle": "gorra-tical-x-grimey-negra-nueva-york-snapback-cap",
       "title": "GORRA TICAL X GRIMEY NEGRA NUEVA YORK SNAPBACK CAP",
@@ -5323,20 +5324,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boina-new-era-new-york-yankees-leopard-beret-marron.jpg?width=500",
       "created_at": "2026-10-09T12:56:21+02:00",
       "found_at": "2026-10-13T09:25:46.371459"
-    },
-    "boina-new-era-new-york-yankees-wool-script-beret-negro": {
-      "handle": "boina-new-era-new-york-yankees-wool-script-beret-negro",
-      "title": "BOINA NEW ERA NEW YORK YANKEES WOOL SCRIPT BERET NEGRO",
-      "brand": "NEW ERA",
-      "type": "GORROS",
-      "url": "https://areazero.biz/products/boina-new-era-new-york-yankees-wool-script-beret-negro",
-      "price": 44.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boina-new-era-new-york-yankees-wool-script-beret-negro.jpg?width=500",
-      "created_at": "2026-10-09T12:56:08+02:00",
-      "found_at": "2026-10-13T09:25:46.371461"
     },
     "chaqueta-champion-junior-gris-buttoned-bomber-sweatchirt": {
       "handle": "chaqueta-champion-junior-gris-buttoned-bomber-sweatchirt",
@@ -9729,7 +9716,6 @@
         "43",
         "44",
         "45",
-        "46",
         "47"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/zapatillas-lacoste-negras-t-clip-set-sneakers.jpg?width=500",
@@ -9923,7 +9909,6 @@
       "available": true,
       "sizes": [
         "XS",
-        "L",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-new-era-marino-boston-red-sox-regular-hoodie.jpg?width=500",
@@ -11291,20 +11276,6 @@
       "created_at": "2026-09-01T13:40:31+02:00",
       "found_at": "2026-10-13T09:25:47.895642"
     },
-    "mochila-sprayground-negra-shark-central-black-embroidered-shark-backpack": {
-      "handle": "mochila-sprayground-negra-shark-central-black-embroidered-shark-backpack",
-      "title": "MOCHILA SPRAYGROUND NEGRA SHARK CENTRAL BLACK EMBROIDERED SHARK BACKPACK",
-      "brand": "SPRAYGROUND",
-      "type": "MOCHILAS",
-      "url": "https://areazero.biz/products/mochila-sprayground-negra-shark-central-black-embroidered-shark-backpack",
-      "price": 119.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/mochila-sprayground-negra-shark-central-black-embroidered-shark-backpack.jpg?width=500",
-      "created_at": "2026-09-01T13:40:21+02:00",
-      "found_at": "2026-10-13T09:25:47.895648"
-    },
     "maleta-sprayground-negra-sharks-in-paris-wtf-bubbly-black-check-carry-on-luggage": {
       "handle": "maleta-sprayground-negra-sharks-in-paris-wtf-bubbly-black-check-carry-on-luggage",
       "title": "MALETA SPRAYGROUND NEGRA SHARKS IN PARIS WTF BUBBLY BLACK CHECK CARRY-ON LUGGAGE",
@@ -11576,20 +11547,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pelota-de-futbol-americano-size-1-football-ball.jpg?width=500",
       "created_at": "2026-09-01T13:31:25+02:00",
       "found_at": "2026-10-13T09:25:47.895705"
-    },
-    "pelota-de-futbol-americano-size-9-football-ball": {
-      "handle": "pelota-de-futbol-americano-size-9-football-ball",
-      "title": "BALON DE FUTBOL AMERICANO AREA ZERO ROTS TALLA 9 FOOTBALL",
-      "brand": "AREA ZERO ROTS",
-      "type": "FUTBOL AMERICANO - NFL",
-      "url": "https://areazero.biz/products/pelota-de-futbol-americano-size-9-football-ball",
-      "price": 19.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pelota-de-futbol-americano-size-9-football-ball.jpg?width=500",
-      "created_at": "2026-09-01T13:31:16+02:00",
-      "found_at": "2026-10-13T09:25:47.895708"
     },
     "pelota-de-baloncesto-size-1-basket-ball": {
       "handle": "pelota-de-baloncesto-size-1-basket-ball",
@@ -11916,20 +11873,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-9twenty-new-york-yankess-nos-league-essential-negra.jpg?width=500",
       "created_at": "2026-08-29T12:26:56+02:00",
       "found_at": "2026-10-13T09:25:47.895768"
-    },
-    "gorra-new-era-9twenty-los-angeles-dodgers-nos-league-essential-negra": {
-      "handle": "gorra-new-era-9twenty-los-angeles-dodgers-nos-league-essential-negra",
-      "title": "GORRA NEW ERA 9TWENTY LOS ANGELES DODGERS NOS LEAGUE ESSENTIAL NEGRA",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-9twenty-los-angeles-dodgers-nos-league-essential-negra",
-      "price": 25.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-9twenty-los-angeles-dodgers-nos-league-essential-negra.jpg?width=500",
-      "created_at": "2026-08-29T12:26:46+02:00",
-      "found_at": "2026-10-13T09:25:47.895770"
     },
     "gorra-new-era-9forty-new-york-yankees-wmns-beaded-beige": {
       "handle": "gorra-new-era-9forty-new-york-yankees-wmns-beaded-beige",
@@ -12526,10 +12469,8 @@
       "url": "https://areazero.biz/products/gorra-47-brand-rosa-yankees-raised-kids-mvp-cap",
       "price": 25.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-47-brand-rosa-yankkes-raised-kids-mvp-cap.jpg?width=500",
       "created_at": "2026-08-11T18:24:42+02:00",
       "found_at": "2026-10-13T09:25:47.895878"
@@ -15622,5 +15563,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-10T22:17:05.209593"
+  "last_check": "2026-11-11T15:06:55.248188"
 }
