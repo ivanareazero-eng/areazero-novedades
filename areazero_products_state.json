@@ -3341,20 +3341,6 @@
       "created_at": "2026-10-16T18:41:32+02:00",
       "found_at": "2026-10-16T19:52:59.127848"
     },
-    "gorra-new-era-los-angeles-dodgers-e-frame-suede-visor-beige": {
-      "handle": "gorra-new-era-los-angeles-dodgers-e-frame-suede-visor-beige",
-      "title": "GORRA NEW ERA LOS ANGELES DODGERS E FRAME SUEDE VISOR BEIGE",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-e-frame-suede-visor-beige",
-      "price": 31.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-e-frame-suede-visor-beige.jpg?width=500",
-      "created_at": "2026-10-16T18:41:21+02:00",
-      "found_at": "2026-10-16T19:52:59.127853"
-    },
     "gorra-new-era-detroit-tigers-e-frame-suede-visor-marino": {
       "handle": "gorra-new-era-detroit-tigers-e-frame-suede-visor-marino",
       "title": "GORRA NEW ERA DETROIT TIGERS E FRAME SUEDE VISOR MARINO",
@@ -3692,8 +3678,7 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/8",
-        "7 1/4"
+        "7 1/8"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-wire-negra.jpg?width=500",
       "created_at": "2026-10-16T18:37:12+02:00",
@@ -4662,8 +4647,7 @@
         "S",
         "M",
         "L",
-        "XL",
-        "XXL"
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-tical-x-grimey-negra-pu-leather-track-jacket.jpg?width=500",
       "created_at": "2026-10-15T19:46:06+02:00",
@@ -12254,22 +12238,6 @@
       "created_at": "2026-08-29T12:20:59+02:00",
       "found_at": "2026-10-13T09:25:47.895834"
     },
-    "gorra-von-dutch-negra-rubber-patch-trucker-cap": {
-      "handle": "gorra-von-dutch-negra-rubber-patch-trucker-cap",
-      "title": "GORRA VON DUTCH NEGRA RUBBER PATCH TRUCKER CAP",
-      "brand": "VON DUTCH",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-von-dutch-negra-rubber-patch-trucker-cap",
-      "price": 34.99,
-      "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-von-dutch-negra-rubber-patch-trucker-cap.jpg?width=500",
-      "created_at": "2026-08-29T12:20:44+02:00",
-      "found_at": "2026-10-13T09:25:47.895836"
-    },
     "gorra-capslab-gris-einstein-thug-life-trucker-cap": {
       "handle": "gorra-capslab-gris-einstein-thug-life-trucker-cap",
       "title": "GORRA CAPSLAB GRIS EINSTEIN THUG LIFE TRUCKER CAP",
@@ -12477,20 +12445,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/bolsa-de-deporte-negra-checkered-classic-barrel-bag.jpg?width=500",
       "created_at": "2026-08-11T18:24:46+02:00",
       "found_at": "2026-10-13T09:25:47.895876"
-    },
-    "gorra-47-brand-rosa-yankees-raised-kids-mvp-cap": {
-      "handle": "gorra-47-brand-rosa-yankees-raised-kids-mvp-cap",
-      "title": "GORRA 47 BRAND ROSA YANKEES RAISED KIDS MVP CAP",
-      "brand": "47 BRAND",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-47-brand-rosa-yankees-raised-kids-mvp-cap",
-      "price": 25.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-47-brand-rosa-yankkes-raised-kids-mvp-cap.jpg?width=500",
-      "created_at": "2026-08-11T18:24:42+02:00",
-      "found_at": "2026-10-13T09:25:47.895878"
     },
     "gorra-47-brand-roja-yankees-raised-kids-mvp-cap": {
       "handle": "gorra-47-brand-roja-yankees-raised-kids-mvp-cap",
@@ -15580,5 +15534,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-11T23:25:04.448210"
+  "last_check": "2026-11-12T15:56:49.997431"
 }
