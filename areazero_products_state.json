@@ -3676,10 +3676,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-59fifty-wire-negra",
       "price": 54.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "7 1/8"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-59fifty-wire-negra.jpg?width=500",
       "created_at": "2026-10-16T18:37:12+02:00",
       "found_at": "2026-10-16T19:52:59.127989"
@@ -6052,20 +6050,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-verde-cisne-velour-lover-trucker-cap.jpg?width=500",
       "created_at": "2026-10-09T12:44:30+02:00",
       "found_at": "2026-10-13T09:25:46.371587"
-    },
-    "gorra-goorin-bros-negra-gorila-velour-boss-trucker-cap": {
-      "handle": "gorra-goorin-bros-negra-gorila-velour-boss-trucker-cap",
-      "title": "GORRA GOORIN BROS NEGRA GORILA VELOUR BOSS TRUCKER CAP",
-      "brand": "GOORIN BROS",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-goorin-bros-negra-gorila-velour-boss-trucker-cap",
-      "price": 49.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-goorin-bros-negra-gorila-velour-boss-trucker-cap.jpg?width=500",
-      "created_at": "2026-10-09T12:44:24+02:00",
-      "found_at": "2026-10-13T09:25:46.371590"
     },
     "gorra-goorin-bros-granate-unicornio-velour-legend-trucker-cap": {
       "handle": "gorra-goorin-bros-granate-unicornio-velour-legend-trucker-cap",
@@ -10418,7 +10402,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "7 1/8",
         "7 1/2",
         "7 5/8",
         "7 3/4",
@@ -15533,5 +15516,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-12T22:40:19.300029"
+  "last_check": "2026-11-13T15:19:12.207305"
 }
