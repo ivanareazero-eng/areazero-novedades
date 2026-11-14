@@ -579,8 +579,7 @@
         "M",
         "L",
         "XL",
-        "XXL",
-        "3XL"
+        "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-lacoste-negra-printed-croco-ultra-dry-sport-tee.jpg?width=500",
       "created_at": "2026-11-04T14:45:00+01:00",
@@ -8141,10 +8140,8 @@
       "url": "https://areazero.biz/products/mochila-sprayground-negra-black-toon-shark-mini-backpack",
       "price": 75.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/mochila-sprayground-negra-black-toon-shark-mini-backpack.jpg?width=500",
       "created_at": "2026-09-28T15:51:38+02:00",
       "found_at": "2026-10-13T09:25:46.371951"
@@ -15502,5 +15499,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-14T14:05:45.811157"
+  "last_check": "2026-11-14T21:19:34.277746"
 }
