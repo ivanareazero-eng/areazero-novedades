@@ -4576,10 +4576,8 @@
       "url": "https://areazero.biz/products/balaclava-grimey-the-infamous-balaclava",
       "price": 19.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/balaclava-grimey-the-infamous-balaclava.jpg?width=500",
       "created_at": "2026-10-15T19:46:41+02:00",
       "found_at": "2026-11-11T15:06:51.698118"
@@ -15485,5 +15483,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-15T14:42:55.545239"
+  "last_check": "2026-11-15T21:39:19.665343"
 }
