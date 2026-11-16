@@ -578,7 +578,6 @@
         "S",
         "M",
         "L",
-        "XL",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-lacoste-negra-printed-croco-ultra-dry-sport-tee.jpg?width=500",
@@ -3168,8 +3167,7 @@
       "sizes": [
         "S",
         "M",
-        "L",
-        "XL"
+        "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/7.png?width=500",
       "created_at": "2026-10-16T18:48:19+02:00",
@@ -3444,10 +3442,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-new-york-yankees-9forty-pu-weave-negra",
       "price": 34.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-9forty-pu-weave-negra.jpg?width=500",
       "created_at": "2026-10-16T18:40:06+02:00",
       "found_at": "2026-10-16T19:52:59.127892"
@@ -3660,8 +3656,7 @@
       "available": true,
       "sizes": [
         "7 1/8",
-        "7 1/4",
-        "7 3/8"
+        "7 1/4"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-new-york-yankees-59fifty-wire-negra.jpg?width=500",
       "created_at": "2026-10-16T18:37:30+02:00",
@@ -4568,20 +4563,6 @@
       "created_at": "2026-10-15T19:46:49+02:00",
       "found_at": "2026-10-15T20:15:56.001971"
     },
-    "balaclava-grimey-the-infamous-balaclava": {
-      "handle": "balaclava-grimey-the-infamous-balaclava",
-      "title": "BALACLAVA GRIMEY THE INFAMOUS BALACLAVA",
-      "brand": "GRIMEY",
-      "type": "BALACLAVAS",
-      "url": "https://areazero.biz/products/balaclava-grimey-the-infamous-balaclava",
-      "price": 19.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/balaclava-grimey-the-infamous-balaclava.jpg?width=500",
-      "created_at": "2026-10-15T19:46:41+02:00",
-      "found_at": "2026-11-11T15:06:51.698118"
-    },
     "gorra-tical-x-grimey-negra-nueva-york-snapback-cap": {
       "handle": "gorra-tical-x-grimey-negra-nueva-york-snapback-cap",
       "title": "GORRA TICAL X GRIMEY NEGRA NUEVA YORK SNAPBACK CAP",
@@ -4627,7 +4608,6 @@
         "XS",
         "S",
         "M",
-        "L",
         "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/chaqueta-tical-x-grimey-negra-pu-leather-track-jacket.jpg?width=500",
@@ -4645,7 +4625,6 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
         "L",
         "XL"
       ],
@@ -4663,7 +4642,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L",
         "XL"
@@ -7035,8 +7013,7 @@
         "S",
         "M",
         "L",
-        "XL",
-        "XXL"
+        "XL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-grimey-negra-the-infamous-boxy-hoodie-black.jpg?width=500",
       "created_at": "2026-09-30T17:34:14+02:00",
@@ -7969,10 +7946,8 @@
       "url": "https://areazero.biz/products/bolso-lacoste-gris-monogram-the-blend-flap-messenger-bag",
       "price": 169.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/bolso-lacoste-gris-monogram-the-blend-flap-messenger-bag.jpg?width=500",
       "created_at": "2026-09-28T15:54:30+02:00",
       "found_at": "2026-10-13T09:25:46.371924"
@@ -8123,8 +8098,7 @@
         "43",
         "44",
         "45",
-        "46",
-        "47"
+        "46"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/zapatillas-lacoste-blancas-neo-shots-sneakers.jpg?width=500",
       "created_at": "2026-09-28T15:51:48+02:00",
@@ -9959,7 +9933,6 @@
         "XS",
         "S",
         "M",
-        "L",
         "XL",
         "XXL"
       ],
@@ -10068,10 +10041,8 @@
       "url": "https://areazero.biz/products/mochila-sprayground-rosa-pink-new-check-faces-backpack",
       "price": 119.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/mochila-sprayground-rosa-pink-new-check-faces-backpack.jpg?width=500",
       "created_at": "2026-09-17T17:12:31+02:00",
       "found_at": "2026-10-13T09:25:47.895446"
@@ -10875,22 +10846,6 @@
       "created_at": "2026-09-07T20:08:05+02:00",
       "found_at": "2026-10-13T09:25:47.895576"
     },
-    "cinturon-negro-calavera-glitter-skull-buckle": {
-      "handle": "cinturon-negro-calavera-glitter-skull-buckle",
-      "title": "CINTURON NEGRO CALAVERA GLITTER SKULL BUCKLE",
-      "brand": "OVER STREET",
-      "type": "CINTURONES",
-      "url": "https://areazero.biz/products/cinturon-negro-calavera-glitter-skull-buckle",
-      "price": 19.99,
-      "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cinturon-negro-glitter-skull-buckle.jpg?width=500",
-      "created_at": "2026-09-07T20:07:57+02:00",
-      "found_at": "2026-10-13T09:25:47.895578"
-    },
     "cinturon-negro-blanco-cruces-cross-belt": {
       "handle": "cinturon-negro-blanco-cruces-cross-belt",
       "title": "CINTURON NEGRO/BLANCO CRUCES CROSS BELT",
@@ -10949,10 +10904,8 @@
       "url": "https://areazero.biz/products/gorra-capslab-negra-wile-e-coyote-distressed-cap",
       "price": 34.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-capslab-negra-wile-e.-coyote-distressed-cap.jpg?width=500",
       "created_at": "2026-09-07T20:07:05+02:00",
       "found_at": "2026-10-13T09:25:47.895592"
@@ -13483,7 +13436,6 @@
       "compare": 17.99,
       "available": true,
       "sizes": [
-        "XS",
         "S",
         "XL"
       ],
@@ -13847,10 +13799,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "L",
-        "L",
-        "L",
-        "L",
         "XL",
         "XL",
         "XL",
@@ -14054,10 +14002,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-negra-dodgers-wmns-tort-infill-9forty-losdod",
       "price": 27.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-negra-dodgers-wmns-tort-infill-9forty-losdod.jpg?width=500",
       "created_at": "2026-07-10T12:28:33+02:00",
       "found_at": "2026-10-13T09:25:49.522735"
@@ -14166,10 +14112,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-leopardo-yankees-wmns-leopard-cord-9forty-neyyan",
       "price": 31.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-leopardo-yankees-wmns-leopard-cord-9forty-neyyan.jpg?width=500",
       "created_at": "2026-07-10T12:24:38+02:00",
       "found_at": "2026-10-13T09:25:49.522773"
@@ -15483,5 +15427,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-15T21:39:19.665343"
+  "last_check": "2026-11-16T16:57:50.084078"
 }
