@@ -3165,7 +3165,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "M",
         "L"
       ],
@@ -9933,6 +9932,7 @@
         "XS",
         "S",
         "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -10888,8 +10888,7 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
-        "L"
+        "M"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-psd-negro-pantera-night-prowler-standard-lenght-trunk.jpg?width=500",
       "created_at": "2026-09-07T20:07:13+02:00",
@@ -10965,10 +10964,8 @@
       "url": "https://areazero.biz/products/gorra-47-brand-marino-yankees-mvp-trucker-cap",
       "price": 25.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-47-brand-marino-trucker-mvp-logo-marino.jpg?width=500",
       "created_at": "2026-09-07T20:06:28+02:00",
       "found_at": "2026-10-13T09:25:47.895603"
@@ -11410,10 +11407,8 @@
       "url": "https://areazero.biz/products/gorra-von-dutch-marron-corduroy-trucker-cap",
       "price": 34.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-von-dutch-marron-corduroy-trucker-cap.jpg?width=500",
       "created_at": "2026-09-01T13:31:53+02:00",
       "found_at": "2026-10-13T09:25:47.895699"
@@ -13939,7 +13934,7 @@
         "M",
         "M",
         "M",
-        "M",
+        "L",
         "L",
         "L",
         "L",
@@ -13966,7 +13961,7 @@
         "L",
         "L",
         "L",
-        "L",
+        "XL",
         "XL",
         "XL",
         "XL",
@@ -15426,5 +15421,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-17T00:44:11.805117"
+  "last_check": "2026-11-17T16:51:39.608468"
 }
