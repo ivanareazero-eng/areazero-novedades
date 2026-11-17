@@ -2712,10 +2712,8 @@
       "url": "https://areazero.biz/products/gorra-new-era-los-angeles-dodgers-team-outline-eframe-marron",
       "price": 30.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-los-angeles-dodgers-team-outline-eframe-marron.jpg?width=500",
       "created_at": "2026-10-22T15:24:55+02:00",
       "found_at": "2026-10-22T20:29:17.185917"
@@ -15298,8 +15296,7 @@
       "available": true,
       "sizes": [
         "XS",
-        "S",
-        "L"
+        "S"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/camiseta-new-era-blanca-miami-dolphins-nos-nfl-regular-tee-miadol.jpg?width=500",
       "created_at": "2026-07-03T01:45:54+02:00",
@@ -15421,5 +15418,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-17T16:51:39.608468"
+  "last_check": "2026-11-17T23:49:07.097206"
 }
