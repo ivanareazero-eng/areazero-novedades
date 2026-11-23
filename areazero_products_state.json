@@ -1537,10 +1537,8 @@
       "url": "https://areazero.biz/products/gorra-nike-marron-new-york-yankees-rise-structured-a-frame-cap",
       "price": 34.99,
       "compare": 0,
-      "available": true,
-      "sizes": [
-        "TU"
-      ],
+      "available": false,
+      "sizes": [],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-nike-marron-new-york-yankees-rise-structured-a-frame-cap.jpg?width=500",
       "created_at": "2026-10-29T15:02:35+01:00",
       "found_at": "2026-10-29T21:44:10.369860"
@@ -3306,20 +3304,6 @@
       "created_at": "2026-10-16T18:41:54+02:00",
       "found_at": "2026-10-16T19:52:59.127837"
     },
-    "gorra-new-era-chicago-bulls-9forty-team-outline-negra": {
-      "handle": "gorra-new-era-chicago-bulls-9forty-team-outline-negra",
-      "title": "GORRA NEW ERA CHICAGO BULLS 9FORTY TEAM OUTLINE NEGRA",
-      "brand": "NEW ERA",
-      "type": "GORRAS",
-      "url": "https://areazero.biz/products/gorra-new-era-chicago-bulls-9forty-team-outline-negra",
-      "price": 25.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/gorra-new-era-chicago-bulls-9forty-team-outline-negra.jpg?width=500",
-      "created_at": "2026-10-16T18:41:43+02:00",
-      "found_at": "2026-10-16T19:52:59.127842"
-    },
     "gorra-new-era-new-york-yankees-9forty-mcrown-wmns-fabric-mix-cruda": {
       "handle": "gorra-new-era-new-york-yankees-9forty-mcrown-wmns-fabric-mix-cruda",
       "title": "GORRA NEW ERA NEW YORK YANKEES 9FORTY M CROWN WMNS FABRIC MIX CRUDA",
@@ -4017,7 +4001,9 @@
       "sizes": [
         "L",
         "XL",
-        "XXL"
+        "XXL",
+        "S",
+        "M"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-negro-brooklin-brushed-script-jogger-pant.jpg?width=500",
       "created_at": "2026-10-16T18:29:36+02:00",
@@ -4535,7 +4521,6 @@
       "available": true,
       "sizes": [
         "XS",
-        "S",
         "M",
         "L",
         "XL",
@@ -7054,20 +7039,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-grimey-negro-odd-cutlass-snap-sweatpant-black.jpg?width=500",
       "created_at": "2026-09-30T17:34:39+02:00",
       "found_at": "2026-10-13T09:25:46.371766"
-    },
-    "pantalon-grimey-negro-the-infamous-baggy-sweatpants-black": {
-      "handle": "pantalon-grimey-negro-the-infamous-baggy-sweatpants-black",
-      "title": "PANTALON GRIMEY NEGRO THE INFAMOUS BAGGY SWEATPANTS",
-      "brand": "GRIMEY",
-      "type": "PANTALONES",
-      "url": "https://areazero.biz/products/pantalon-grimey-negro-the-infamous-baggy-sweatpants-black",
-      "price": 89.99,
-      "compare": 0,
-      "available": false,
-      "sizes": [],
-      "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/pantalon-grimey-negro-the-infamous-baggy-sweatpants-black.jpg?width=500",
-      "created_at": "2026-09-30T17:34:30+02:00",
-      "found_at": "2026-10-13T09:25:46.371769"
     },
     "sudadera-grimey-negra-the-infamous-boxy-hoodie-black": {
       "handle": "sudadera-grimey-negra-the-infamous-boxy-hoodie-black",
@@ -9887,6 +9858,9 @@
       "available": true,
       "sizes": [
         "XS",
+        "S",
+        "M",
+        "L",
         "XL",
         "XXL"
       ],
@@ -9904,6 +9878,7 @@
       "compare": 69.99,
       "available": true,
       "sizes": [
+        "XS",
         "S",
         "M",
         "L",
@@ -9945,6 +9920,7 @@
       "available": true,
       "sizes": [
         "XS",
+        "S",
         "M",
         "L",
         "XL"
@@ -9965,6 +9941,7 @@
       "sizes": [
         "XS",
         "S",
+        "M",
         "L",
         "XL"
       ],
@@ -15527,5 +15504,5 @@
       "found_at": "2026-10-13T09:25:49.523017"
     }
   },
-  "last_check": "2026-11-22T22:23:44.103269"
+  "last_check": "2026-11-23T19:11:55.508451"
 }
