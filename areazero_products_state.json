@@ -468,7 +468,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "L",
         "XL",
         "XXL"
@@ -6109,7 +6108,6 @@
         "S",
         "M",
         "L",
-        "XL",
         "XXL"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/sudadera-tical-x-grimey-regular-hoodie-black-yellow.jpg?width=500",
@@ -8687,7 +8685,6 @@
       "compare": 0,
       "available": true,
       "sizes": [
-        "S",
         "XL",
         "XXL"
       ],
@@ -8760,8 +8757,7 @@
       "sizes": [
         "S",
         "M",
-        "L",
-        "XL"
+        "L"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/cazadora-blanca-brooklin-23-faux-fur-jacket.jpg?width=500",
       "created_at": "2026-09-30T15:06:22+02:00",
@@ -9411,7 +9407,6 @@
       "available": true,
       "sizes": [
         "XS",
-        "S",
         "M",
         "L",
         "XXL",
@@ -12450,8 +12445,7 @@
       "available": true,
       "sizes": [
         "S",
-        "M",
-        "L"
+        "M"
       ],
       "image_url": "https://cdn.shopify.com/s/files/1/0906/8311/3818/files/boxer-psd-negro-pantera-night-prowler-standard-lenght-trunk.jpg?width=500",
       "created_at": "2026-09-07T20:07:13+02:00",
@@ -17184,5 +17178,5 @@
       "found_at": "2026-11-27T00:59:41.413045"
     }
   },
-  "last_check": "2026-11-27T17:25:28.174451"
+  "last_check": "2026-11-28T00:27:19.489259"
 }
